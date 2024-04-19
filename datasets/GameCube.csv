@@ -1,0 +1,557 @@
+,Name,Platform,Year_of_Release,Genre,NA_sales,EU_sales,JP_sales,Other_sales,Critic_Score,User_Score,Rating
+111,Super Smash Bros. Melee,GC,2001.0,Fighting,4.41,1.04,1.39,0.22,92.0,9.1,T
+112,Mario Kart: Double Dash!!,GC,2003.0,Racing,4.12,1.77,0.87,0.19,,,
+136,Super Mario Sunshine,GC,2002.0,Platform,4.01,1.26,0.87,0.17,92.0,8.6,E
+233,The Legend of Zelda: The Wind Waker,GC,2002.0,Action,2.6,0.99,0.89,0.13,96.0,8.9,E
+356,Luigi's Mansion,GC,2001.0,Action,2.38,0.67,0.46,0.1,78.0,8.5,E
+435,Animal Crossing,GC,2001.0,Simulation,1.92,0.16,0.99,0.09,87.0,8.9,E
+517,Metroid Prime,GC,2002.0,Shooter,1.96,0.67,0.1,0.09,97.0,9.3,T
+601,Sonic Adventure 2 Battle,GC,2001.0,Platform,1.7,0.59,0.21,0.07,73.0,8.3,E
+606,Pokémon Colosseum,GC,2003.0,Role-Playing,1.21,0.57,0.7,0.07,73.0,8,E
+625,Mario Party 4,GC,2002.0,Misc,1.13,0.36,0.92,0.07,70.0,7.4,E
+712,Paper Mario: The Thousand-Year Door,GC,2004.0,Role-Playing,1.48,0.25,0.46,0.06,87.0,9.4,E
+804,Mario Party 5,GC,2003.0,Misc,0.97,0.33,0.73,0.06,69.0,8.2,E
+827,Sonic Mega Collection,GC,2002.0,Misc,1.47,0.48,0.05,0.06,75.0,8.8,E
+909,Star Wars Rogue Leader: Rogue Squadron II,GC,2001.0,Simulation,1.03,0.75,0.03,0.09,90.0,8.6,T
+925,Star Fox Adventures,GC,2002.0,Adventure,0.96,0.53,0.3,0.09,82.0,7.7,T
+1068,Resident Evil 4,GC,2005.0,Action,0.98,0.42,0.22,0.06,96.0,9.4,M
+1110,Mario Party 6,GC,2004.0,Misc,0.9,0.11,0.6,0.05,71.0,7.9,E
+1128,Pikmin,GC,2001.0,Strategy,0.78,0.25,0.56,0.04,89.0,8.7,E
+1138,Kirby Air Ride,GC,2003.0,Racing,1.01,0.11,0.45,0.04,61.0,7.9,E
+1147,Super Mario Strikers,GC,2005.0,Sports,0.98,0.38,0.2,0.04,76.0,8.7,E
+1157,Sonic Heroes,GC,2003.0,Platform,1.05,0.44,0.06,0.04,72.0,7.8,E
+1162,The Legend of Zelda: Twilight Princess,GC,2006.0,Action,1.15,0.36,0.04,0.04,96.0,9.2,T
+1185,Mario Party 7,GC,2005.0,Misc,0.95,0.11,0.46,0.04,64.0,7.9,E
+1225,Mario Golf: Toadstool Tour,GC,2003.0,Sports,1.09,0.15,0.25,0.04,81.0,8,E
+1239,Super Monkey Ball 2,GC,2002.0,Puzzle,1.11,0.31,0.06,0.04,87.0,8.5,E
+1254,SoulCalibur II,GC,2003.0,Fighting,0.99,0.32,0.11,0.08,93.0,9.1,T
+1267,Final Fantasy: Crystal Chronicles,GC,2003.0,Role-Playing,0.72,0.38,0.36,0.04,80.0,8.1,T
+1303,Super Monkey Ball,GC,2001.0,Puzzle,0.95,0.37,0.1,0.04,87.0,7.9,E
+1308,Mario Superstar Baseball,GC,2005.0,Sports,0.93,0.24,0.25,0.04,76.0,8.6,E
+1359,Resident Evil (Remake),GC,2002.0,Action,0.63,0.38,0.35,0.05,,,
+1363,LEGO Star Wars: The Video Game,GC,2005.0,Action,1.09,0.28,0.0,0.04,,,
+1458,Donkey Kong Jungle Beat,GC,2004.0,Platform,0.84,0.22,0.24,0.04,80.0,8.3,E10+
+1474,Metroid Prime 2: Echoes,GC,2004.0,Shooter,0.87,0.35,0.07,0.04,92.0,8.8,T
+1521,Resident Evil Zero,GC,2002.0,Action,0.54,0.27,0.45,0.04,,,
+1565,Sonic Adventure DX: Director's Cut,GC,2003.0,Platform,0.87,0.3,0.06,0.03,57.0,7.9,E
+1592,Pokemon XD: Gale of Darkness,GC,2005.0,Role-Playing,0.71,0.19,0.31,0.03,64.0,8.3,E
+1637,Mario Power Tennis,GC,2004.0,Sports,0.58,0.16,0.46,0.03,80.0,8.5,E
+1663,Need for Speed Underground,GC,2003.0,Racing,0.69,0.48,0.01,0.03,83.0,9,E
+1678,Pikmin 2,GC,2004.0,Strategy,0.48,0.13,0.56,0.03,90.0,9.1,E
+1702,Spider-Man: The Movie,GC,2002.0,Action,0.86,0.27,0.01,0.04,76.0,7.3,E
+1771,Donkey Konga,GC,2003.0,Misc,0.5,0.16,0.46,0.03,76.0,8.3,E
+1800,Need for Speed Underground 2,GC,2004.0,Racing,0.7,0.39,0.01,0.03,,,
+1865,Tales of Symphonia,GC,2003.0,Role-Playing,0.54,0.21,0.31,0.04,86.0,8.5,T
+1910,Star Fox: Assault,GC,2005.0,Shooter,0.68,0.18,0.19,0.03,67.0,8.1,T
+1990,Naruto: Clash of Ninja 2,GC,2003.0,Fighting,0.44,0.12,0.45,0.03,74.0,8.9,T
+2023,Shrek 2,GC,2004.0,Platform,0.73,0.26,0.01,0.03,70.0,6.4,E
+2079,The Simpsons: Hit & Run,GC,2003.0,Racing,0.77,0.2,0.0,0.03,,,
+2087,Shadow The Hedgehog,GC,2005.0,Platform,0.76,0.2,0.0,0.03,51.0,6.6,E10+
+2133,LEGO Star Wars II: The Original Trilogy,GC,2006.0,Action,0.75,0.19,0.0,0.03,84.0,9.1,E10+
+2162,SpongeBob SquarePants: Battle for Bikini Bottom,GC,2003.0,Platform,0.74,0.19,0.0,0.03,71.0,8.6,E
+2187,The SpongeBob SquarePants Movie,GC,2004.0,Platform,0.73,0.19,0.0,0.03,73.0,7.8,E
+2227,Cars,GC,2006.0,Racing,0.72,0.19,0.0,0.03,71.0,7,E
+2259,Sonic Riders,GC,2006.0,Racing,0.71,0.18,0.0,0.03,59.0,8,E
+2334,Finding Nemo,GC,2003.0,Action,0.69,0.18,0.0,0.02,62.0,5.5,E
+2452,Spider-Man 2,GC,2004.0,Action,0.65,0.17,0.0,0.02,80.0,8.8,T
+2456,The Incredibles,GC,2004.0,Action,0.65,0.17,0.0,0.02,63.0,7.1,T
+2504,Tony Hawk's Pro Skater 3,GC,2001.0,Sports,0.64,0.17,0.0,0.02,91.0,9,T
+2532,The Legend of Zelda: Four Swords Adventures,GC,2004.0,Action,0.63,0.16,0.0,0.02,86.0,7.2,E
+2557,Star Wars Rogue Squadron III: Rebel Strike,GC,2003.0,Simulation,0.62,0.16,0.0,0.02,75.0,7.6,T
+2571,Need for Speed: Hot Pursuit 2,GC,2002.0,Racing,0.68,0.09,0.0,0.02,68.0,8.3,E
+2584,Harvest Moon: A Wonderful Life,GC,2003.0,Role-Playing,0.61,0.16,0.0,0.02,79.0,8.9,E
+2635,James Bond 007: Nightfire,GC,2002.0,Shooter,0.6,0.16,0.0,0.02,80.0,8.6,T
+2818,James Bond 007: Agent Under Fire,GC,2002.0,Shooter,0.56,0.15,0.0,0.02,74.0,6.8,T
+2872,Godzilla: Destroy All Monsters Melee,GC,2002.0,Fighting,0.55,0.14,0.0,0.02,73.0,7.8,T
+2876,Yu-Gi-Oh! The Falsebound Kingdom,GC,2002.0,Strategy,0.49,0.13,0.07,0.02,,,
+2877,Spyro: Enter the Dragonfly,GC,2002.0,Platform,0.55,0.14,0.0,0.02,48.0,5.1,E
+2886,"WarioWare, Inc.: Mega Party Game$",GC,2003.0,Puzzle,0.2,0.05,0.44,0.02,,,
+2898,Tony Hawk's Underground,GC,2003.0,Sports,0.54,0.14,0.0,0.02,89.0,8.5,T
+2908,Madden NFL 2005,GC,2004.0,Sports,0.54,0.14,0.0,0.02,90.0,tbd,E
+2952,Dragon Ball Z: Budokai,GC,2003.0,Fighting,0.53,0.14,0.0,0.02,65.0,6.3,T
+2958,Harry Potter and the Chamber of Secrets,GC,2002.0,Action,0.53,0.14,0.0,0.02,77.0,8.3,E
+2961,The Lord of the Rings: The Return of the King,GC,2003.0,Action,0.53,0.14,0.0,0.02,84.0,8.5,T
+2979,Naruto: Clash of Ninja,GC,2003.0,Fighting,0.53,0.14,0.0,0.02,72.0,8.1,T
+3050,Madagascar,GC,2005.0,Platform,0.52,0.13,0.0,0.02,70.0,tbd,E10+
+3066,The Sims: Bustin' Out,GC,2003.0,Simulation,0.43,0.2,0.0,0.03,81.0,9,T
+3094,F-Zero GX,GC,2003.0,Racing,0.41,0.11,0.12,0.02,89.0,8.5,T
+3215,Namco Museum,GC,2002.0,Misc,0.48,0.13,0.0,0.02,62.0,tbd,E
+3229,Madden NFL 07,GC,2006.0,Sports,0.48,0.13,0.0,0.02,82.0,9.2,E
+3240,Viewtiful Joe,GC,2003.0,Action,0.38,0.1,0.12,0.02,93.0,8.3,T
+3253,Pac-Man Player's Choice Bundle,GC,2003.0,Misc,0.48,0.12,0.0,0.02,,,
+3314,Madden NFL 2002,GC,2001.0,Sports,0.47,0.12,0.0,0.02,89.0,tbd,E
+3327,Wave Race: Blue Storm,GC,2001.0,Racing,0.4,0.1,0.09,0.02,80.0,8.3,E
+3387,Medal of Honor: Frontline,GC,2002.0,Shooter,0.46,0.12,0.0,0.02,80.0,7.9,T
+3397,Crash Bandicoot: The Wrath of Cortex,GC,2002.0,Platform,0.46,0.12,0.0,0.02,62.0,7.3,E
+3477,Tony Hawk's Pro Skater 4,GC,2002.0,Sports,0.45,0.12,0.0,0.02,91.0,8.6,T
+3506,Madden NFL 06,GC,2005.0,Sports,0.44,0.11,0.0,0.02,86.0,8.5,E
+3551,True Crime: Streets of LA,GC,2003.0,Action,0.44,0.11,0.0,0.02,77.0,7.3,M
+3581,Need for Speed: Most Wanted,GC,2005.0,Racing,0.43,0.11,0.0,0.02,80.0,9.1,T
+3715,Fire Emblem: Path of Radiance,GC,2005.0,Action,0.29,0.08,0.16,0.01,85.0,8.9,T
+3721,SSX Tricky,GC,2001.0,Sports,0.42,0.11,0.0,0.01,87.0,8.6,E
+3739,NBA Street Vol. 2,GC,,Sports,0.41,0.11,0.0,0.01,88.0,8.1,E
+3787,X-Men Legends,GC,2004.0,Role-Playing,0.41,0.11,0.0,0.01,81.0,8.5,T
+3802,The Lord of the Rings: The Two Towers,GC,2002.0,Action,0.41,0.11,0.0,0.01,82.0,8.7,T
+3889,Madden NFL 2004,GC,2003.0,Sports,0.4,0.1,0.0,0.01,94.0,7.7,E
+3949,Avatar: The Last Airbender,GC,2006.0,Adventure,0.39,0.1,0.0,0.01,60.0,6.5,E10+
+3990,Tony Hawk's Underground 2,GC,2004.0,Sports,0.38,0.1,0.0,0.01,82.0,8.9,T
+4026,WWE Wrestlemania X8,GC,2002.0,Fighting,0.38,0.1,0.0,0.01,64.0,6.9,T
+4032,The Sims,GC,2003.0,Simulation,0.35,0.13,0.0,0.01,85.0,7.7,T
+4058,Crazy Taxi,GC,2001.0,Racing,0.36,0.09,0.02,0.01,69.0,7.5,T
+4203,Dance Dance Revolution: Mario Mix,GC,2005.0,Misc,0.36,0.09,0.0,0.01,69.0,8.4,E
+4204,Metal Gear Solid: The Twin Snakes,GC,2004.0,Action,0.3,0.08,0.07,0.01,85.0,9,M
+4282,Enter the Matrix,GC,2003.0,Action,0.34,0.09,0.02,0.01,63.0,8,T
+4288,Phantasy Star Online Episode I & II,GC,2002.0,Role-Playing,0.23,0.06,0.16,0.01,,,
+4350,NBA Live 2005,GC,2004.0,Sports,0.35,0.09,0.0,0.01,83.0,6.7,E
+4353,WWE Day of Reckoning,GC,2004.0,Fighting,0.35,0.09,0.0,0.01,79.0,9.1,T
+4422,"SpongeBob SquarePants: Lights, Camera, Pants!",GC,2005.0,Misc,0.34,0.09,0.0,0.01,,,
+4432,Naruto: Gekito Ninja Taisen! 3,GC,2004.0,Fighting,0.0,0.0,0.43,0.01,,,
+4434,Wario World,GC,2003.0,Platform,0.34,0.09,0.0,0.01,71.0,7.2,E
+4443,TimeSplitters 2,GC,2002.0,Shooter,0.34,0.09,0.0,0.01,88.0,9,T
+4446,Eternal Darkness: Sanity's Requiem,GC,2002.0,Adventure,0.34,0.09,0.0,0.01,92.0,8.7,M
+4535,Madden NFL 2003,GC,2002.0,Sports,0.33,0.09,0.0,0.01,92.0,8.5,E
+4548,NBA Street,GC,2002.0,Sports,0.33,0.09,0.0,0.01,88.0,8.6,E
+4557,Medal of Honor: Rising Sun,GC,2003.0,Shooter,0.33,0.09,0.0,0.01,68.0,6.4,T
+4564,Tony Hawk's American Wasteland,GC,2005.0,Sports,0.33,0.08,0.0,0.01,76.0,7.7,T
+4607,James Bond 007: Everything or Nothing,GC,2004.0,Shooter,0.32,0.08,0.0,0.01,84.0,8.2,T
+4612,Mega Man Anniversary Collection,GC,2004.0,Platform,0.32,0.08,0.0,0.01,81.0,8.8,E
+4620,Harry Potter and the Goblet of Fire,GC,2005.0,Action,0.32,0.08,0.0,0.01,69.0,6.3,E10+
+4626,Kumamon Bomber: Puzzle de Kumamon Taisou,GC,2005.0,Puzzle,0.32,0.08,0.0,0.01,,,
+4723,Mortal Kombat: Deadly Alliance,GC,2002.0,Fighting,0.31,0.08,0.0,0.01,81.0,8.7,M
+4762,Tak and the Power of Juju,GC,2003.0,Platform,0.31,0.08,0.0,0.01,71.0,8.2,E
+4780,Harry Potter: Quidditch World Cup,GC,2003.0,Sports,0.31,0.08,0.0,0.01,68.0,8.5,E
+4788,Battalion Wars,GC,2005.0,Strategy,0.25,0.07,0.07,0.01,76.0,8.8,T
+4790,Power Rangers: Dino Thunder,GC,2004.0,Action,0.31,0.08,0.0,0.01,49.0,tbd,E
+4822,Rampage: Total Destruction,GC,2006.0,Action,0.31,0.08,0.0,0.01,57.0,6.7,E10+
+4824,The Urbz: Sims in the City,GC,2004.0,Simulation,0.24,0.14,0.0,0.02,73.0,8.4,T
+4837,Star Wars: Clone Wars,GC,2002.0,Shooter,0.31,0.08,0.0,0.01,,,
+4850,Call of Duty: Finest Hour,GC,2004.0,Shooter,0.31,0.08,0.0,0.01,74.0,8.9,T
+4896,Donkey Konga 2,GC,2004.0,Misc,0.3,0.08,0.0,0.01,69.0,6,T
+4914,Chibi-Robo! Plug into Adventure!,GC,2005.0,Adventure,0.23,0.06,0.09,0.01,,,
+4978,Turok: Evolution,GC,2002.0,Shooter,0.3,0.08,0.0,0.01,70.0,7,M
+4991,Marvel Nemesis: Rise of the Imperfects,GC,2005.0,Fighting,0.3,0.08,0.0,0.01,54.0,5.7,T
+5001,SSX 3,GC,2003.0,Sports,0.29,0.08,0.0,0.01,92.0,8.7,E
+5031,Pokemon Channel,GC,2003.0,Adventure,0.24,0.06,0.07,0.01,55.0,6,E
+5059,Harry Potter and the Prisoner of Azkaban,GC,2004.0,Action,0.29,0.08,0.0,0.01,67.0,7.3,E
+5077,Ultimate Spider-Man,GC,2005.0,Action,0.29,0.07,0.0,0.01,76.0,7.2,T
+5087,"Monsters, Inc. Scream Arena",GC,2002.0,Platform,0.29,0.07,0.0,0.01,39.0,4.7,E
+5112,Custom Robo,GC,2004.0,Role-Playing,0.29,0.07,0.0,0.01,65.0,8.1,T
+5117,Pac-Man World 2,GC,2002.0,Action,0.28,0.07,0.0,0.01,74.0,8.3,E
+5158,GoldenEye: Rogue Agent,GC,2004.0,Shooter,0.28,0.07,0.0,0.01,60.0,6.7,T
+5254,Nicktoons: Unite!,GC,2005.0,Adventure,0.27,0.07,0.0,0.01,,,
+5298,Need for Speed Carbon,GC,2006.0,Racing,0.27,0.07,0.0,0.01,75.0,7.8,E10+
+5323,NFL Street,GC,2004.0,Sports,0.27,0.07,0.0,0.01,81.0,8,E
+5335,Over the Hedge,GC,2006.0,Platform,0.27,0.07,0.0,0.01,61.0,9.3,E10+
+5382,WWE Day of Reckoning 2,GC,2005.0,Fighting,0.26,0.07,0.0,0.01,76.0,6,T
+5414,Teenage Mutant Ninja Turtles,GC,2003.0,Action,0.26,0.07,0.0,0.01,57.0,8,E
+5456,WWE Wrestlemania XIX,GC,2003.0,Fighting,0.26,0.07,0.0,0.01,76.0,8.7,T
+5457,The Sims 2,GC,2005.0,Simulation,0.26,0.07,0.0,0.01,73.0,8.3,T
+5466,Tak 2: The Staff of Dreams,GC,2004.0,Platform,0.26,0.07,0.0,0.01,75.0,8.6,E
+5501,Call Of Duty 2: Big Red One,GC,2005.0,Shooter,0.25,0.07,0.0,0.01,76.0,7.9,T
+5509,SpongeBob SquarePants: Creature from the Krusty Krab,GC,2006.0,Platform,0.25,0.07,0.0,0.01,74.0,7.7,E
+5518,Naruto: Gekito Ninja Taisen! 4,GC,2005.0,Fighting,0.0,0.0,0.32,0.01,,,
+5521,MVP Baseball 2005,GC,2005.0,Sports,0.25,0.07,0.0,0.01,88.0,8.7,E
+5530,Teen Titans,GC,2006.0,Action,0.25,0.07,0.0,0.01,63.0,6.9,E10+
+5535,NBA Live 06,GC,2005.0,Sports,0.25,0.07,0.0,0.01,76.0,tbd,E
+5602,Prince of Persia: The Sands of Time,GC,2003.0,Action,0.25,0.06,0.0,0.01,92.0,8.4,T
+5787,NASCAR Thunder 2003,GC,2002.0,Racing,0.24,0.06,0.0,0.01,85.0,6.6,E
+5842,Burnout,GC,2002.0,Racing,0.23,0.06,0.0,0.01,78.0,7.9,E
+5889,NBA Live 2003,GC,,Sports,0.23,0.06,0.0,0.01,82.0,8.2,E
+5919,Shark Tale,GC,2004.0,Action,0.23,0.06,0.0,0.01,69.0,tbd,E
+5931,Scooby-Doo! Night of 100 Frights,GC,2002.0,Platform,0.23,0.06,0.0,0.01,,,
+5958,NBA Street V3,GC,2005.0,Sports,0.23,0.06,0.0,0.01,88.0,8.4,E
+5982,From TV Animation One Piece: Treasure Battle!,GC,2002.0,Fighting,0.0,0.0,0.28,0.01,,,
+6016,The Lord of the Rings: The Third Age,GC,2004.0,Role-Playing,0.22,0.06,0.0,0.01,74.0,7.8,T
+6019,Nicktoons: Battle for Volcano Island,GC,,Action,0.22,0.06,0.0,0.01,,7,E
+6074,Spyro: A Hero's Tail,GC,2004.0,Platform,0.22,0.06,0.0,0.01,62.0,8.3,E
+6109,ATV Quad Power Racing 2,GC,2003.0,Racing,0.22,0.06,0.0,0.01,70.0,9,E
+6180,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GC,,Action,0.22,0.06,0.0,0.01,71.0,tbd,T
+6189,The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,GC,2004.0,Action,0.22,0.06,0.0,0.01,65.0,tbd,E
+6199,Pac-Man Fever,GC,,Misc,0.21,0.06,0.0,0.01,54.0,6.3,E
+6222,Pokemon Box: Ruby & Sapphire,GC,2003.0,Misc,0.0,0.0,0.27,0.01,,,
+6224,Dave Mirra Freestyle BMX 2,GC,2001.0,Sports,0.21,0.06,0.0,0.01,78.0,7.7,T
+6254,Dragon Ball Z: Budokai 2,GC,2004.0,Fighting,0.21,0.06,0.0,0.01,66.0,5.8,T
+6289,Baten Kaitos: Eternal Wings and the Lost Ocean,GC,2003.0,Role-Playing,0.21,0.05,0.0,0.01,80.0,9,T
+6312,Disney's Chicken Little,GC,2005.0,Platform,0.21,0.05,0.0,0.01,67.0,tbd,E10+
+6315,Ty the Tasmanian Tiger,GC,2002.0,Platform,0.21,0.05,0.0,0.01,69.0,8.7,E
+6359,NBA Live 2004,GC,2003.0,Sports,0.21,0.05,0.0,0.01,84.0,9,E
+6375,The Sims 2: Pets,GC,2006.0,Simulation,0.21,0.05,0.0,0.01,66.0,7.3,T
+6475,Star Wars: Bounty Hunter,GC,2002.0,Shooter,0.2,0.05,0.0,0.01,67.0,7.6,T
+6513,Batman: Vengeance,GC,2001.0,Adventure,0.2,0.05,0.0,0.01,70.0,5.8,T
+6523,Crash Nitro Kart,GC,2003.0,Racing,0.2,0.05,0.0,0.01,66.0,7.4,E
+6548,Lemony Snicket's A Series of Unfortunate Events,GC,2004.0,Platform,0.2,0.05,0.0,0.01,,,
+6564,Backyard NFL Football,GC,2002.0,Sports,0.2,0.05,0.0,0.01,,,
+6579,MVP Baseball 2004,GC,2004.0,Sports,0.2,0.05,0.0,0.01,89.0,8.5,E
+6594,Bomberman Generation,GC,2002.0,Adventure,0.15,0.04,0.06,0.01,81.0,8.5,E
+6608,Happy Feet,GC,2006.0,Action,0.2,0.05,0.0,0.01,,8.6,E
+6644,Medal of Honor European Assault,GC,2005.0,Shooter,0.19,0.05,0.0,0.01,71.0,7.9,T
+6645,Billy Hatcher and the Giant Egg,GC,2003.0,Platform,0.19,0.05,0.0,0.01,71.0,8.7,E
+6684,Def Jam Vendetta,GC,2003.0,Fighting,0.19,0.05,0.0,0.01,81.0,8.5,T
+6724,"Ed, Edd n Eddy: The Mis-Edventures",GC,2005.0,Platform,0.19,0.05,0.0,0.01,55.0,7.9,E
+6737,Nickelodeon Party Blast,GC,2002.0,Misc,0.19,0.05,0.0,0.01,,tbd,E
+6746,X-Men Legends II: Rise of Apocalypse,GC,2005.0,Role-Playing,0.19,0.05,0.0,0.01,82.0,6.2,T
+6757,NBA Courtside 2002,GC,2002.0,Sports,0.19,0.05,0.0,0.01,71.0,7.4,E
+6802,Harvest Moon: Magical Melody,GC,2005.0,Simulation,0.19,0.05,0.0,0.01,83.0,8.9,E
+6820,Peter Jackson's King Kong: The Official Game of the Movie,GC,2005.0,Action,0.19,0.05,0.0,0.01,81.0,8.3,T
+6824,The Simpsons: Road Rage,GC,2001.0,Racing,0.19,0.05,0.0,0.01,67.0,7.7,T
+6842,Harvest Moon: Another Wonderful Life,GC,2004.0,Role-Playing,0.19,0.05,0.0,0.01,70.0,9.2,E
+6858,Fantastic 4,GC,2005.0,Action,0.19,0.05,0.0,0.01,61.0,4,T
+6984,Star Wars Jedi Knight II: Jedi Outcast,GC,2002.0,Shooter,0.18,0.05,0.0,0.01,75.0,7.8,T
+6985,Tom Clancy's Splinter Cell,GC,2003.0,Action,0.18,0.05,0.0,0.01,89.0,8.7,T
+6997,Rocket Power: Beach Bandits,GC,2002.0,Platform,0.18,0.05,0.0,0.01,53.0,tbd,E
+7076,Tiger Woods PGA Tour 2003,GC,2002.0,Sports,0.18,0.05,0.0,0.01,90.0,8,E
+7125,Def Jam: Fight for NY,GC,2004.0,Fighting,0.17,0.05,0.0,0.01,,,
+7132,Mary-Kate and Ashley: Sweet 16 - Licenced to Drive,GC,2003.0,Misc,0.17,0.04,0.0,0.01,,,
+7150,Skies of Arcadia Legends,GC,2002.0,Role-Playing,0.17,0.04,0.0,0.01,84.0,9.2,T
+7160,NCAA Football 2005,GC,2004.0,Sports,0.17,0.04,0.0,0.01,88.0,9,E
+7199,Tetris Worlds,GC,2002.0,Puzzle,0.17,0.04,0.0,0.01,47.0,5.6,E
+7207,Viewtiful Joe 2,GC,2004.0,Action,0.17,0.04,0.0,0.01,86.0,8.3,T
+7228,All-Star Baseball 2002,GC,2001.0,Sports,0.17,0.04,0.0,0.01,66.0,5.6,E
+7236,From Russia With Love,GC,2005.0,Action,0.17,0.04,0.0,0.01,70.0,8.5,T
+7266,NFL 2K3,GC,2002.0,Sports,0.17,0.04,0.0,0.01,92.0,8.3,E
+7275,Scooby-Doo! Mystery Mayhem,GC,2004.0,Action,0.17,0.04,0.0,0.01,,,
+7281,Shrek SuperSlam,GC,2005.0,Action,0.17,0.04,0.0,0.01,70.0,7.8,E10+
+7304,Namco Museum: 50th Anniversary,GC,2005.0,Misc,0.17,0.04,0.0,0.01,60.0,tbd,E10+
+7320,Bratz: Forever Diamondz,GC,2006.0,Adventure,0.17,0.04,0.0,0.01,,tbd,E
+7363,Naruto: Clash of Ninja (JP sales),GC,2003.0,Fighting,0.0,0.0,0.21,0.01,,,
+7382,The Fairly OddParents: Breakin' Da Rules,GC,2003.0,Platform,0.16,0.04,0.0,0.01,,,
+7413,Bionicle,GC,2003.0,Action,0.16,0.04,0.0,0.01,47.0,4.2,E
+7440,NHL Hitz 20-02,GC,2001.0,Sports,0.16,0.04,0.0,0.01,79.0,8.7,E
+7442,NCAA Football 2003,GC,2002.0,Sports,0.16,0.04,0.0,0.01,91.0,8.1,E
+7485,BeyBlade VForce: Super Tournament Battle,GC,2002.0,Action,0.16,0.04,0.0,0.01,33.0,7.5,E
+7492,Dragon Ball Z: Sagas,GC,2005.0,Fighting,0.16,0.04,0.0,0.01,48.0,6.6,T
+7537,Bratz: Rock Angelz,GC,2005.0,Misc,0.16,0.04,0.0,0.01,,tbd,E
+7545,From TV Animation One Piece: Grand Battle! 3,GC,2003.0,Fighting,0.0,0.0,0.2,0.01,,,
+7557,The Fairly Odd Parents: Shadow Showdown,GC,2004.0,Platform,0.16,0.04,0.0,0.01,,,
+7569,Spy Hunter,GC,2002.0,Racing,0.16,0.04,0.0,0.01,71.0,tbd,T
+7588,Ty the Tasmanian Tiger 2: Bush Rescue,GC,2004.0,Platform,0.15,0.04,0.0,0.01,70.0,8.6,E
+7646,NFL Street 2,GC,2004.0,Sports,0.15,0.04,0.0,0.01,77.0,tbd,E
+7656,SpongeBob SquarePants: Revenge of the Flying Dutchman,GC,2002.0,Platform,0.15,0.04,0.0,0.01,66.0,8.3,E
+7684,MC Groovz Dance Craze,GC,2004.0,Misc,0.15,0.04,0.0,0.01,42.0,6.8,E
+7693,Prince of Persia: Warrior Within,GC,2004.0,Action,0.15,0.04,0.0,0.01,83.0,8.6,M
+7737,Ice Age 2: The Meltdown,GC,2006.0,Platform,0.15,0.04,0.0,0.01,67.0,tbd,E10+
+7774,Disney's Magical Mirror Starring Mickey Mouse,GC,2002.0,Adventure,0.15,0.04,0.0,0.01,50.0,8.9,E
+7840,Teenage Mutant Ninja Turtles 2: Battle Nexus,GC,2004.0,Action,0.15,0.04,0.0,0.01,49.0,4.6,T
+7864,Hulk,GC,2003.0,Action,0.15,0.04,0.0,0.01,71.0,7.4,T
+7879,The Legend of Spyro: A New Beginning,GC,2006.0,Platform,0.15,0.04,0.0,0.01,67.0,7.3,E10+
+8053,Bloody Roar: Primal Fury,GC,2002.0,Fighting,0.14,0.04,0.0,0.0,75.0,8.5,T
+8060,FIFA Soccer 07,GC,2006.0,Sports,0.14,0.04,0.0,0.0,,,
+8096,Gauntlet: Dark Legacy,GC,2002.0,Action,0.14,0.04,0.0,0.0,60.0,9.1,T
+8112,Gun,GC,2005.0,Shooter,0.14,0.04,0.0,0.0,77.0,8.6,M
+8130,FIFA Soccer 2002,GC,2001.0,Sports,0.14,0.04,0.0,0.0,81.0,8,E
+8136,Disney's Tarzan Untamed,GC,2001.0,Platform,0.14,0.04,0.0,0.0,61.0,7.4,E
+8152,Charlie and the Chocolate Factory,GC,2005.0,Adventure,0.14,0.04,0.0,0.0,39.0,3.2,E
+8215,Rugrats: Royal Ransom,GC,2002.0,Platform,0.13,0.03,0.0,0.0,,6.7,E
+8220,Open Season,GC,2006.0,Platform,0.13,0.03,0.0,0.0,59.0,tbd,E10+
+8227,Major League Baseball 2K6,GC,2006.0,Sports,0.13,0.03,0.0,0.0,66.0,tbd,E
+8233,The Grim Adventures of Billy & Mandy,GC,2006.0,Action,0.13,0.03,0.0,0.0,,,
+8241,The Hobbit,GC,2003.0,Platform,0.13,0.03,0.0,0.0,61.0,7.3,E
+8246,True Crime: New York City,GC,2005.0,Action,0.13,0.03,0.0,0.0,59.0,8.8,M
+8259,Fight Night Round 2,GC,2005.0,Fighting,0.13,0.03,0.0,0.0,87.0,7.9,T
+8295,Looney Tunes: Back in Action,GC,2003.0,Platform,0.13,0.03,0.0,0.0,64.0,5,E
+8366,SSX On Tour,GC,2005.0,Sports,0.13,0.03,0.0,0.0,80.0,7.5,E
+8374,Shrek Extra Large,GC,2002.0,Platform,0.13,0.03,0.0,0.0,36.0,5.6,T
+8394,Mega Man Network Transmission,GC,2003.0,Platform,0.13,0.03,0.0,0.0,65.0,7.6,E
+8409,Lost Kingdoms,GC,2002.0,Role-Playing,0.1,0.02,0.04,0.0,72.0,8,T
+8440,Midway Arcade Treasures,GC,2003.0,Misc,0.13,0.03,0.0,0.0,72.0,8.2,T
+8452,Cubivore: Survival of the Fittest,GC,2002.0,Adventure,0.01,0.0,0.15,0.0,71.0,8.5,E
+8484,Robotech: Battlecry,GC,2002.0,Shooter,0.13,0.03,0.0,0.0,74.0,8.4,T
+8507,Midway Arcade Treasures 2,GC,2004.0,Misc,0.13,0.03,0.0,0.0,74.0,tbd,M
+8508,Hot Wheels World Race,GC,2003.0,Racing,0.13,0.03,0.0,0.0,59.0,7,E
+8522,Crash Tag Team Racing,GC,2005.0,Racing,0.12,0.03,0.0,0.0,66.0,7.3,E10+
+8543,The Incredibles: Rise of the Underminer,GC,2005.0,Action,0.12,0.03,0.0,0.0,67.0,6.6,E10+
+8550,Flushed Away,GC,2006.0,Platform,0.12,0.03,0.0,0.0,47.0,tbd,E
+8562,Robots,GC,2005.0,Action,0.12,0.03,0.0,0.0,56.0,tbd,E
+8659,Tiger Woods PGA Tour 2004,GC,2003.0,Sports,0.12,0.03,0.0,0.0,89.0,7.8,E
+8669,NBA 2K3,GC,2002.0,Sports,0.12,0.03,0.0,0.0,84.0,tbd,E
+8717,Burnout 2: Point of Impact,GC,2003.0,Racing,0.12,0.03,0.0,0.0,89.0,8.5,E
+8726,Tak: The Great Juju Challenge,GC,2005.0,Platform,0.12,0.03,0.0,0.0,75.0,9.3,E
+8729,Knockout Kings 2003,GC,2002.0,Sports,0.12,0.03,0.0,0.0,78.0,6.5,T
+8731,NCAA Football 2004,GC,2003.0,Sports,0.12,0.03,0.0,0.0,89.0,7.5,E
+8732,XGIII: Extreme G Racing,GC,2001.0,Racing,0.12,0.03,0.0,0.0,83.0,7.8,E
+8759,Scooby-Doo! Unmasked,GC,2005.0,Platform,0.12,0.03,0.0,0.0,,,
+8771,Army Men: Sarge's War,GC,2004.0,Shooter,0.12,0.03,0.0,0.0,56.0,6.7,T
+8781,Frogger's Adventures: The Rescue,GC,2003.0,Platform,0.12,0.03,0.0,0.0,61.0,tbd,E
+8808,Zoids: Battle Legends,GC,2003.0,Action,0.12,0.03,0.0,0.0,,8.1,T
+8816,Killer7,GC,2005.0,Action,0.12,0.03,0.0,0.0,74.0,8.5,M
+8817,Super Monkey Ball Adventure,GC,2006.0,Platform,0.12,0.03,0.0,0.0,51.0,7.2,E
+8841,Top Gun: Combat Zones,GC,2002.0,Simulation,0.12,0.03,0.0,0.0,59.0,7.1,E
+8852,All-Star Baseball 2003,GC,2002.0,Sports,0.12,0.03,0.0,0.0,83.0,8,E
+8869,X-Men: The Official Game,GC,2006.0,Action,0.12,0.03,0.0,0.0,50.0,6.3,T
+8881,Curious George,GC,2006.0,Action,0.11,0.03,0.0,0.0,,,
+8885,Geist,GC,2005.0,Adventure,0.11,0.03,0.0,0.0,66.0,8.5,M
+8910,The Incredible Hulk: Ultimate Destruction,GC,2005.0,Action,0.11,0.03,0.0,0.0,84.0,9.1,T
+8912,Prince of Persia: The Two Thrones,GC,2005.0,Action,0.11,0.03,0.0,0.0,84.0,8.1,M
+8922,Batman Begins,GC,2005.0,Action,0.11,0.03,0.0,0.0,66.0,7.2,T
+8961,Tom Clancy's Ghost Recon,GC,2003.0,Shooter,0.11,0.03,0.0,0.0,59.0,5.4,M
+8983,MLB SlugFest 20-03,GC,2002.0,Sports,0.11,0.03,0.0,0.0,80.0,7.5,E
+9015,Ratatouille,GC,2007.0,Action,0.11,0.03,0.0,0.0,60.0,5.6,E
+9044,Doshin the Giant,GC,2002.0,Simulation,0.0,0.0,0.14,0.0,,,
+9051,FIFA Soccer 2005,GC,2004.0,Sports,0.11,0.03,0.0,0.0,78.0,8.5,E
+9106,Dead to Rights,GC,2002.0,Shooter,0.11,0.03,0.0,0.0,77.0,8.7,M
+9109,Sphinx and the Cursed Mummy,GC,2003.0,Action,0.11,0.03,0.0,0.0,79.0,8.8,T
+9153,Baldur's Gate: Dark Alliance,GC,2002.0,Role-Playing,0.11,0.03,0.0,0.0,79.0,7.7,T
+9163,Monster House,GC,2006.0,Adventure,0.11,0.03,0.0,0.0,60.0,tbd,E10+
+9200,NFL Blitz 20-03,GC,2002.0,Sports,0.11,0.03,0.0,0.0,72.0,tbd,E
+9217,Ultimate Muscle - The Kinnikuman Legacy: Legends vs New Generation,GC,2002.0,Fighting,0.04,0.01,0.08,0.0,,,
+9230,Rayman Arena,GC,2002.0,Racing,0.11,0.03,0.0,0.0,60.0,7.2,E
+9231,FIFA 06 Soccer,GC,2005.0,Sports,0.11,0.03,0.0,0.0,,,
+9235,4x4 EVO 2,GC,2002.0,Racing,0.11,0.03,0.0,0.0,56.0,tbd,E
+9295,Tiger Woods PGA Tour 2005,GC,2004.0,Sports,0.1,0.03,0.0,0.0,88.0,tbd,E
+9397,NHL 2003,GC,2002.0,Sports,0.1,0.03,0.0,0.0,79.0,6.3,E
+9419,Frogger Beyond,GC,2002.0,Platform,0.1,0.03,0.0,0.0,60.0,7.2,E
+9468,Shrek Smash n' Crash Racing,GC,2006.0,Racing,0.1,0.03,0.0,0.0,,3.1,E
+9491,FIFA World Cup Germany 2006,GC,2006.0,Sports,0.1,0.03,0.0,0.0,76.0,6.2,E
+9493,Hitman 2: Silent Assassin,GC,2003.0,Action,0.1,0.03,0.0,0.0,83.0,5.5,M
+9516,Nintendo Puzzle Collection,GC,,Puzzle,0.0,0.0,0.13,0.0,,,
+9554,Backyard Baseball,GC,2003.0,Sports,0.1,0.03,0.0,0.0,70.0,9.4,E
+9561,Legends of Wrestling,GC,2002.0,Fighting,0.1,0.03,0.0,0.0,50.0,6.8,T
+9579,Zapper: One Wicked Cricket!,GC,2002.0,Platform,0.1,0.03,0.0,0.0,,,
+9590,Monopoly Party,GC,2002.0,Misc,0.1,0.03,0.0,0.0,,,
+9607,X-Men: Next Dimension,GC,2002.0,Fighting,0.1,0.03,0.0,0.0,63.0,8.2,T
+9627,Freedom Fighters,GC,2003.0,Shooter,0.1,0.03,0.0,0.0,83.0,7.8,T
+9630,Mega Man X Collection,GC,2006.0,Misc,0.1,0.03,0.0,0.0,75.0,9.2,E
+9663,Mega Man X: Command Mission,GC,2004.0,Role-Playing,0.1,0.02,0.0,0.0,67.0,7.3,E
+9689,NASCAR 2005: Chase for the Cup,GC,2004.0,Racing,0.1,0.02,0.0,0.0,,,
+9724,The Ant Bully,GC,2006.0,Platform,0.09,0.02,0.0,0.0,51.0,tbd,E10+
+9800,X2: Wolverine's Revenge,GC,2003.0,Platform,0.09,0.02,0.0,0.0,62.0,6.6,T
+9817,Street Hoops,GC,,Sports,0.09,0.02,0.0,0.0,56.0,7.3,T
+9882,Disney's Extreme Skate Adventure,GC,2003.0,Sports,0.09,0.02,0.0,0.0,76.0,7.6,E
+9884,NBA 2K2,GC,2002.0,Sports,0.09,0.02,0.0,0.0,90.0,8,E
+9888,Jeremy McGrath Supercross World,GC,2002.0,Racing,0.09,0.02,0.0,0.0,36.0,5.6,E
+9898,Legends of Wrestling II,GC,2002.0,Fighting,0.09,0.02,0.0,0.0,59.0,tbd,T
+9903,Jikkyou Powerful Pro Yakyuu 9,GC,2002.0,Sports,0.0,0.0,0.11,0.0,,,
+9948,Teenage Mutant Ninja Turtles 3: Mutant Nightmare,GC,2005.0,Action,0.09,0.02,0.0,0.0,57.0,tbd,E10+
+9960,Dora the Explorer: Journey to the Purple Planet,GC,2005.0,Adventure,0.09,0.02,0.0,0.0,,tbd,EC
+9965,Barnyard,GC,2006.0,Action,0.09,0.02,0.0,0.0,66.0,tbd,E10+
+9984,Die Hard: Vendetta,GC,2002.0,Shooter,0.09,0.02,0.0,0.0,54.0,7,M
+10038,FIFA Street 2,GC,2006.0,Sports,0.09,0.02,0.0,0.0,63.0,5.7,E
+10076,18 Wheeler: American Pro Trucker,GC,2002.0,Racing,0.09,0.02,0.0,0.0,52.0,6.8,E
+10107,BloodRayne,GC,2002.0,Shooter,0.09,0.02,0.0,0.0,73.0,8.5,M
+10122,Home Run King,GC,2002.0,Sports,0.09,0.02,0.0,0.0,66.0,tbd,E
+10136,Capcom vs. SNK 2 EO,GC,2002.0,Fighting,0.09,0.02,0.0,0.0,68.0,8.9,T
+10137,Hot Wheels Velocity X,GC,2002.0,Racing,0.09,0.02,0.0,0.0,55.0,6.4,E
+10163,Mortal Kombat: Deception,GC,2005.0,Fighting,0.09,0.02,0.0,0.0,77.0,8.9,M
+10184,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,GC,2003.0,Action,0.09,0.02,0.0,0.0,,,
+10187,Odama,GC,2006.0,Misc,0.07,0.02,0.02,0.0,62.0,8,E10+
+10196,Bionicle Heroes,GC,2006.0,Shooter,0.08,0.02,0.0,0.0,51.0,5.2,E10+
+10255,The Scorpion King: Rise of the Akkadian,GC,2002.0,Action,0.08,0.02,0.0,0.0,49.0,tbd,T
+10258,GiFTPiA,GC,,Role-Playing,0.0,0.0,0.11,0.0,,,
+10268,Defender,GC,2002.0,Misc,0.08,0.02,0.0,0.0,66.0,tbd,T
+10272,The Polar Express,GC,2004.0,Adventure,0.08,0.02,0.0,0.0,40.0,4.7,E
+10291,Starsky & Hutch,GC,2003.0,Racing,0.08,0.02,0.0,0.0,,,
+10345,Tiger Woods PGA Tour 06,GC,2005.0,Sports,0.08,0.02,0.0,0.0,82.0,4.8,E
+10356,Reign of Fire,GC,2002.0,Shooter,0.08,0.02,0.0,0.0,54.0,5.9,T
+10436,Jikkyou Powerful Pro Yakyuu 10,GC,2003.0,Sports,0.0,0.0,0.1,0.0,,,
+10460,Metal Arms: Glitch in the System,GC,2003.0,Shooter,0.08,0.02,0.0,0.0,83.0,9.3,T
+10463,Tom Clancy's Splinter Cell: Chaos Theory,GC,2005.0,Action,0.08,0.02,0.0,0.0,81.0,8.5,M
+10542,Hunter: The Reckoning,GC,2002.0,Action,0.08,0.02,0.0,0.0,70.0,7.6,M
+10552,Baten Kaitos Origins,GC,2006.0,Role-Playing,0.06,0.02,0.02,0.0,75.0,8.9,T
+10558,NHL 2004,GC,2003.0,Sports,0.08,0.02,0.0,0.0,85.0,8.4,E
+10570,Minority Report: Everybody Runs,GC,2002.0,Action,0.08,0.02,0.0,0.0,53.0,tbd,T
+10580,Disney's The Haunted Mansion,GC,2003.0,Platform,0.08,0.02,0.0,0.0,,,
+10589,Beach Spikers: Virtua Beach Volleyball,GC,2002.0,Sports,0.08,0.02,0.0,0.0,76.0,8.1,E
+10705,Universal Studios Theme Parks Adventure,GC,2001.0,Misc,0.08,0.02,0.0,0.0,39.0,2.9,T
+10803,Jikkyou Powerful Pro Yakyuu 11,GC,2004.0,Sports,0.0,0.0,0.09,0.0,,,
+10834,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,GC,2005.0,Adventure,0.07,0.02,0.0,0.0,,,
+10842,Pac-Man World 3,GC,2005.0,Platform,0.07,0.02,0.0,0.0,66.0,7.3,E
+10845,Rocky,GC,2002.0,Fighting,0.07,0.02,0.0,0.0,74.0,tbd,T
+10918,Freekstyle,GC,2002.0,Racing,0.07,0.02,0.0,0.0,78.0,tbd,E
+10928,Alien Hominid,GC,2004.0,Shooter,0.07,0.02,0.0,0.0,78.0,8.5,T
+10954,I-Ninja,GC,2003.0,Platform,0.07,0.02,0.0,0.0,77.0,7.6,T
+10985,MX SuperFly featuring Ricky Carmichael,GC,2002.0,Racing,0.07,0.02,0.0,0.0,,,
+10999,NASCAR: Dirt to Daytona,GC,2002.0,Racing,0.07,0.02,0.0,0.0,85.0,7.3,E
+11095,Mystic Heroes,GC,2002.0,Action,0.03,0.01,0.04,0.0,67.0,8.5,T
+11121,Battle Stadium D.O.N,GC,2006.0,Fighting,0.0,0.0,0.09,0.0,,,
+11131,NFL Blitz 20-02,GC,2002.0,Sports,0.07,0.02,0.0,0.0,77.0,tbd,E
+11149,Ikaruga,GC,2003.0,Shooter,0.07,0.02,0.0,0.0,85.0,8.5,E
+11175,Digimon World 4,GC,2005.0,Role-Playing,0.07,0.02,0.0,0.0,55.0,8.1,E
+11181,Ty the Tasmanian Tiger 3: Night of the Quinkan,GC,2005.0,Action,0.07,0.02,0.0,0.0,68.0,8,E10+
+11188,Bleach GC: Tasogare Ni Mamieru Shinigami,GC,2005.0,Fighting,0.0,0.0,0.08,0.0,,,
+11195,Jimmy Neutron: Boy Genius,GC,2002.0,Platform,0.07,0.02,0.0,0.0,42.0,5.1,E
+11225,XIII,GC,2003.0,Shooter,0.07,0.02,0.0,0.0,73.0,7.7,M
+11271,SRS: Street Racing Syndicate,GC,2004.0,Racing,0.07,0.02,0.0,0.0,,,
+11328,Bomberman Jetters,GC,2002.0,Puzzle,0.06,0.02,0.0,0.0,70.0,7.9,E
+11363,Hello Kitty: Roller Rescue,GC,2005.0,Action,0.06,0.02,0.0,0.0,64.0,6.8,E
+11364,Jikkyou Powerful Pro Yakyuu 12,GC,2005.0,Sports,0.0,0.0,0.08,0.0,,,
+11366,Pac-Man World Rally,GC,2006.0,Racing,0.06,0.02,0.0,0.0,57.0,7.8,E
+11422,NHL 06,GC,2005.0,Sports,0.06,0.02,0.0,0.0,78.0,9.3,E10+
+11443,Tom Clancy's Splinter Cell: Pandora Tomorrow,GC,2004.0,Action,0.06,0.02,0.0,0.0,78.0,8,T
+11447,Swingerz Golf,GC,2002.0,Sports,0.06,0.02,0.0,0.0,72.0,9.3,E
+11457,FIFA Soccer 2003,GC,2002.0,Sports,0.06,0.02,0.0,0.0,86.0,7.8,E
+11460,Outlaw Golf,GC,2002.0,Sports,0.06,0.02,0.0,0.0,69.0,tbd,T
+11469,Smuggler's Run: Warzones,GC,2002.0,Misc,0.06,0.02,0.0,0.0,79.0,6.9,T
+11490,Big Mutha Truckers,GC,2003.0,Racing,0.06,0.02,0.0,0.0,63.0,8.2,T
+11509,Harry Potter and the Sorcerer's Stone,GC,2003.0,Action,0.06,0.02,0.0,0.0,62.0,8.3,E
+11511,TimeSplitters: Future Perfect,GC,2005.0,Shooter,0.06,0.02,0.0,0.0,82.0,9.1,M
+11539,Shonen Jump's One Piece: Pirates Carnival,GC,2005.0,Misc,0.06,0.02,0.0,0.0,,,
+11552,Superman: Shadow of Apokolips,GC,2003.0,Action,0.06,0.02,0.0,0.0,66.0,7.3,E
+11559,Batman: Dark Tomorrow,GC,2003.0,Action,0.06,0.02,0.0,0.0,29.0,3.2,T
+11572,Tomb Raider: Legend,GC,2006.0,Action,0.06,0.02,0.0,0.0,78.0,7.8,T
+11586,Taz Wanted,GC,2002.0,Platform,0.06,0.02,0.0,0.0,61.0,7,E
+11593,Evolution Worlds,GC,2002.0,Role-Playing,0.06,0.02,0.0,0.0,63.0,8,E
+11614,P.N.03 - Product Number Three,GC,2003.0,Shooter,0.06,0.02,0.0,0.0,,,
+11628,Phantasy Star Online Episode III: C.A.R.D. Revolution,GC,2003.0,Role-Playing,0.06,0.02,0.0,0.0,71.0,8.2,T
+11640,Ultimate Fighting Championship: Throwdown,GC,2002.0,Fighting,0.06,0.02,0.0,0.0,67.0,tbd,T
+11657,WWE Crush Hour,GC,2003.0,Racing,0.06,0.02,0.0,0.0,55.0,7,T
+11663,Momotarou Dentetsu 11,GC,2002.0,Misc,0.0,0.0,0.07,0.0,,,
+11664,NHL Hitz 20-03,GC,2002.0,Sports,0.06,0.02,0.0,0.0,82.0,8.4,E
+11674,Resident Evil 3: Nemesis,GC,2003.0,Action,0.06,0.02,0.0,0.0,62.0,8.3,M
+11675,All-Star Baseball 2004,GC,2003.0,Sports,0.06,0.02,0.0,0.0,80.0,9.2,E
+11687,Madden NFL 08,GC,2007.0,Sports,0.06,0.02,0.0,0.0,75.0,7,E
+11701,Pitfall: The Lost Expedition,GC,2004.0,Platform,0.06,0.02,0.0,0.0,73.0,8.6,E
+11723,R: Racing Evolution,GC,2003.0,Racing,0.06,0.02,0.0,0.0,67.0,tbd,T
+11728,Conflict: Desert Storm,GC,2003.0,Shooter,0.06,0.02,0.0,0.0,62.0,8.4,T
+11752,Driven,GC,2002.0,Racing,0.06,0.02,0.0,0.0,55.0,tbd,T
+11808,Gladius,GC,2003.0,Strategy,0.06,0.01,0.0,0.0,82.0,8.8,T
+11832,Smashing Drive,GC,,Racing,0.06,0.01,0.0,0.0,47.0,5.2,T
+11861,Beyond Good & Evil,GC,2003.0,Adventure,0.06,0.01,0.0,0.0,,,
+11881,SD Gundam: Gashapon Wars,GC,2005.0,Strategy,0.0,0.0,0.07,0.0,,,
+11896,TMNT: Mutant Melee,GC,2005.0,Fighting,0.06,0.01,0.0,0.0,44.0,2.8,T
+11920,Tom Clancy's Ghost Recon 2,GC,2005.0,Shooter,0.06,0.01,0.0,0.0,54.0,1.4,T
+11945,NCAA College Football 2K3,GC,2002.0,Sports,0.05,0.01,0.0,0.0,70.0,tbd,E
+11946,Karaoke Revolution Party,GC,2005.0,Misc,0.05,0.01,0.0,0.0,80.0,tbd,E10+
+12014,Wallace & Gromit in Project Zoo,GC,2003.0,Platform,0.05,0.01,0.0,0.0,,,
+12029,FIFA Soccer 2004,GC,2003.0,Sports,0.05,0.01,0.0,0.0,83.0,6.2,E
+12034,Rayman 3: Hoodlum Havoc,GC,2003.0,Platform,0.05,0.01,0.0,0.0,77.0,8.3,E
+12060,Disney's Winnie the Pooh's Rumbly Tumbly Adventure,GC,2005.0,Platform,0.05,0.01,0.0,0.0,,,
+12066,Catwoman,GC,2004.0,Action,0.05,0.01,0.0,0.0,47.0,6.1,T
+12081,Spartan: Total Warrior,GC,2005.0,Action,0.05,0.01,0.0,0.0,73.0,8.3,M
+12100,Tom and Jerry in War of the Whiskers,GC,2003.0,Fighting,0.05,0.01,0.0,0.0,,,
+12126,NHL 2005,GC,2004.0,Sports,0.05,0.01,0.0,0.0,75.0,5.6,E
+12127,Midway Arcade Treasures 3,GC,2005.0,Misc,0.05,0.01,0.0,0.0,65.0,tbd,E
+12149,The Powerpuff Girls: Relish Rampage,GC,2002.0,Action,0.05,0.01,0.0,0.0,,7.6,E
+12153,Army Men: RTS,GC,2004.0,Strategy,0.05,0.01,0.0,0.0,,8.5,T
+12166,Sega Soccer Slam,GC,2002.0,Sports,0.05,0.01,0.0,0.0,84.0,7.7,E
+12174,Spawn: Armageddon,GC,2003.0,Action,0.05,0.01,0.0,0.0,61.0,7.2,M
+12229,Cabela's Big Game Hunter 2005 Adventures,GC,2004.0,Sports,0.05,0.01,0.0,0.0,,8.8,T
+12230,Worms 3D,GC,2003.0,Strategy,0.05,0.01,0.0,0.0,69.0,7.6,T
+12285,Zatch Bell! Mamodo Battles,GC,2005.0,Fighting,0.05,0.01,0.0,0.0,,,
+12314,BMX XXX,GC,2002.0,Sports,0.05,0.01,0.0,0.0,60.0,5,M
+12356,Tonka Rescue Patrol,GC,2003.0,Action,0.05,0.01,0.0,0.0,,,
+12361,Cel Damage,GC,2002.0,Racing,0.05,0.01,0.0,0.0,67.0,6.8,T
+12376,Intellivision Lives!,GC,2004.0,Misc,0.05,0.01,0.0,0.0,,,
+12431,Strike Force Bowling,GC,2005.0,Sports,0.05,0.01,0.0,0.0,47.0,tbd,E
+12469,Shonen Jump's One Piece: Grand Battle,GC,2005.0,Fighting,0.05,0.01,0.0,0.0,,,
+12512,Vexx,GC,2003.0,Platform,0.05,0.01,0.0,0.0,71.0,7.3,T
+12517,Batman: Rise of Sin Tzu,GC,2003.0,Action,0.05,0.01,0.0,0.0,63.0,tbd,T
+12521,Disney Sports Skateboarding,GC,2002.0,Sports,0.05,0.01,0.0,0.0,36.0,4.7,E
+12566,Worms Blast,GC,2002.0,Puzzle,0.05,0.01,0.0,0.0,65.0,tbd,E
+12621,Resident Evil - Code: Veronica X,GC,2003.0,Action,0.05,0.01,0.0,0.0,62.0,8.5,M
+12624,Kelly Slater's Pro Surfer,GC,2002.0,Sports,0.05,0.01,0.0,0.0,80.0,tbd,E
+12705,Resident Evil 2,GC,2003.0,Action,0.04,0.01,0.0,0.0,59.0,8.5,M
+12736,Tom Clancy's Splinter Cell: Double Agent,GC,2006.0,Action,0.04,0.01,0.0,0.0,64.0,7.1,M
+12754,FIFA Street,GC,2005.0,Sports,0.04,0.01,0.0,0.0,,,
+12758,Lost Kingdoms II,GC,2003.0,Role-Playing,0.04,0.01,0.0,0.0,68.0,9.1,T
+12759,Aggressive Inline,GC,2002.0,Sports,0.04,0.01,0.0,0.0,88.0,7.8,T
+12760,Viewtiful Joe: Red Hot Rumble,GC,2005.0,Action,0.04,0.01,0.0,0.0,62.0,6.9,T
+12777,Wreckless: ThE YaKuza MisSiOns,GC,2002.0,Racing,0.04,0.01,0.0,0.0,58.0,tbd,T
+12799,Dance Dance Revolution: Mario Mix (JP sales),GC,2005.0,Simulation,0.0,0.0,0.05,0.0,,,
+12832,Tom Clancy's Rainbow Six 3,GC,2004.0,Shooter,0.04,0.01,0.0,0.0,68.0,8.2,M
+12847,Amazing Island,GC,2004.0,Strategy,0.04,0.01,0.0,0.0,59.0,6.6,E
+12883,Phantasy Star Online Episode I & II Plus,GC,2003.0,Role-Playing,0.04,0.01,0.0,0.0,,,
+12888,NFL Quarterback Club 2002,GC,2001.0,Sports,0.04,0.01,0.0,0.0,53.0,tbd,E
+12901,Blood Omen 2,GC,2002.0,Action,0.04,0.01,0.0,0.0,71.0,tbd,M
+12939,Shaman King: Soul Fight,GC,2003.0,Platform,0.0,0.0,0.05,0.0,,,
+12943,Medabots: Infinity,GC,2003.0,Role-Playing,0.04,0.01,0.0,0.0,51.0,8,E
+13004,Virtua Striker 2002,GC,2002.0,Sports,0.01,0.0,0.03,0.0,58.0,6,E
+13012,Disney's PK: Out of the Shadows,GC,2002.0,Platform,0.04,0.01,0.0,0.0,46.0,tbd,E
+13028,Piglet's Big Game,GC,2003.0,Platform,0.04,0.01,0.0,0.0,70.0,8,E
+13041,Pinball Hall of Fame: The Gottlieb Collection,GC,2005.0,Misc,0.04,0.01,0.0,0.0,,,
+13091,Disney's Party,GC,2002.0,Misc,0.04,0.01,0.0,0.0,39.0,7.8,E
+13121,Shrek Super Party,GC,2003.0,Misc,0.04,0.01,0.0,0.0,40.0,7.3,E
+13122,Monster 4x4: Masters of Metal,GC,2003.0,Racing,0.04,0.01,0.0,0.0,49.0,tbd,E
+13130,Second Sight,GC,2004.0,Adventure,0.04,0.01,0.0,0.0,77.0,8.5,T
+13138,Rave Master,GC,2002.0,Fighting,0.0,0.0,0.05,0.0,60.0,6.3,T
+13150,ESPN International Winter Sports 2002,GC,2002.0,Sports,0.04,0.01,0.0,0.0,62.0,tbd,E
+13175,Dark Summit,GC,2002.0,Sports,0.04,0.01,0.0,0.0,68.0,4.5,T
+13191,Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E.,GC,2005.0,Platform,0.04,0.01,0.0,0.0,58.0,tbd,E10+
+13215,Rogue Ops,GC,2003.0,Action,0.04,0.01,0.0,0.0,65.0,tbd,M
+13238,Whirl Tour,GC,2002.0,Sports,0.04,0.01,0.0,0.0,61.0,9,E
+13257,World Series of Poker,GC,2005.0,Misc,0.04,0.01,0.0,0.0,44.0,tbd,E10+
+13298,American Chopper 2: Full Throttle,GC,2005.0,Racing,0.04,0.01,0.0,0.0,54.0,tbd,T
+13302,2002 FIFA World Cup,GC,2002.0,Sports,0.04,0.01,0.0,0.0,78.0,7.7,E
+13320,Ribbit King,GC,2003.0,Sports,0.04,0.01,0.0,0.0,60.0,tbd,E
+13323,Summoner: A Goddess Reborn,GC,2003.0,Role-Playing,0.04,0.01,0.0,0.0,72.0,tbd,T
+13353,Frogger: Ancient Shadow,GC,2005.0,Platform,0.04,0.01,0.0,0.0,54.0,tbd,E
+13382,Black & Bruised,GC,2003.0,Fighting,0.04,0.01,0.0,0.0,,,
+13388,Tom Clancy's Rainbow Six: Lockdown,GC,2005.0,Shooter,0.04,0.01,0.0,0.0,72.0,7.8,M
+13399,Super Bubble Pop,GC,2003.0,Puzzle,0.04,0.01,0.0,0.0,54.0,tbd,E
+13417,Monster Jam: Maximum Destruction,GC,2002.0,Racing,0.04,0.01,0.0,0.0,,,
+13418,Big Air Freestyle,GC,2002.0,Racing,0.04,0.01,0.0,0.0,56.0,tbd,T
+13483,Bad Boys: Miami Takedown,GC,2004.0,Shooter,0.03,0.01,0.0,0.0,35.0,2,M
+13519,Disney's Donald Duck: Goin' Quackers,GC,2002.0,Platform,0.03,0.01,0.0,0.0,61.0,3,E
+13566,Disney's Meet the Robinsons,GC,2007.0,Action,0.03,0.01,0.0,0.0,68.0,tbd,E10+
+13581,Conflict: Desert Storm II - Back to Bagdhad,GC,2004.0,Shooter,0.03,0.01,0.0,0.0,,,
+13586,King Arthur,GC,2004.0,Action,0.03,0.01,0.0,0.0,60.0,tbd,T
+13678,MLB SlugFest 20-04,GC,2003.0,Sports,0.03,0.01,0.0,0.0,76.0,tbd,E
+13691,Digimon Rumble Arena 2,GC,2004.0,Fighting,0.03,0.01,0.0,0.0,71.0,8.1,T
+13784,Mat Hoffman's Pro BMX 2,GC,2002.0,Sports,0.03,0.01,0.0,0.0,70.0,tbd,T
+13792,NHL Hitz Pro,GC,,Sports,0.03,0.01,0.0,0.0,81.0,7.8,E
+13808,Dragon's Lair 3D: Return to the Lair,GC,2002.0,Platform,0.03,0.01,0.0,0.0,,,
+13902,Zatch Bell! Mamodo Fury,GC,2005.0,Fighting,0.03,0.01,0.0,0.0,,,
+13932,Shonen Jump's One Piece: Grand Adventure,GC,2006.0,Fighting,0.03,0.01,0.0,0.0,,,
+13981,Jikkyou Powerful Major League,GC,2006.0,Sports,0.0,0.0,0.04,0.0,,,
+13986,Evolution Skateboarding,GC,2002.0,Sports,0.03,0.01,0.0,0.0,44.0,tbd,T
+14034,Scaler,GC,2004.0,Platform,0.03,0.01,0.0,0.0,69.0,7.3,E
+14198,Cabela's Dangerous Hunts 2,GC,2005.0,Sports,0.03,0.01,0.0,0.0,,tbd,T
+14215,SX Superstar,GC,2003.0,Racing,0.03,0.01,0.0,0.0,,,
+14220,Red Faction II,GC,2003.0,Shooter,0.03,0.01,0.0,0.0,79.0,7.3,M
+14238,Cabela's Outdoor Adventures,GC,2005.0,Sports,0.03,0.01,0.0,0.0,,8.8,T
+14253,The Italian Job,GC,2003.0,Racing,0.03,0.01,0.0,0.0,56.0,tbd,T
+14272,The Sum of All Fears,GC,2003.0,Shooter,0.03,0.01,0.0,0.0,36.0,3.4,T
+14331,Disney Sports Soccer,GC,2002.0,Sports,0.03,0.01,0.0,0.0,75.0,tbd,E
+14338,Disney's Hide & Sneak,GC,2003.0,Action,0.03,0.01,0.0,0.0,,,
+14433,RoadKill,GC,2003.0,Action,0.02,0.01,0.0,0.0,64.0,tbd,M
+14438,F1 2002,GC,2002.0,Racing,0.02,0.01,0.0,0.0,72.0,7.8,E
+14466,Dr. Muto,GC,2002.0,Platform,0.02,0.01,0.0,0.0,63.0,tbd,T
+14522,Go! Go! Hypergrind,GC,2003.0,Sports,0.02,0.01,0.0,0.0,,,
+14667,Drome Racers,GC,2003.0,Racing,0.02,0.01,0.0,0.0,54.0,6.6,E
+14729,Fireblade,GC,2002.0,Action,0.02,0.01,0.0,0.0,,tbd,T
+14753,Animaniacs: The Great Edgar Hunt,GC,2005.0,Platform,0.02,0.01,0.0,0.0,65.0,tbd,E
+14800,Dakar 2: The World's Ultimate Rally,GC,2003.0,Racing,0.02,0.01,0.0,0.0,,,
+14804,Auto Modellista,GC,2003.0,Racing,0.02,0.01,0.0,0.0,62.0,tbd,E
+14828,Gotcha Force,GC,2003.0,Shooter,0.01,0.0,0.01,0.0,56.0,8.2,E
+14846,Buffy the Vampire Slayer: Chaos Bleeds,GC,2003.0,Action,0.02,0.01,0.0,0.0,75.0,9,T
+14877,Archer Maclean Presents: Pool Paradise,GC,2004.0,Sports,0.02,0.01,0.0,0.0,,,
+14998,ZooCube,GC,2002.0,Puzzle,0.02,0.0,0.0,0.0,67.0,6.1,E
+15006,Tube Slider,GC,,Racing,0.02,0.0,0.0,0.0,62.0,tbd,E
+15031,Jikkyou Powerful Pro Yakyuu 12 Ketteiban,GC,2005.0,Sports,0.0,0.0,0.02,0.0,,,
+15032,Road Trip: The Arcade Edition,GC,2002.0,Racing,0.02,0.0,0.0,0.0,,tbd,E
+15106,Future Tactics: The Uprising,GC,2004.0,Strategy,0.02,0.0,0.0,0.0,63.0,tbd,T
+15222,RedCard 20-03,GC,2002.0,Sports,0.02,0.0,0.0,0.0,71.0,7.4,E
+15243,NFL Blitz Pro,GC,2003.0,Sports,0.02,0.0,0.0,0.0,71.0,tbd,E
+15263,Muppets Party Cruise,GC,2003.0,Misc,0.02,0.0,0.0,0.0,,8,E
+15276,Serious Sam: Next Encounter,GC,2004.0,Shooter,0.02,0.0,0.0,0.0,69.0,8.4,M
+15310,Carmen Sandiego: The Secret of the Stolen Drums,GC,2004.0,Action,0.02,0.0,0.0,0.0,57.0,tbd,E
+15335,Terminator 3: The Redemption,GC,2004.0,Shooter,0.02,0.0,0.0,0.0,68.0,tbd,T
+15355,XGRA: Extreme G Racing Association,GC,2003.0,Racing,0.02,0.0,0.0,0.0,69.0,7,T
+15380,Casper: Spirit Dimensions,GC,2002.0,Platform,0.02,0.0,0.0,0.0,,tbd,E
+15501,ESPN MLS ExtraTime 2002,GC,2002.0,Sports,0.02,0.0,0.0,0.0,68.0,tbd,E
+15579,Speed Kings,GC,2003.0,Racing,0.01,0.0,0.0,0.0,59.0,tbd,E
+15609,Charlie's Angels,GC,2003.0,Action,0.01,0.0,0.0,0.0,23.0,3.3,T
+15745,NHL 2K3,GC,2002.0,Sports,0.01,0.0,0.0,0.0,89.0,7,E
+15759,Disney Sports Football,GC,2002.0,Sports,0.01,0.0,0.0,0.0,59.0,tbd,E
+15769,Freestyle Metal X,GC,2003.0,Racing,0.01,0.0,0.0,0.0,,,
+15771,Spirits & Spells,GC,2003.0,Platform,0.01,0.0,0.0,0.0,,,
+15827,Goblin Commander: Unleash the Horde,GC,2003.0,Strategy,0.01,0.0,0.0,0.0,71.0,7.8,T
+15895,Pro Rally,GC,2002.0,Racing,0.01,0.0,0.0,0.0,64.0,tbd,E
+15907,Samurai Jack: The Shadow of Aku,GC,2004.0,Action,0.01,0.0,0.0,0.0,59.0,tbd,T
+15922,Kao the Kangaroo Round 2,GC,2005.0,Platform,0.01,0.0,0.0,0.0,57.0,tbd,E
+15966,Dinotopia: The Sunstone Odyssey,GC,,Action,0.01,0.0,0.0,0.0,50.0,tbd,T
+15983,Mission: Impossible - Operation Surma,GC,2004.0,Platform,0.01,0.0,0.0,0.0,64.0,tbd,T
+15987,Trigger Man,GC,2004.0,Shooter,0.01,0.0,0.0,0.0,,tbd,T
+16077,Lotus Challenge,GC,2004.0,Racing,0.01,0.0,0.0,0.0,,,
+16134,Puyo Pop Fever,GC,2004.0,Puzzle,0.01,0.0,0.0,0.0,72.0,tbd,E
+16353,Aquaman: Battle for Atlantis,GC,2003.0,Action,0.01,0.0,0.0,0.0,27.0,3.1,T
+16394,Surf's Up,GC,2007.0,Sports,0.01,0.0,0.0,0.0,,tbd,E10+
+16405,Freaky Flyers,GC,,Racing,0.01,0.0,0.0,0.0,69.0,6.5,T
+16408,Army Men: Air Combat - The Elite Missions,GC,2003.0,Shooter,0.01,0.0,0.0,0.0,,,
+16409,Rally Championship,GC,2003.0,Racing,0.01,0.0,0.0,0.0,63.0,tbd,E
+16436,Grooverider: Slot Car Thunder,GC,2003.0,Racing,0.01,0.0,0.0,0.0,49.0,tbd,E
+16476,Darkened Skye,GC,2002.0,Adventure,0.01,0.0,0.0,0.0,61.0,6.4,T
+16522,Virtua Quest,GC,,Role-Playing,0.01,0.0,0.0,0.0,55.0,5.5,T
+16565,Egg Mania: Eggstreme Madness,GC,2002.0,Puzzle,0.01,0.0,0.0,0.0,64.0,8,E
+16577,Space Raiders,GC,2003.0,Shooter,0.01,0.0,0.0,0.0,40.0,tbd,T
+16697,Bust-A-Move 3000,GC,2003.0,Puzzle,0.01,0.0,0.0,0.0,53.0,tbd,E
+16706,Men in Black II: Alien Escape,GC,2003.0,Shooter,0.01,0.0,0.0,0.0,,tbd,T

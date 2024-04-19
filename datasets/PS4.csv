@@ -1,0 +1,393 @@
+,Name,Platform,Year_of_Release,Genre,NA_sales,EU_sales,JP_sales,Other_sales,Critic_Score,User_Score,Rating
+31,Call of Duty: Black Ops 3,PS4,2015.0,Shooter,6.03,5.86,0.36,2.38,,,
+42,Grand Theft Auto V,PS4,2014.0,Action,3.96,6.31,0.38,1.97,97.0,8.3,M
+77,FIFA 16,PS4,2015.0,Sports,1.12,6.12,0.06,1.28,82.0,4.3,E
+87,Star Wars Battlefront (2015),PS4,2015.0,Shooter,2.99,3.49,0.22,1.28,,,
+92,Call of Duty: Advanced Warfare,PS4,2014.0,Shooter,2.81,3.48,0.14,1.23,83.0,5.7,M
+94,FIFA 17,PS4,2016.0,Sports,0.66,5.75,0.08,1.11,85.0,5,E
+105,Fallout 4,PS4,2015.0,Role-Playing,2.53,3.27,0.24,1.13,87.0,6.5,M
+143,FIFA 15,PS4,2014.0,Sports,0.8,4.33,0.05,0.9,82.0,5.7,E
+154,Destiny,PS4,2014.0,Shooter,2.49,2.07,0.16,0.92,76.0,6.1,T
+171,Uncharted 4: A Thief's End,PS4,2016.0,Shooter,1.85,2.5,0.19,0.85,93.0,7.9,T
+225,The Last of Us,PS4,2014.0,Action,1.88,2.0,0.07,0.77,,,
+231,Uncharted: The Nathan Drake Collection,PS4,2015.0,Action,2.07,1.71,0.08,0.76,86.0,8.1,T
+245,Call of Duty: Infinite Warfare,PS4,2016.0,Shooter,1.61,2.0,0.15,0.71,77.0,3.4,M
+261,Minecraft,PS4,2014.0,Misc,1.48,2.02,0.14,0.68,,,
+289,Battlefield 1,PS4,2016.0,Shooter,1.1,2.15,0.21,0.61,88.0,8.4,M
+295,Watch Dogs,PS4,2014.0,Action,1.4,1.9,0.11,0.64,80.0,6.3,M
+298,Far Cry 4,PS4,2014.0,Shooter,1.13,2.18,0.1,0.63,85.0,7.7,M
+303,The Witcher 3: Wild Hunt,PS4,2015.0,Role-Playing,1.02,2.13,0.23,0.59,92.0,9.2,M
+304,Assassin's Creed: Unity,PS4,2014.0,Action,1.19,2.07,0.08,0.62,70.0,4.9,M
+305,Batman: Arkham Knight,PS4,2015.0,Action,1.53,1.69,0.1,0.64,87.0,7.6,M
+314,NBA 2K16,PS4,2015.0,Sports,2.49,0.66,0.03,0.69,87.0,6.7,E10+
+323,Call of Duty: Ghosts,PS4,2013.0,Shooter,1.78,1.43,0.05,0.57,78.0,3.7,M
+325,Tom Clancy's The Division,PS4,2016.0,Shooter,1.35,1.7,0.15,0.6,80.0,7,M
+357,Battlefield 4,PS4,2013.0,Shooter,1.35,1.55,0.17,0.51,85.0,6.9,M
+390,Metal Gear Solid V: The Phantom Pain,PS4,2015.0,Action,1.09,1.36,0.49,0.48,93.0,8.2,M
+396,Assassin's Creed Syndicate,PS4,2015.0,Action,0.81,1.99,0.07,0.52,76.0,6.8,M
+420,Madden NFL 16,PS4,2015.0,Sports,2.34,0.3,0.0,0.6,83.0,5.9,E
+469,FIFA 14,PS4,2013.0,Sports,0.61,1.85,0.11,0.44,87.0,6.3,E
+481,Middle-Earth: Shadow of Mordor,PS4,2014.0,Action,1.01,1.43,0.05,0.47,84.0,8.1,M
+509,Assassin's Creed IV: Black Flag,PS4,2013.0,Action,1.07,1.31,0.06,0.42,83.0,7.8,M
+529,inFAMOUS: Second Son,PS4,2014.0,Action,1.28,0.98,0.07,0.46,80.0,7.9,T
+539,Mortal Kombat X,PS4,2015.0,Fighting,1.5,0.8,0.0,0.48,83.0,7.7,M
+560,Killzone: Shadow Fall,PS4,2013.0,Shooter,0.89,1.33,0.08,0.39,73.0,6.8,M
+623,Bloodborne,PS4,2015.0,Action,1.03,0.81,0.26,0.38,92.0,8.6,M
+631,NBA 2K15,PS4,2014.0,Sports,1.47,0.54,0.01,0.43,83.0,7,E
+639,Need for Speed (2015),PS4,2015.0,Racing,0.5,1.5,0.05,0.37,,,
+708,Far Cry: Primal,PS4,2016.0,Action,0.6,1.25,0.06,0.35,76.0,6.3,M
+733,Tom Clancy's Rainbow Six: Siege,PS4,2015.0,Shooter,0.55,1.19,0.14,0.33,73.0,7.3,M
+749,Madden NFL 15,PS4,2014.0,Sports,1.54,0.25,0.0,0.4,81.0,6.1,E
+767,Overwatch,PS4,2016.0,Shooter,0.81,0.85,0.15,0.33,90.0,6.1,T
+790,Battlefield: Hardline,PS4,2015.0,Shooter,0.71,0.94,0.14,0.32,73.0,5,M
+797,Dying Light,PS4,2015.0,Action,0.96,0.67,0.12,0.34,74.0,7.9,M
+814,DriveClub,PS4,2014.0,Racing,0.36,1.38,0.02,0.31,71.0,6.1,E
+851,Dragon Age: Inquisition,PS4,2014.0,Role-Playing,0.73,0.88,0.08,0.32,89.0,7.4,M
+863,Need for Speed Rivals,PS4,2013.0,Racing,0.73,0.92,0.03,0.3,80.0,6.2,E10+
+895,Destiny: The Taken King,PS4,2015.0,Shooter,0.78,0.79,0.04,0.31,86.0,6,T
+908,LittleBigPlanet 3,PS4,2014.0,Platform,0.66,0.93,0.01,0.31,79.0,7.1,E
+921,NBA 2K17,PS4,2016.0,Sports,1.25,0.27,0.02,0.34,88.0,6.7,E
+938,Just Cause 3,PS4,2015.0,Action,0.47,1.03,0.07,0.28,73.0,6.5,M
+957,Diablo III,PS4,2014.0,Role-Playing,0.51,0.98,0.06,0.28,,,M
+968,Mafia III,PS4,2016.0,Action,0.42,1.08,0.03,0.28,68.0,5.1,M
+976,The Evil Within,PS4,2014.0,Action,0.55,0.86,0.11,0.27,75.0,7.3,M
+1007,Madden NFL 17,PS4,2016.0,Sports,1.25,0.17,0.0,0.32,82.0,4.9,E
+1012,The Elder Scrolls Online,PS4,2015.0,Role-Playing,0.67,0.79,0.0,0.29,,,
+1026,The Order: 1886,PS4,2015.0,Shooter,0.61,0.78,0.06,0.27,63.0,6.6,M
+1028,Knack,PS4,2013.0,Platform,0.43,0.68,0.42,0.2,54.0,6.5,E10+
+1035,The Crew,PS4,2014.0,Racing,0.35,1.08,0.03,0.26,61.0,5.4,T
+1056,No Man's Sky,PS4,2016.0,Action,0.63,0.76,0.03,0.27,71.0,4.5,T
+1097,Until Dawn,PS4,2015.0,Adventure,0.45,0.9,0.05,0.26,79.0,8.2,M
+1107,Dark Souls III,PS4,2016.0,Role-Playing,0.65,0.45,0.34,0.22,89.0,8.8,M
+1139,LEGO Marvel Super Heroes,PS4,2013.0,Action,0.59,0.76,0.01,0.26,83.0,7.7,E10+
+1208,Wolfenstein: The New Order,PS4,2014.0,Shooter,0.47,0.8,0.03,0.24,79.0,8.1,M
+1216,Ratchet & Clank (2016),PS4,2016.0,Platform,0.5,0.76,0.04,0.24,,,
+1275,Doom (2016),PS4,2016.0,Shooter,0.54,0.69,0.02,0.24,,,
+1325,NBA 2K14,PS4,2013.0,Sports,0.89,0.31,0.01,0.23,85.0,6.5,E
+1384,Tomb Raider (2013),PS4,2014.0,Action,0.47,0.65,0.06,0.22,,,
+1475,The Elder Scrolls V: Skyrim,PS4,2016.0,Role-Playing,0.48,0.59,0.04,0.21,,,
+1559,Metal Gear Solid V: Ground Zeroes,PS4,2014.0,Action,0.45,0.47,0.17,0.18,75.0,6.2,M
+1658,WWE 2K16,PS4,2015.0,Sports,0.41,0.6,0.0,0.2,73.0,7.4,T
+1726,Mad Max (2015),PS4,2015.0,Action,0.36,0.59,0.04,0.18,,,
+1775,WWE 2K15,PS4,2014.0,Sports,0.39,0.57,0.0,0.19,62.0,5.1,T
+1801,Naruto Shippuden: Ultimate Ninja Storm 4,PS4,2016.0,Fighting,0.41,0.45,0.11,0.17,79.0,8.2,T
+1806,Watch Dogs 2,PS4,2016.0,Action,0.37,0.58,0.0,0.18,83.0,7.8,M
+1812,Alien: Isolation,PS4,2014.0,Shooter,0.34,0.57,0.04,0.17,79.0,8.1,M
+1848,Dragon Ball: XenoVerse,PS4,2015.0,Fighting,0.3,0.52,0.12,0.16,69.0,7.7,T
+1880,Project CARS,PS4,2015.0,Racing,0.2,0.7,0.02,0.16,83.0,6.6,E
+1978,EA Sports UFC,PS4,2014.0,Sports,0.46,0.41,0.01,0.17,70.0,6.1,T
+2051,Rayman Legends,PS4,2014.0,Platform,0.22,0.64,0.0,0.16,90.0,8.5,E10+
+2097,Final Fantasy Type-0,PS4,2015.0,Role-Playing,0.37,0.32,0.15,0.14,,,
+2137,Evolve,PS4,2015.0,Shooter,0.36,0.41,0.05,0.15,76.0,4.3,M
+2204,Rise of the Tomb Raider,PS4,2016.0,Adventure,0.23,0.53,0.04,0.14,,,
+2210,EA Sports UFC 2,PS4,2016.0,Sports,0.29,0.49,0.0,0.15,79.0,6.2,T
+2232,Lego Batman 3: Beyond Gotham,PS4,2014.0,Action,0.37,0.4,0.0,0.15,73.0,7.1,E10+
+2247,MLB 15: The Show,PS4,2015.0,Sports,0.68,0.08,0.0,0.17,80.0,7.8,E
+2271,Injustice: Gods Among Us,PS4,2013.0,Fighting,0.46,0.3,0.0,0.16,,,
+2290,Street Fighter V,PS4,2016.0,Fighting,0.4,0.28,0.08,0.14,77.0,3.4,T
+2301,LEGO Jurassic World,PS4,2015.0,Action,0.32,0.42,0.02,0.14,70.0,7,E10+
+2307,Madden NFL 25,PS4,2013.0,Sports,0.63,0.13,0.0,0.15,74.0,5.2,E
+2332,MLB 16: The Show,PS4,2016.0,Action,0.72,0.0,0.0,0.17,,,
+2375,Borderlands: The Handsome Collection,PS4,2015.0,Shooter,0.38,0.33,0.03,0.14,82.0,7.8,M
+2416,Guitar Hero Live,PS4,2015.0,Misc,0.34,0.38,0.0,0.14,80.0,6.2,T
+2521,Thief (2014),PS4,2014.0,Action,0.28,0.38,0.03,0.13,,,
+2600,Pro Evolution Soccer 2016,PS4,2015.0,Sports,0.13,0.42,0.13,0.1,87.0,7.1,E
+2718,Titanfall 2,PS4,2016.0,Shooter,0.34,0.25,0.05,0.12,89.0,8.4,M
+2734,Pro Evolution Soccer 2015,PS4,2014.0,Sports,0.09,0.45,0.11,0.1,82.0,7.2,E
+2742,Final Fantasy XIV: A Realm Reborn,PS4,2014.0,Role-Playing,0.33,0.23,0.08,0.11,,,
+2759,Final Fantasy X/X-2 HD Remaster,PS4,2015.0,Role-Playing,0.29,0.27,0.06,0.11,,,
+2766,Dragon Quest Heroes: The World's Tree Woe and the Blight Below,PS4,2015.0,Action,0.17,0.13,0.37,0.06,,,
+2811,LEGO Marvel's Avengers,PS4,2016.0,Action,0.26,0.35,0.0,0.12,71.0,7,E10+
+2815,LEGO Dimensions,PS4,2015.0,Action,0.24,0.37,0.0,0.12,80.0,7.1,E10+
+2840,MLB 14: The Show,PS4,2014.0,Sports,0.58,0.0,0.0,0.14,83.0,7.7,E
+2848,Disney Infinity 3.0,PS4,2015.0,Action,0.24,0.37,0.0,0.12,,,
+2889,Dragon Ball: Xenoverse 2,PS4,2016.0,Action,0.24,0.27,0.09,0.1,73.0,7.8,T
+2917,Lego Star Wars: The Force Awakens,PS4,2016.0,Action,0.16,0.43,0.01,0.11,78.0,7.5,E10+
+2936,Minecraft: Story Mode,PS4,2015.0,Adventure,0.25,0.33,0.0,0.11,,,
+2980,Sniper Elite 3,PS4,2014.0,Shooter,0.24,0.34,0.0,0.11,67.0,7.1,M
+3011,The LEGO Movie Videogame,PS4,2014.0,Action,0.24,0.31,0.01,0.11,71.0,7.1,E10+
+3035,F1 2015,PS4,2015.0,Racing,0.09,0.45,0.03,0.1,65.0,6.3,E
+3063,Metro: Last Light,PS4,2014.0,Action,0.22,0.3,0.04,0.1,,,
+3126,God of War III,PS4,2015.0,Action,0.24,0.29,0.01,0.1,,,
+3157,Dishonored 2,PS4,2016.0,Action,0.22,0.32,0.0,0.1,88.0,7.7,M
+3200,Rocksmith 2014,PS4,2014.0,Misc,0.35,0.17,0.0,0.11,,,
+3214,NHL 16,PS4,2015.0,Sports,0.36,0.16,0.0,0.11,78.0,5.5,E10+
+3239,Disney Infinity 2.0: Marvel Super Heroes,PS4,2014.0,Action,0.27,0.25,0.0,0.1,,,
+3284,Plants vs. Zombies: Garden Warfare,PS4,2014.0,Shooter,0.21,0.29,0.01,0.1,75.0,7.6,E10+
+3323,Dark Souls II,PS4,2015.0,Role-Playing,0.21,0.23,0.08,0.09,,,
+3363,LEGO The Hobbit,PS4,2014.0,Action,0.13,0.38,0.0,0.09,72.0,6.6,E10+
+3365,WWE 2K17,PS4,2016.0,Sports,0.17,0.34,0.0,0.09,69.0,6.9,T
+3370,NHL 15,PS4,2014.0,Sports,0.31,0.19,0.0,0.1,60.0,3.6,E10+
+3645,Resident Evil: Revelations 2,PS4,2015.0,Action,0.13,0.24,0.1,0.07,75.0,7.7,M
+3650,The Amazing Spider-Man 2 (2014),PS4,2014.0,Action,0.2,0.25,0.02,0.09,,,
+3845,Rory McIlroy PGA Tour,PS4,2015.0,Action,0.18,0.25,0.0,0.08,61.0,3.7,E
+3848,Lords of the Fallen,PS4,2014.0,Role-Playing,0.18,0.24,0.02,0.08,68.0,6.6,M
+4033,Plants vs. Zombies: Garden Warfare 2,PS4,2016.0,Shooter,0.2,0.21,0.0,0.08,81.0,7.7,E10+
+4209,One Piece: Pirate Warriors 3,PS4,2015.0,Action,0.09,0.22,0.1,0.06,74.0,7.4,T
+4241,The Walking Dead: Season One,PS4,2014.0,Adventure,0.12,0.25,0.02,0.07,,,
+4358,Pro Evolution Soccer 2017,PS4,2016.0,Sports,0.02,0.27,0.11,0.05,85.0,7.6,E
+4392,Skylanders: Trap Team,PS4,2014.0,Action,0.19,0.18,0.0,0.07,78.0,5.6,E10+
+4482,Sleeping Dogs,PS4,2014.0,Action,0.16,0.2,0.0,0.07,,,
+4531,Wolfenstein: The Old Blood,PS4,2015.0,Action,0.1,0.25,0.02,0.06,76.0,8,
+4585,Trials Fusion,PS4,2014.0,Racing,0.13,0.22,0.01,0.07,79.0,7.2,E10+
+4656,Just Dance 2014,PS4,2013.0,Misc,0.19,0.16,0.0,0.07,75.0,5.5,E10+
+4676,Farming Simulator 17,PS4,2016.0,Simulation,0.05,0.31,0.0,0.06,69.0,8.7,E
+4768,Dragon Quest Builders: Revive Alefgard,PS4,2016.0,Role-Playing,0.04,0.11,0.22,0.03,,,
+4770,Tales of Zestiria,PS4,2015.0,Role-Playing,0.17,0.15,0.02,0.06,72.0,6.8,T
+4786,Life is Strange,PS4,2016.0,Adventure,0.15,0.15,0.03,0.06,85.0,8.6,M
+4879,Saints Row IV,PS4,2015.0,Action,0.13,0.18,0.03,0.06,,,
+4886,Dishonored,PS4,2015.0,Action,0.12,0.2,0.02,0.06,,,
+4913,Until Dawn: Rush of Blood,PS4,2016.0,Adventure,0.18,0.15,0.0,0.07,72.0,8,M
+4917,Skylanders SWAP Force,PS4,2013.0,Platform,0.2,0.12,0.0,0.06,79.0,5.2,E10+
+4943,F1 2016 (Codemasters),PS4,2016.0,Racing,0.03,0.29,0.01,0.05,,,
+4944,Just Dance 2015,PS4,2014.0,Misc,0.19,0.13,0.0,0.07,72.0,5.8,E10+
+4988,Rock Band 4,PS4,2015.0,Misc,0.26,0.05,0.0,0.07,78.0,6.3,T
+5008,Deus Ex: Mankind Divided,PS4,2016.0,Role-Playing,0.11,0.21,0.0,0.06,84.0,7.6,M
+5066,Resident Evil Zero,PS4,2016.0,Action,0.1,0.17,0.05,0.05,,,
+5074,Persona 5,PS4,2016.0,Role-Playing,0.0,0.0,0.37,0.0,,,
+5114,BioShock The Collection,PS4,2016.0,Shooter,0.1,0.19,0.02,0.06,84.0,8.5,M
+5120,Rocket League,PS4,2016.0,Sports,0.03,0.28,0.0,0.05,85.0,8.7,E
+5131,DiRT Rally,PS4,2016.0,Racing,0.04,0.27,0.0,0.05,85.0,8.1,E
+5215,Just Dance 2016,PS4,2015.0,Misc,0.17,0.13,0.0,0.06,73.0,6.8,E10+
+5255,Farming Simulator 2015,PS4,2015.0,Simulation,0.1,0.2,0.0,0.06,,,
+5285,Homefront: The Revolution,PS4,2016.0,Shooter,0.06,0.21,0.03,0.05,48.0,3.8,M
+5287,One Piece: Burning Blood,PS4,2016.0,Fighting,0.11,0.13,0.07,0.05,66.0,7.8,T
+5320,Mirror's Edge Catalyst,PS4,2016.0,Platform,0.11,0.16,0.02,0.05,69.0,4.7,T
+5338,TrackMania Turbo,PS4,2016.0,Action,0.03,0.26,0.0,0.05,81.0,7.9,E
+5420,Dead or Alive 5,PS4,2015.0,Fighting,0.09,0.13,0.08,0.04,,,
+5439,World of Final Fantasy,PS4,2016.0,Role-Playing,0.08,0.14,0.08,0.04,77.0,8.3,E10+
+5444,NHL 17,PS4,2016.0,Sports,0.19,0.08,0.0,0.06,78.0,5.8,E10+
+5448,Star Ocean 5: Integrity and Faithlessness,PS4,2016.0,Role-Playing,0.07,0.09,0.15,0.03,,,
+5648,Murdered: Soul Suspect,PS4,2014.0,Action,0.09,0.16,0.02,0.05,59.0,6.9,M
+5746,Tropico 5,PS4,2015.0,Simulation,0.06,0.16,0.06,0.04,76.0,7.1,T
+5753,Skylanders: SuperChargers,PS4,2015.0,Action,0.17,0.08,0.0,0.05,81.0,3.3,E10+
+5816,DmC: Devil May Cry,PS4,2015.0,Action,0.12,0.13,0.0,0.05,,,
+5854,Batman: Arkham VR,PS4,2016.0,Action,0.25,0.0,0.0,0.06,75.0,7.3,M
+5894,Dynasty Warriors 8: Xtreme Legends,PS4,2014.0,Action,0.09,0.11,0.06,0.04,,,
+5988,Deadpool,PS4,2015.0,Action,0.14,0.11,0.0,0.05,60.0,5.7,M
+5989,UEFA Euro 2016,PS4,2016.0,Sports,0.0,0.22,0.04,0.04,72.0,6.6,E
+6056,Disgaea 5: Alliance of Vengeance,PS4,2015.0,Role-Playing,0.11,0.08,0.06,0.04,80.0,8.1,T
+6085,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,PS4,2016.0,Action,0.0,0.0,0.28,0.0,,,
+6113,Divinity: Original Sin,PS4,2015.0,Role-Playing,0.1,0.12,0.02,0.04,,,
+6172,Payday 2,PS4,2015.0,Shooter,0.1,0.14,0.0,0.05,,,
+6208,Attack on Titan (KOEI),PS4,2016.0,Action,0.04,0.11,0.11,0.03,,,
+6310,Sherlock Holmes: Crimes & Punishments,PS4,2014.0,Adventure,0.09,0.14,0.0,0.04,,,
+6427,Batman: Return to Arkham,PS4,2016.0,Action,0.07,0.16,0.0,0.04,73.0,8.5,T
+6448,Tearaway Unfolded,PS4,2015.0,Platform,0.09,0.13,0.0,0.04,81.0,8.1,E
+6461,J Stars Victory Vs.,PS4,2015.0,Fighting,0.08,0.14,0.0,0.04,,,
+6537,Battleborn,PS4,2016.0,Shooter,0.12,0.08,0.02,0.04,68.0,6.8,T
+6638,PlayStation VR Worlds,PS4,2016.0,Misc,0.06,0.14,0.02,0.04,59.0,7.1,M
+6754,The Walking Dead: Season Two,PS4,2014.0,Adventure,0.1,0.09,0.01,0.04,,,
+6756,Sword Art Online: Lost Song,PS4,2015.0,Role-Playing,0.1,0.11,0.0,0.04,63.0,6.3,T
+6777,Onechanbara Z2: Chaos,PS4,2014.0,Action,0.14,0.03,0.04,0.04,57.0,6.5,M
+6795,Samurai Warriors 4,PS4,2014.0,Action,0.08,0.07,0.06,0.03,76.0,8.1,T
+6870,Destiny: The Collection,PS4,2016.0,Shooter,0.05,0.15,0.0,0.04,,8.1,T
+6911,NBA Live 14,PS4,2013.0,Sports,0.15,0.05,0.0,0.04,43.0,2.7,E
+6955,NBA Live 15,PS4,2014.0,Sports,0.16,0.04,0.0,0.04,59.0,5.6,E
+7071,Transformers: Devastation,PS4,2015.0,Action,0.1,0.09,0.0,0.04,77.0,7.5,T
+7078,Tales of Berseria,PS4,2016.0,Role-Playing,0.0,0.0,0.23,0.0,,,T
+7159,Darksiders II,PS4,2015.0,Action,0.09,0.1,0.0,0.04,,,
+7171,Ride,PS4,2015.0,Racing,0.04,0.13,0.03,0.03,66.0,7,E
+7296,Angry Birds Star Wars,PS4,2013.0,Strategy,0.1,0.08,0.0,0.04,47.0,2,E
+7331,Transformer: Rise of the Dark Spark,PS4,2014.0,Action,0.07,0.1,0.01,0.03,,,
+7407,The Wolf Among Us,PS4,2014.0,Adventure,0.1,0.07,0.0,0.04,83.0,8.4,M
+7479,Tony Hawk's Pro Skater 5,PS4,2015.0,Sports,0.09,0.08,0.0,0.03,32.0,1.5,T
+7505,Assassin's Creed The Ezio Collection,PS4,2016.0,Action,0.04,0.13,0.0,0.03,72.0,7.4,M
+7534,Valkyria Chronicles,PS4,2016.0,Role-Playing,0.07,0.05,0.05,0.03,,,
+7539,Zombie Army Trilogy,PS4,2015.0,Shooter,0.05,0.12,0.0,0.03,62.0,6.8,
+7578,The Heavy Rain and Beyond: Two Souls Collection,PS4,2016.0,Action,0.0,0.17,0.0,0.03,,,
+7585,Odin Sphere: Leifthrasir,PS4,2016.0,Role-Playing,0.07,0.04,0.07,0.02,87.0,8.2,T
+7755,Bound By Flame,PS4,2014.0,Role-Playing,0.08,0.09,0.0,0.03,53.0,5.9,M
+7819,Dynasty Warriors 8: Empires,PS4,2014.0,Action,0.06,0.07,0.03,0.03,63.0,7.5,T
+7906,Singstar: Ultimate Party,PS4,2014.0,Misc,0.0,0.16,0.0,0.03,47.0,4.1,
+7966,Sword Art Online: Hollow Realization,PS4,2016.0,Role-Playing,0.06,0.02,0.1,0.02,69.0,7.7,T
+7973,Godzilla (2015),PS4,2014.0,Action,0.11,0.03,0.02,0.03,,,
+8057,Saint Seiya: Soldiers' Soul,PS4,2015.0,Fighting,0.0,0.12,0.04,0.02,59.0,7.8,T
+8069,MotoGP 14 ,PS4,2014.0,Racing,0.04,0.11,0.0,0.03,73.0,6.4,E
+8143,Senran Kagura: Estival Versus,PS4,2015.0,Action,0.08,0.0,0.08,0.02,67.0,8,M
+8190,Back to the Future: The Game,PS4,2015.0,Adventure,0.1,0.05,0.0,0.03,,7.1,T
+8198,NBA Live 16,PS4,2015.0,Sports,0.1,0.04,0.0,0.03,59.0,6.1,E
+8208,Yakuza Zero: The Place of Oath,PS4,2015.0,Action,0.0,0.0,0.17,0.0,,,
+8242,MotoGP 15,PS4,2015.0,Racing,0.0,0.12,0.03,0.02,66.0,,
+8249,Toukiden Kiwami,PS4,2015.0,Action,0.05,0.07,0.02,0.02,74.0,7.6,T
+8282,Jikkyou Powerful Pro Baseball 2016,PS4,2016.0,Sports,0.0,0.0,0.17,0.0,,,
+8367,Bladestorm: Nightmare,PS4,2015.0,Action,0.08,0.04,0.03,0.02,58.0,6.5,T
+8604,Guilty Gear Xrd: Sign,PS4,2014.0,Fighting,0.1,0.0,0.04,0.02,,,
+8611,Yakuza Kiwami,PS4,2016.0,Adventure,0.0,0.0,0.16,0.0,,,
+8636,Putty Squad,PS4,2013.0,Platform,0.06,0.07,0.0,0.03,38.0,2.9,E10+
+8871,Warriors Orochi 3,PS4,2014.0,Action,0.04,0.05,0.04,0.02,,,
+8886,The King of Fighters XIV,PS4,2016.0,Fighting,0.07,0.02,0.04,0.02,79.0,8.7,T
+8899,LEGO Harry Potter Collection,PS4,2016.0,Action,0.01,0.11,0.0,0.02,73.0,8.1,E10+
+8923,Yakuza: Ishin,PS4,2014.0,Action,0.0,0.0,0.15,0.0,,,
+9012,BlazBlue: Chrono Phantasma Extend,PS4,2015.0,Action,0.07,0.03,0.02,0.02,80.0,7.7,T
+9099,Skylanders Imaginators,PS4,2016.0,Platform,0.04,0.08,0.0,0.02,80.0,5.5,E10+
+9117,XCOM 2,PS4,2016.0,Strategy,0.04,0.08,0.0,0.02,88.0,8,T
+9197,7 Days to Die,PS4,2016.0,Action,0.04,0.08,0.0,0.02,45.0,5.9,M
+9224,Dead Island Definitive Collection,PS4,2016.0,Action,0.03,0.07,0.01,0.02,63.0,6.4,M
+9241,Brothers: A Tale of Two Sons,PS4,2015.0,Adventure,0.03,0.08,0.0,0.02,81.0,8.6,T
+9425,Gravity Rush Remastered,PS4,2015.0,Action,0.02,0.05,0.04,0.01,80.0,8.2,T
+9499,Final Fantasy XIV: Heavensward,PS4,2015.0,Action,0.0,0.06,0.06,0.01,86.0,7.6,T
+9766,Don Bradman Cricket 14,PS4,2015.0,Sports,0.01,0.09,0.0,0.02,76.0,7.4,E
+9770,Atelier Sophie: The Alchemist of the Mysterious Book,PS4,2015.0,Role-Playing,0.03,0.02,0.06,0.01,75.0,8.1,
+9780,Sword Art Online: Hollow Fragment,PS4,2015.0,Role-Playing,0.0,0.1,0.0,0.02,,,
+9793,Robinson: The Journey,PS4,2016.0,Action,0.06,0.03,0.0,0.02,65.0,6.9,
+9885,Akiba's Trip: Undead & Undressed,PS4,2014.0,Action,0.08,0.0,0.01,0.02,,,
+9922,Samurai Warriors 4-II,PS4,2015.0,Action,0.03,0.02,0.06,0.01,73.0,7.3,T
+10015,Rugby 15,PS4,2015.0,Sports,0.04,0.06,0.0,0.02,19.0,3.4,E
+10155,Digimon Story: Cyber Sleuth,PS4,2016.0,Role-Playing,0.0,0.1,0.0,0.02,75.0,8.5,T
+10252,Wasteland 2,PS4,2015.0,Role-Playing,0.08,0.0,0.02,0.02,,,
+10289,RIGS: Mechanized Combat League,PS4,2016.0,Action,0.03,0.05,0.01,0.02,79.0,7.9,T
+10326,God Eater 2: Rage Burst,PS4,2015.0,Role-Playing,0.0,0.01,0.09,0.0,69.0,8,T
+10405,Fate/Extella: The Umbral Star,PS4,2016.0,Action,0.0,0.0,0.11,0.0,,,T
+10630,Earth Defense Force 2025.1: The Shadow of New Despair,PS4,2015.0,Action,0.0,0.0,0.1,0.0,,,
+10724,Ultra Street Fighter IV,PS4,2015.0,Fighting,0.0,0.08,0.0,0.01,71.0,5.9,T
+10725,EVE: Valkyrie,PS4,2016.0,Shooter,0.03,0.05,0.0,0.02,73.0,6.3,T
+10728,The Crew: Wild Run,PS4,2015.0,Action,0.0,0.08,0.0,0.01,73.0,6.8,T
+10736,Natural Doctrine,PS4,2014.0,Role-Playing,0.05,0.02,0.02,0.01,53.0,6,M
+10772,The Idolmaster: Platinum Stars,PS4,2016.0,Simulation,0.0,0.0,0.1,0.0,,,
+10793,Gundam Breaker 3,PS4,2016.0,Action,0.0,0.0,0.1,0.0,,,
+10802,Samurai Warriors 4: Empires,PS4,2015.0,Action,0.02,0.01,0.06,0.01,71.0,6.5,T
+10868,Super Robot Wars OG: The Moon Dwellers,PS4,2016.0,Misc,0.0,0.0,0.09,0.0,,,
+10887,Devil May Cry 4,PS4,2015.0,Action,0.01,0.0,0.08,0.0,,,
+10893,Adventure Time: Finn & Jake Investigations,PS4,2015.0,Action,0.03,0.05,0.0,0.02,,,
+10925,Teenage Mutant Ninja Turtles: Mutants in Manhattan,PS4,2016.0,Action,0.05,0.02,0.0,0.02,44.0,5.5,T
+10970,MXGP 2,PS4,2016.0,Racing,0.02,0.05,0.0,0.01,,,
+11075,DriveClub VR,PS4,2016.0,Racing,0.03,0.05,0.0,0.01,67.0,7.4,E
+11102,Arslan: The Warriors of Legend,PS4,2015.0,Action,0.03,0.01,0.04,0.01,69.0,6.6,T
+11213,Batman: A Telltale Game Series,PS4,2016.0,Adventure,0.03,0.05,0.0,0.01,,,
+11224,The Witch and the Hundred Knight,PS4,2015.0,Role-Playing,0.02,0.01,0.05,0.01,,,
+11243,Assassin's Creed Chronicles,PS4,2016.0,Action,0.01,0.05,0.01,0.01,,6.1,T
+11245,Lara Croft and the Temple of Osiris,PS4,2014.0,Action,0.0,0.07,0.0,0.01,74.0,6.7,T
+11294,Toukiden 2,PS4,2016.0,Action,0.0,0.0,0.08,0.0,,,
+11297,SD Gundam G Generation Genesis,PS4,2016.0,Strategy,0.0,0.0,0.08,0.0,,,
+11301,BlazBlue Central Fiction,PS4,2016.0,Fighting,0.04,0.0,0.03,0.01,85.0,7.6,T
+11362,The Golf Club,PS4,2014.0,Sports,0.05,0.02,0.0,0.01,66.0,6.3,E
+11369,God Eater Resurrection,PS4,2015.0,Action,0.0,0.0,0.08,0.0,70.0,7.8,T
+11379,Shovel Knight,PS4,2015.0,Platform,0.03,0.03,0.0,0.01,90.0,7.6,E
+11414,Guilty Gear Xrd -Revelator-,PS4,2016.0,Fighting,0.03,0.0,0.05,0.01,,,
+11419,Mega Man Legacy Collection,PS4,2016.0,Platform,0.07,0.0,0.0,0.02,77.0,6.1,E
+11512,Pro Cycling Manager 2016,PS4,2016.0,Sports,0.0,0.07,0.0,0.01,,,
+11583,Resident Evil 6,PS4,2016.0,Shooter,0.06,0.0,0.0,0.01,60.0,6.7,M
+11609,Song of the Deep,PS4,2016.0,Action,0.06,0.0,0.0,0.01,69.0,7.3,E
+11610,Dragon's Dogma Online,PS4,2015.0,Role-Playing,0.0,0.0,0.08,0.0,,,
+11677,Valentino Rossi: The Game,PS4,2016.0,Racing,0.01,0.05,0.0,0.01,75.0,8,E
+11707,Yoru no Nai Kuni,PS4,2015.0,Role-Playing,0.0,0.0,0.08,0.0,,,
+11724,Romance of the Three Kingdoms 13,PS4,2015.0,Action,0.02,0.0,0.05,0.01,,,
+11761,Grand Ages: Medieval,PS4,2015.0,Strategy,0.0,0.05,0.02,0.01,64.0,7.1,T
+11839,Toy Soldiers: War Chest,PS4,2015.0,Action,0.06,0.0,0.0,0.01,62.0,7.7,
+11872,Fairy Fencer F: Advent Dark Force,PS4,2015.0,Role-Playing,0.02,0.0,0.05,0.0,71.0,6.2,T
+11963,Grand Kingdom,PS4,2015.0,Role-Playing,0.03,0.0,0.03,0.01,78.0,8.1,T
+12117,Eagle Flight,PS4,2016.0,Adventure,0.01,0.05,0.0,0.01,72.0,7.8,E10+
+12134,Legend of Kay,PS4,2015.0,Action,0.02,0.03,0.0,0.01,,,
+12137,The Book of Unwritten Tales 2,PS4,2015.0,Adventure,0.0,0.06,0.0,0.01,63.0,8.6,
+12228,Terraria,PS4,2014.0,Action,0.0,0.05,0.01,0.01,83.0,7.9,T
+12274,Broken Sword 5: The Serpent's Curse,PS4,2015.0,Adventure,0.0,0.06,0.0,0.01,72.0,7.2,T
+12391,Assetto Corsa,PS4,2016.0,Racing,0.0,0.05,0.0,0.01,73.0,6.2,E
+12430,Nights of Azure,PS4,2015.0,Action,0.03,0.02,0.0,0.01,67.0,7.6,T
+12463,Risen 3: Titan Lords,PS4,2015.0,Role-Playing,0.0,0.05,0.0,0.01,,,
+12476,Earth Defense Force 4.1: The Shadow of New Despair,PS4,2015.0,Shooter,0.03,0.02,0.0,0.01,64.0,7.9,M
+12491,The Technomancer,PS4,2016.0,Role-Playing,0.02,0.04,0.0,0.01,60.0,6.7,M
+12534,Project Setsuna,PS4,2016.0,Role-Playing,0.0,0.0,0.06,0.0,,,
+12647,Utawarerumono: Itsuwari no Kamen,PS4,2015.0,Adventure,0.0,0.0,0.06,0.0,,,
+12714,Kamen Rider: Battride War Genesis,PS4,2016.0,Action,0.0,0.0,0.06,0.0,,,
+12728,MX vs. ATV Supercross Encore,PS4,2015.0,Sports,0.0,0.05,0.0,0.01,42.0,4.1,E
+12756,Rugby World Cup 2015,PS4,2015.0,Sports,0.0,0.05,0.0,0.01,25.0,1.9,E
+12761,ZombiU,PS4,2016.0,Action,0.0,0.04,0.01,0.01,,,
+12817,Handball 16,PS4,2015.0,Sports,0.0,0.05,0.0,0.01,,3,E
+12824,Nobunaga no Yabou: Souzou,PS4,2014.0,Strategy,0.0,0.0,0.06,0.0,,,
+12836,Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,PS4,2016.0,Misc,0.01,0.0,0.05,0.0,,,
+12903,Ghostbusters (2016),PS4,2016.0,Action,0.04,0.0,0.0,0.01,,,
+12965,Mighty No. 9,PS4,2016.0,Platform,0.04,0.0,0.0,0.01,52.0,3.5,E10+
+12969,Dead or Alive Xtreme 3: Fortune,PS4,2016.0,Sports,0.0,0.0,0.05,0.0,43.0,7.8,
+12986,Arcania: Gothic 4,PS4,2015.0,Role-Playing,0.04,0.0,0.0,0.01,,,
+13005,WRC 5: FIA World Rally Championship,PS4,2015.0,Sports,0.0,0.05,0.0,0.01,,,
+13040,Killing Floor 2 ,PS4,2016.0,Shooter,0.03,0.01,0.0,0.01,76.0,8,M
+13078,Game of Thrones (Telltale),PS4,2015.0,Adventure,0.04,0.0,0.0,0.01,,,
+13110,Utawarerumono: Futari no Hakuoro,PS4,2016.0,Misc,0.0,0.0,0.05,0.0,,,
+13143,Steins;Gate 0,PS4,2015.0,Adventure,0.0,0.0,0.05,0.0,81.0,8.3,M
+13179,Sengoku Basara 4: Sumeragi,PS4,2015.0,Action,0.0,0.0,0.05,0.0,,,
+13212,Sword Art Online: Game Director's Edition,PS4,2015.0,Role-Playing,0.0,0.0,0.05,0.0,,,
+13227,Hatsune Miku: Project Diva X,PS4,2016.0,Misc,0.02,0.0,0.02,0.0,78.0,7.4,T
+13232,Resident Evil 4 HD,PS4,2016.0,Shooter,0.04,0.0,0.0,0.01,,,
+13250,Saints Row: Gat out of Hell,PS4,2015.0,Action,0.0,0.04,0.0,0.01,64.0,5.7,M
+13266,NASCAR Heat Evolution,PS4,2016.0,Racing,0.04,0.0,0.0,0.01,66.0,3.8,E
+13270,Child of Light,PS4,2014.0,Role-Playing,0.0,0.01,0.04,0.0,82.0,8,E10+
+13437,Ride 2,PS4,2016.0,Racing,0.0,0.04,0.0,0.01,71.0,8,E
+13484,Hitman (2016),PS4,2016.0,Action,0.0,0.04,0.0,0.01,,,
+13501,Sébastien Loeb Rally Evo,PS4,2016.0,Racing,0.0,0.04,0.0,0.01,71.0,8.1,E
+13549,Battlezone,PS4,2016.0,Action,0.02,0.02,0.0,0.01,66.0,7,T
+13597,Nobunaga's Ambition: Sphere of Influence,PS4,2014.0,Strategy,0.03,0.0,0.0,0.01,80.0,8.1,T
+13667,Nitroplus Blasterz: Heroines Infinite Duel,PS4,2015.0,Fighting,0.01,0.0,0.02,0.0,70.0,6.9,T
+13729,Rugby Challenge 3,PS4,2016.0,Sports,0.0,0.04,0.0,0.01,64.0,6.8,E
+13776,Psycho-Pass: Mandatory Happiness,PS4,2016.0,Adventure,0.03,0.0,0.0,0.01,72.0,8.3,T
+13873,Dead Rising,PS4,2016.0,Action,0.02,0.0,0.01,0.01,78.0,6.6,M
+13895,Hyperdimension Neptunia Victory II,PS4,2015.0,Role-Playing,0.0,0.0,0.04,0.0,,,
+13911,Berserk and the Band of the Hawk,PS4,2016.0,Action,0.0,0.0,0.04,0.0,,,
+13915,Metal Gear Solid V: The Definitive Experience,PS4,2016.0,Action,0.01,0.02,0.01,0.0,,7.8,M
+13993,Exist Archive: The Other Side of the Sky,PS4,2015.0,Role-Playing,0.01,0.0,0.03,0.0,69.0,7.9,T
+14001,Assassin's Creed Chronicles: China,PS4,2015.0,Action,0.0,0.03,0.0,0.01,69.0,6.4,T
+14102,Warhammer: The End Times - Vermintide,PS4,2016.0,Action,0.01,0.02,0.0,0.01,,,
+14157,Sengoku Basara: Sanada Yukimura-Den,PS4,2016.0,Action,0.0,0.0,0.03,0.0,,,
+14159,Infamous: First Light,PS4,2014.0,Action,0.0,0.03,0.0,0.0,73.0,7.5,T
+14162,Tour de France 2014,PS4,2014.0,Sports,0.0,0.03,0.0,0.0,53.0,5.1,E
+14207,Duke Nukem 3D: 20th Anniversary World Tour,PS4,2016.0,Shooter,0.03,0.0,0.0,0.01,77.0,6.9,M
+14222,Atelier Firis: The Alchemist of the Mysterious Journey,PS4,2016.0,Role-Playing,0.0,0.0,0.03,0.0,,,
+14257,JoJo's Bizarre Adventure: Eyes of Heaven,PS4,2015.0,Fighting,0.0,0.0,0.03,0.0,61.0,7.4,T
+14294,Just Dance 2017,PS4,2016.0,Misc,0.02,0.0,0.0,0.01,73.0,tbd,E10+
+14301,Let's Sing 2016,PS4,2015.0,Action,0.03,0.0,0.0,0.01,,tbd,T
+14368,Summon Night 6: Lost Borders,PS4,2016.0,Action,0.0,0.0,0.03,0.0,,,
+14385,Tokyo Xanadu eX+,PS4,2016.0,Role-Playing,0.0,0.0,0.03,0.0,,,
+14404,Prison Architect,PS4,2016.0,Action,0.01,0.01,0.0,0.01,80.0,8,M
+14509,Worms: WMD,PS4,2016.0,Action,0.01,0.02,0.0,0.0,78.0,7.6,E10+
+14689,Samurai Warriors: Sanada Maru,PS4,2016.0,Action,0.0,0.0,0.03,0.0,,,
+14708,The Talos Principle,PS4,2015.0,Puzzle,0.0,0.02,0.0,0.0,88.0,8.4,E10+
+14773,Loading Human,PS4,2016.0,Adventure,0.01,0.01,0.0,0.0,,,
+14836,Dead Rising 2,PS4,2016.0,Action,0.01,0.0,0.01,0.0,82.0,6.6,M
+14871,Resident Evil 5 HD,PS4,2016.0,Action,0.02,0.0,0.0,0.01,,,
+14885,God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2,PS4,2015.0,Misc,0.0,0.0,0.03,0.0,,,
+14899,The Peanuts Movie: Snoopy's Grand Adventure,PS4,2015.0,Action,0.0,0.02,0.0,0.0,59.0,6.6,E
+14902,Aegis of Earth: Protonovus Assault,PS4,2016.0,Action,0.02,0.0,0.0,0.0,57.0,7.8,T
+14940,Agatha Christie's The ABC Murders,PS4,2016.0,Adventure,0.01,0.01,0.0,0.0,67.0,6.2,T
+14944,Atari Flashback Classics: Volume 1,PS4,2016.0,Misc,0.02,0.0,0.0,0.0,,tbd,E
+14980,Legend of Kay Anniversary,PS4,2015.0,Action,0.0,0.02,0.0,0.0,62.0,6.4,E10+
+15012,Blade Arcus from Shining EX,PS4,2015.0,Fighting,0.0,0.0,0.02,0.0,,,
+15021,Assault Suit Leynos,PS4,2016.0,Shooter,0.02,0.0,0.0,0.0,67.0,tbd,E10+
+15047,Omega Quintet,PS4,2014.0,Role-Playing,0.0,0.0,0.02,0.0,58.0,7.1,T
+15056,Atari Flashback Classics: Volume 2,PS4,2016.0,Misc,0.02,0.0,0.0,0.0,,tbd,E
+15085,Rugby League Live 3,PS4,2015.0,Action,0.0,0.02,0.0,0.0,,7.6,E
+15115,Here They Lie,PS4,2016.0,Adventure,0.0,0.02,0.0,0.0,62.0,6.5,M
+15148,Resident Evil: Umbrella Corps,PS4,2016.0,Action,0.0,0.0,0.02,0.0,,,
+15175,Anima - Gate of Memories,PS4,2016.0,Action,0.0,0.02,0.0,0.0,52.0,7.9,T
+15227,Dino Dini's Kick Off Revival,PS4,2016.0,Sports,0.0,0.02,0.0,0.0,31.0,4.5,
+15246,Black Rose Valkyrie,PS4,2016.0,Role-Playing,0.0,0.0,0.02,0.0,,,
+15359,Touhou Genso Rondo: Bullet Ballet,PS4,2016.0,Shooter,0.02,0.0,0.0,0.0,55.0,4.7,E10+
+15383,Paragon,PS4,2016.0,Action,0.02,0.0,0.0,0.0,,6.1,
+15487,Darksiders: Warmastered Edition,PS4,2016.0,Action,0.02,0.0,0.0,0.0,79.0,8.5,M
+15556,Natsuiro High School: Seishun Hakusho,PS4,2015.0,Action,0.0,0.0,0.02,0.0,,,
+15599,Winning Post 8 2016,PS4,2016.0,Simulation,0.0,0.0,0.02,0.0,,,
+15734,Prototype: Biohazard Bundle,PS4,2016.0,Action,0.01,0.0,0.0,0.0,48.0,2,M
+15762,Rabbids Invasion: The Interactive TV Show,PS4,2014.0,Misc,0.0,0.01,0.0,0.0,,,
+15790,This War of Mine,PS4,2016.0,Action,0.0,0.01,0.0,0.0,,,
+15814,Koihime Enbu,PS4,2016.0,Fighting,0.0,0.0,0.02,0.0,,,
+15823,Dynasty Warriors: Eiketsuden,PS4,2016.0,Action,0.0,0.0,0.02,0.0,,,
+15839,Mark McMorris Infinite Air,PS4,2016.0,Sports,0.01,0.0,0.0,0.0,49.0,6,T
+15864,Rocksmith 2014 Edition Remastered,PS4,2016.0,Misc,0.01,0.0,0.0,0.0,,7.8,T
+15943,Professional Farmer 2016,PS4,2015.0,Action,0.0,0.01,0.0,0.0,,,
+15948,Dragon's Dogma Online: Season 2,PS4,2016.0,Action,0.0,0.0,0.02,0.0,,,
+15993,God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,PS4,2016.0,Action,0.0,0.0,0.02,0.0,,,
+15994,God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,PS4,2016.0,Misc,0.0,0.0,0.02,0.0,,,
+16076,King's Quest: The Complete Collection,PS4,2016.0,Adventure,0.01,0.0,0.0,0.0,,tbd,E10+
+16113,Republique,PS4,2016.0,Action,0.0,0.01,0.01,0.0,72.0,5.8,M
+16135,Super Stardust Ultra VR,PS4,2016.0,Shooter,0.0,0.01,0.0,0.0,66.0,6.2,E10+
+16158,Raven's Cry,PS4,2015.0,Role-Playing,0.0,0.01,0.0,0.0,,,
+16362,Crows: Burning Edge,PS4,2016.0,Action,0.0,0.0,0.01,0.0,,,
+16398,Chaos;Child,PS4,2015.0,Adventure,0.0,0.0,0.01,0.0,,,
+16428,R.B.I. Baseball 2016,PS4,2016.0,Sports,0.01,0.0,0.0,0.0,,,
+16486,Super Dungeon Bros,PS4,2016.0,Action,0.01,0.0,0.0,0.0,42.0,2.3,E10+
+16496,God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,PS4,2016.0,Action,0.0,0.0,0.01,0.0,,,
+16499,Sherlock Holmes: The Devil's Daughter,PS4,2016.0,Adventure,0.01,0.0,0.0,0.0,70.0,6.8,T
+16500,Root Letter,PS4,2016.0,Adventure,0.0,0.0,0.01,0.0,69.0,7.5,
+16503,Shin Hayarigami 2,PS4,2016.0,Adventure,0.0,0.0,0.01,0.0,,,
+16526,Dungeons 2,PS4,2016.0,Role-Playing,0.01,0.0,0.0,0.0,61.0,7.9,T
+16530,Carmageddon: Max Damage,PS4,2016.0,Action,0.01,0.0,0.0,0.0,51.0,5.5,M
+16585,Farming 2017 - The Simulation,PS4,2016.0,Simulation,0.0,0.01,0.0,0.0,,,

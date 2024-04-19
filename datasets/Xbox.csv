@@ -1,0 +1,825 @@
+,Name,Platform,Year_of_Release,Genre,NA_sales,EU_sales,JP_sales,Other_sales,Critic_Score,User_Score,Rating
+78,Halo 2,XB,2004.0,Shooter,6.82,1.53,0.05,0.08,95.0,8.2,M
+129,Halo: Combat Evolved,XB,2001.0,Shooter,4.98,1.3,0.08,0.07,97.0,8.6,M
+466,Tom Clancy's Splinter Cell,XB,2002.0,Action,1.85,1.04,0.0,0.13,93.0,8.5,T
+508,The Elder Scrolls III: Morrowind,XB,2002.0,Role-Playing,2.09,0.63,0.03,0.11,87.0,8.7,T
+569,Fable,XB,2004.0,Role-Playing,1.99,0.58,0.0,0.09,85.0,8.5,M
+620,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,XB,2003.0,Action,1.84,0.56,0.0,0.09,,,
+696,Need for Speed Underground 2,XB,2004.0,Racing,1.38,0.8,0.0,0.1,77.0,8.7,E
+746,Star Wars: Knights of the Old Republic,XB,2003.0,Role-Playing,1.68,0.44,0.0,0.08,94.0,9.2,T
+778,Project Gotham Racing,XB,2001.0,Racing,1.37,0.61,0.05,0.09,85.0,8.2,E
+788,Project Gotham Racing (JP weekly sales),XB,2002.0,Action,1.54,0.44,0.04,0.07,,,
+875,Grand Theft Auto: San Andreas,XB,2005.0,Action,1.26,0.61,0.0,0.09,93.0,8.6,AO
+931,Madden NFL 06,XB,2005.0,Sports,1.75,0.03,0.0,0.08,86.0,6.7,E
+987,Dead or Alive 3,XB,2001.0,Fighting,1.19,0.29,0.24,0.06,87.0,8.6,T
+999,Tom Clancy's Ghost Recon,XB,2002.0,Shooter,1.23,0.46,0.0,0.07,84.0,6.1,M
+1005,Star Wars: Battlefront,XB,2004.0,Shooter,1.24,0.45,0.0,0.07,80.0,9.1,T
+1038,Madden NFL 2005,XB,2004.0,Sports,1.61,0.03,0.0,0.08,91.0,7.6,E
+1045,Need for Speed Underground,XB,2003.0,Racing,1.09,0.55,0.0,0.07,83.0,8.7,E
+1086,Star Wars: Battlefront II,XB,2005.0,Shooter,1.22,0.39,0.0,0.06,83.0,8.9,T
+1090,PGR: Project Gotham Racing 2,XB,2003.0,Racing,0.97,0.59,0.04,0.07,,,
+1126,ESPN NFL 2K5,XB,2004.0,Sports,1.54,0.02,0.0,0.07,92.0,9.1,E
+1202,Tom Clancy's Rainbow Six 3,XB,2003.0,Shooter,0.91,0.57,0.0,0.07,86.0,8.5,M
+1268,Medal of Honor: Frontline,XB,2002.0,Shooter,1.0,0.43,0.0,0.06,81.0,6.9,T
+1289,Tom Clancy's Splinter Cell: Pandora Tomorrow,XB,2004.0,Action,0.82,0.59,0.0,0.07,93.0,8.6,T
+1375,Spider-Man: The Movie,XB,2002.0,Action,1.07,0.28,0.0,0.05,79.0,7.5,E
+1397,True Crime: Streets of LA,XB,2003.0,Action,0.96,0.37,0.0,0.05,77.0,7.8,M
+1414,Star Wars Knights of the Old Republic II: The Sith Lords,XB,2004.0,Role-Playing,0.99,0.33,0.0,0.05,86.0,8.6,T
+1419,Tom Clancy's Ghost Recon 2,XB,2004.0,Shooter,0.86,0.45,0.0,0.06,80.0,8.9,T
+1438,The Simpsons: Hit & Run,XB,2003.0,Racing,0.7,0.58,0.0,0.07,,,
+1454,Doom 3,XB,2005.0,Shooter,0.85,0.43,0.0,0.06,88.0,7.4,M
+1504,Burnout 3: Takedown,XB,2004.0,Racing,0.84,0.43,0.0,0.04,94.0,7.2,T
+1557,Tony Hawk's Underground,XB,2003.0,Sports,0.85,0.37,0.0,0.05,85.0,9.1,T
+1610,Star Wars Episode III: Revenge of the Sith,XB,2005.0,Action,0.82,0.38,0.0,0.04,61.0,8.1,T
+1616,Ninja Gaiden,XB,2004.0,Action,0.92,0.2,0.07,0.04,91.0,8.8,M
+1618,Crash Bandicoot: The Wrath of Cortex,XB,2002.0,Platform,0.59,0.57,0.0,0.07,70.0,8.1,E
+1647,Max Payne,XB,2001.0,Shooter,0.98,0.19,0.0,0.05,89.0,8.3,M
+1652,Fuzion Frenzy,XB,2001.0,Misc,0.93,0.24,0.0,0.04,70.0,6.9,E
+1653,Call of Duty: Finest Hour,XB,2004.0,Shooter,0.78,0.4,0.0,0.04,73.0,7.8,T
+1684,Enter the Matrix,XB,2003.0,Action,0.72,0.43,0.01,0.04,65.0,7.1,T
+1699,Hitman 2: Silent Assassin,XB,,Action,0.76,0.38,0.0,0.05,84.0,8,M
+1735,Medal of Honor: Rising Sun,XB,2003.0,Shooter,0.76,0.36,0.0,0.05,65.0,5.8,T
+1755,LEGO Star Wars: The Video Game,XB,2005.0,Action,0.83,0.28,0.0,0.05,,,
+1792,The Lord of the Rings: The Return of the King,XB,2003.0,Action,0.71,0.38,0.0,0.05,84.0,9.1,T
+1802,MechAssault,XB,2002.0,Simulation,1.01,0.1,0.0,0.03,87.0,8,T
+1808,Tom Clancy's Rainbow Six 3: Black Arrow,XB,2004.0,Shooter,0.99,0.12,0.0,0.02,84.0,8.6,M
+1825,Call Of Duty 2: Big Red One,XB,2005.0,Shooter,0.66,0.4,0.0,0.05,78.0,5.1,T
+1832,Spider-Man 2,XB,2004.0,Action,0.82,0.26,0.0,0.04,83.0,8.3,T
+1836,Counter-Strike,XB,2003.0,Shooter,0.85,0.23,0.0,0.04,74.0,7.6,M
+1841,Tom Clancy's Splinter Cell: Chaos Theory,XB,2005.0,Action,0.68,0.38,0.0,0.05,94.0,9,M
+1881,Madden NFL 2004,XB,2003.0,Sports,1.02,0.02,0.0,0.05,92.0,8.3,E
+1976,The Simpsons: Road Rage,XB,2001.0,Racing,0.78,0.26,0.0,0.01,61.0,8.3,T
+1979,Forza Motorsport,XB,2005.0,Racing,0.52,0.51,0.0,0.02,92.0,7.6,E
+1998,Need for Speed: Most Wanted,XB,2005.0,Racing,0.53,0.46,0.0,0.05,83.0,8.8,T
+2035,Madden NFL 07,XB,2006.0,Sports,0.97,0.03,0.0,0.03,83.0,8.7,E
+2067,SoulCalibur II,XB,2003.0,Fighting,0.78,0.18,0.03,0.0,92.0,8.9,T
+2076,NFL Fever 2002,XB,2000.0,Sports,0.74,0.21,0.0,0.04,79.0,8.5,E
+2113,NCAA Football 06,XB,2005.0,Sports,0.73,0.21,0.0,0.03,87.0,8.3,E
+2125,FIFA Soccer 2005,XB,2004.0,Sports,0.33,0.6,0.0,0.04,81.0,8.7,E
+2150,Mortal Kombat: Deadly Alliance,XB,2002.0,Fighting,0.77,0.15,0.0,0.04,81.0,8.4,M
+2153,ESPN NBA 2K5,XB,2004.0,Sports,0.88,0.04,0.0,0.04,85.0,8.7,E
+2195,MVP Baseball 2005,XB,2005.0,Sports,0.7,0.2,0.0,0.03,86.0,,
+2205,Prince of Persia: The Sands of Time,XB,2003.0,Action,0.57,0.33,0.0,0.04,92.0,7.8,T
+2213,Tony Hawk's Pro Skater 4,XB,2002.0,Sports,0.59,0.3,0.0,0.04,90.0,8.5,T
+2281,Namco Museum,XB,,Misc,0.77,0.11,0.0,0.04,59.0,tbd,E
+2286,Sonic Mega Collection Plus,XB,2004.0,Misc,0.61,0.26,0.0,0.04,75.0,7.9,E
+2308,Sonic Heroes,XB,2003.0,Platform,0.41,0.43,0.01,0.05,73.0,7.6,E
+2311,James Bond 007: Agent Under Fire,XB,2002.0,Shooter,0.65,0.22,0.0,0.03,71.0,7.5,T
+2316,X-Men Legends,XB,2004.0,Role-Playing,0.62,0.24,0.0,0.04,82.0,8.5,T
+2317,NBA Live 2005,XB,2004.0,Sports,0.81,0.05,0.0,0.04,85.0,7.6,E
+2376,Crimson Skies: High Road to Revenge,XB,2003.0,Simulation,0.65,0.19,0.0,0.03,88.0,8.8,T
+2382,Tom Clancy's Ghost Recon: Island Thunder,XB,2003.0,Shooter,0.61,0.24,0.0,0.03,81.0,8.8,M
+2401,Conflict: Desert Storm,XB,2002.0,Shooter,0.48,0.37,0.0,0.02,65.0,8.1,T
+2433,Tiger Woods PGA Tour 2005,XB,2004.0,Sports,0.64,0.18,0.0,0.03,88.0,8.9,E
+2485,Brute Force,XB,2003.0,Shooter,0.62,0.18,0.01,0.03,77.0,7.8,M
+2503,James Bond 007: Nightfire,XB,2002.0,Shooter,0.58,0.22,0.0,0.03,78.0,7.8,T
+2509,Need for Speed: Hot Pursuit 2,XB,2002.0,Racing,0.68,0.11,0.0,0.03,75.0,6.4,E
+2514,Amped: Freestyle Snowboarding,XB,2001.0,Sports,0.69,0.11,0.0,0.02,78.0,9,E
+2564,Prince of Persia: Warrior Within,XB,2004.0,Action,0.48,0.28,0.0,0.04,83.0,7.5,M
+2606,FIFA Soccer 2004,XB,2003.0,Sports,0.24,0.49,0.0,0.05,82.0,8.2,E
+2679,Driv3r,XB,2004.0,Racing,0.36,0.38,0.0,0.03,56.0,4.7,M
+2698,Mortal Kombat: Deception,XB,2004.0,Fighting,0.61,0.12,0.0,0.03,81.0,8.8,M
+2735,Tony Hawk's Underground 2,XB,2004.0,Sports,0.48,0.24,0.0,0.03,83.0,7.8,T
+2761,Midnight Club 3: DUB Edition,XB,2005.0,Racing,0.61,0.1,0.0,0.03,84.0,7.4,E10+
+2772,Unreal Championship,XB,2002.0,Shooter,0.59,0.12,0.0,0.03,83.0,8.2,M
+2803,Oddworld: Munch's Oddysee,XB,2001.0,Platform,0.54,0.16,0.0,0.03,80.0,8.7,T
+2810,Full Spectrum Warrior,XB,2004.0,Strategy,0.54,0.16,0.0,0.03,84.0,8.7,M
+2832,Dead to Rights,XB,2002.0,Shooter,0.53,0.17,0.0,0.03,73.0,8.9,M
+2861,The Lord of the Rings: The Two Towers,XB,2002.0,Action,0.45,0.24,0.0,0.03,79.0,8.1,T
+2862,Madden NFL 2003,XB,2002.0,Sports,0.67,0.02,0.0,0.03,92.0,8.3,E
+2874,Conker: Live And Reloaded,XB,2005.0,Adventure,0.49,0.2,0.0,0.02,,,
+2894,Doom 3: Resurrection of Evil,XB,2005.0,Shooter,0.53,0.15,0.0,0.03,77.0,7.9,M
+2904,Star Wars: Obi-Wan,XB,2001.0,Action,0.52,0.16,0.0,0.02,58.0,5.9,T
+2912,Jade Empire,XB,2005.0,Role-Playing,0.48,0.19,0.0,0.03,89.0,8.6,M
+2941,Halo 2 Multiplayer Map Pack,XB,2005.0,Shooter,0.54,0.13,0.0,0.02,89.0,7.4,M
+2972,NBA Street Vol. 2,XB,2003.0,Sports,0.62,0.04,0.0,0.02,89.0,8.8,E
+2976,NCAA Football 2005,XB,2004.0,Sports,0.63,0.02,0.0,0.03,89.0,8,E
+2983,Mercenaries: Playground of Destruction,XB,2005.0,Action,0.54,0.11,0.0,0.03,,,
+2987,FIFA Soccer 06,XB,2005.0,Sports,0.29,0.38,0.0,0.01,80.0,7.5,E
+2988,Fight Night 2004,XB,2004.0,Fighting,0.51,0.15,0.0,0.02,85.0,8.7,T
+2996,Return to Castle Wolfenstein: Tides of War,XB,2003.0,Shooter,0.49,0.16,0.0,0.02,84.0,8.8,M
+3002,Fight Night Round 2004,XB,2004.0,Fighting,0.46,0.18,0.0,0.03,,,
+3008,Star Wars: Republic Commando,XB,2005.0,Shooter,0.48,0.17,0.0,0.02,78.0,8.9,T
+3029,NFL Street,XB,2004.0,Sports,0.49,0.15,0.0,0.02,81.0,8.8,E
+3046,Finding Nemo,XB,2003.0,Action,0.48,0.16,0.0,0.02,63.0,tbd,E
+3080,Brothers In Arms: Road to Hill 30,XB,2005.0,Shooter,0.49,0.14,0.0,0.02,88.0,8,M
+3135,Max Payne 2: The Fall of Max Payne,XB,2003.0,Shooter,0.47,0.15,0.0,0.02,84.0,8.4,M
+3142,James Bond 007: Everything or Nothing,XB,2004.0,Shooter,0.43,0.19,0.0,0.02,83.0,7.4,T
+3144,NBA Live 06,XB,2005.0,Sports,0.57,0.04,0.0,0.03,79.0,6.4,E
+3152,TimeSplitters 2,XB,2002.0,Shooter,0.29,0.33,0.0,0.01,88.0,7.7,T
+3180,Tony Hawk's Pro Skater 2x,XB,2001.0,Sports,0.41,0.19,0.0,0.03,78.0,8.8,T
+3183,FIFA Soccer 2003,XB,2002.0,Sports,0.2,0.4,0.0,0.04,88.0,7.7,E
+3223,Metal Gear Solid 2: Substance,XB,,Action,0.38,0.22,0.0,0.03,87.0,8.5,M
+3224,Tony Hawk's American Wasteland,XB,2005.0,Sports,0.4,0.2,0.0,0.03,77.0,7.7,T
+3232,Tiger Woods PGA Tour 2004,XB,2003.0,Sports,0.47,0.13,0.0,0.02,89.0,8.2,E
+3276,NFL Fever 2003,XB,2002.0,Sports,0.46,0.13,0.0,0.02,72.0,8.6,E
+3298,Half-Life 2,XB,2005.0,Shooter,0.37,0.21,0.0,0.03,90.0,8.6,M
+3331,Fight Night Round 2,XB,2005.0,Fighting,0.42,0.16,0.0,0.02,88.0,8.8,T
+3396,MVP Baseball 2004,XB,2004.0,Sports,0.44,0.13,0.0,0.02,90.0,8.5,E
+3406,Dead or Alive Xtreme Beach Volleyball,XB,2003.0,Sports,0.36,0.08,0.14,0.02,73.0,7.8,M
+3463,Prince of Persia: The Two Thrones,XB,2005.0,Action,0.33,0.22,0.0,0.03,85.0,8.4,M
+3486,Madden NFL 2002,XB,,Sports,0.53,0.02,0.0,0.03,90.0,8.1,E
+3490,Far Cry Instincts,XB,2005.0,Shooter,0.32,0.24,0.0,0.02,85.0,5.7,M
+3518,Blood Wake,XB,2001.0,Shooter,0.43,0.12,0.0,0.02,71.0,7.5,T
+3525,Wreckless: ThE YaKuza MisSiOns,XB,2002.0,Racing,0.42,0.11,0.02,0.02,74.0,5.2,T
+3530,SpongeBob SquarePants: Battle for Bikini Bottom,XB,2003.0,Platform,0.45,0.1,0.0,0.02,70.0,8.9,E
+3539,RalliSport Challenge,XB,2002.0,Racing,0.39,0.16,0.0,0.02,87.0,8.3,E
+3563,The Sims: Bustin' Out,XB,2003.0,Simulation,0.4,0.14,0.0,0.02,81.0,8.9,T
+3575,Battlefield 2: Modern Combat,XB,2005.0,Shooter,0.39,0.15,0.0,0.02,80.0,8.2,T
+3584,WWE Raw 2,XB,2003.0,Fighting,0.43,0.11,0.0,0.02,68.0,7.3,T
+3599,Blinx: The Time Sweeper,XB,2002.0,Platform,0.39,0.15,0.0,0.02,71.0,8,E
+3602,Major League Baseball 2K5,XB,2005.0,Sports,0.52,0.02,0.0,0.02,81.0,8.2,E
+3615,NCAA Football 07,XB,2006.0,Sports,0.42,0.12,0.0,0.01,88.0,6.9,E
+3624,The Godfather (old US sales),XB,2006.0,Action,0.42,0.11,0.0,0.02,,,
+3627,WWF Raw,XB,2002.0,Fighting,0.4,0.13,0.0,0.02,68.0,6.6,T
+3642,Tony Hawk's Pro Skater 3,XB,2002.0,Sports,0.34,0.18,0.0,0.02,93.0,8.4,T
+3655,Shrek 2,XB,2004.0,Platform,0.4,0.13,0.0,0.02,72.0,8.4,E
+3667,Turok: Evolution,XB,2002.0,Shooter,0.39,0.14,0.0,0.02,68.0,6.7,M
+3674,Red Dead Revolver,XB,2004.0,Shooter,0.4,0.12,0.0,0.02,74.0,8.5,M
+3683,The SpongeBob SquarePants Movie,XB,2004.0,Platform,0.4,0.12,0.0,0.02,74.0,8.5,E
+3686,FIFA Soccer 07,XB,2006.0,Sports,0.16,0.35,0.0,0.04,,,
+3692,Dance Dance Revolution Ultramix,XB,2003.0,Simulation,0.42,0.11,0.0,0.02,82.0,8.8,E
+3704,Def Jam: Fight for NY,XB,,Fighting,0.43,0.1,0.0,0.02,84.0,8.5,M
+3722,Greg Hastings' Tournament Paintball,XB,2004.0,Shooter,0.46,0.06,0.0,0.02,74.0,9.2,T
+3761,2 in 1 Combo Pack: Sonic Heroes / Super Monkey Ball Deluxe,XB,2004.0,Misc,0.4,0.11,0.0,0.02,,,
+3765,Blitz: The League,XB,2004.0,Sports,0.4,0.11,0.0,0.02,78.0,7.7,M
+3775,Peter Jackson's King Kong: The Official Game of the Movie,XB,2005.0,Action,0.34,0.17,0.0,0.02,82.0,8.5,T
+3776,Burnout Revenge,XB,2005.0,Racing,0.32,0.19,0.0,0.01,89.0,8.4,E10+
+3777,Medal of Honor: European Assault,XB,2005.0,Shooter,0.32,0.19,0.0,0.02,72.0,7,T
+3779,The Lord of the Rings: The Fellowship of the Ring,XB,2002.0,Action,0.31,0.19,0.0,0.03,59.0,6.6,T
+3836,NCAA Football 2003,XB,2002.0,Sports,0.39,0.11,0.0,0.02,90.0,8.2,E
+3854,Gun,XB,2005.0,Shooter,0.38,0.12,0.0,0.02,79.0,7.8,M
+3870,NFL 2K3,XB,2002.0,Sports,0.38,0.11,0.0,0.02,,,
+3907,NBA Live 2004,XB,2003.0,Sports,0.44,0.04,0.0,0.02,85.0,8.2,E
+3923,World Championship Poker,XB,2004.0,Misc,0.37,0.11,0.0,0.02,66.0,tbd,E
+3928,NBA Ballers,XB,2004.0,Sports,0.37,0.11,0.0,0.02,82.0,8.1,E
+3945,Midnight Club II,XB,2003.0,Racing,0.42,0.06,0.0,0.02,86.0,7.6,T
+3978,Dead or Alive Ultimate,XB,2004.0,Fighting,0.3,0.1,0.08,0.02,83.0,8.7,M
+4030,GoldenEye: Rogue Agent,XB,2004.0,Shooter,0.34,0.13,0.0,0.02,61.0,7.2,T
+4038,Scarface: The World is Yours,XB,2006.0,Action,0.37,0.11,0.0,0.02,76.0,8.4,M
+4061,Pac-Man World 2,XB,2002.0,Action,0.36,0.11,0.0,0.02,66.0,tbd,E
+4078,NFL Street 2,XB,2004.0,Sports,0.36,0.11,0.0,0.02,78.0,6.5,E
+4119,Tiger Woods PGA Tour 06,XB,2005.0,Sports,0.35,0.11,0.0,0.02,81.0,5.1,E
+4175,Need for Speed Carbon,XB,2006.0,Racing,0.35,0.1,0.0,0.02,74.0,7.4,E10+
+4215,Destroy All Humans!,XB,2005.0,Shooter,0.34,0.11,0.0,0.02,,,
+4269,Top Spin,XB,2003.0,Sports,0.36,0.08,0.0,0.02,89.0,8.2,E
+4284,NASCAR 2005: Chase for the Cup,XB,2004.0,Racing,0.34,0.1,0.0,0.02,86.0,tbd,E
+4294,The Chronicles of Riddick: Escape from Butcher Bay,XB,,Shooter,0.32,0.11,0.0,0.02,89.0,8.9,M
+4308,Star Wars Jedi Knight: Jedi Academy,XB,2003.0,Shooter,0.34,0.1,0.0,0.02,76.0,8.7,T
+4349,WWE WrestleMania 21,XB,2005.0,Fighting,0.34,0.1,0.0,0.02,56.0,6.9,T
+4355,ATV Quad Power Racing 2,XB,2003.0,Racing,0.36,0.07,0.0,0.01,68.0,tbd,E
+4381,World Soccer Winning Eleven 9,XB,2005.0,Sports,0.06,0.33,0.02,0.03,89.0,7.9,E
+4389,X-Men Legends II: Rise of Apocalypse,XB,2005.0,Role-Playing,0.3,0.12,0.0,0.02,84.0,8.7,T
+4396,The Godfather (US sales),XB,2006.0,Action,0.33,0.1,0.0,0.02,,,
+4399,Tiger Woods PGA Tour 2003,XB,2002.0,Sports,0.35,0.08,0.0,0.01,88.0,8.5,E
+4401,50 Cent: Bulletproof,XB,2005.0,Action,0.33,0.1,0.0,0.02,50.0,5.9,M
+4407,LEGO Star Wars II: The Original Trilogy,XB,2006.0,Action,0.33,0.1,0.0,0.02,85.0,8.6,E10+
+4428,MX Unleashed,XB,2004.0,Racing,0.34,0.08,0.0,0.02,81.0,9.3,E
+4464,Star Wars: Jedi Starfighter,XB,2002.0,Simulation,0.35,0.07,0.0,0.02,78.0,5.2,T
+4478,SSX Tricky,XB,2001.0,Sports,0.32,0.09,0.0,0.02,88.0,8.5,E
+4486,NCAA Football 2004,XB,2003.0,Sports,0.4,0.02,0.0,0.02,88.0,8.8,E
+4537,Midway Arcade Treasures,XB,2003.0,Misc,0.33,0.08,0.0,0.01,74.0,tbd,T
+4558,The Sims,XB,2003.0,Simulation,0.31,0.1,0.0,0.01,84.0,6.9,T
+4580,ESPN NHL 2K5,XB,2004.0,Sports,0.32,0.09,0.0,0.02,88.0,8.5,E
+4597,Test Drive,XB,2002.0,Racing,0.35,0.05,0.0,0.02,71.0,8.7,T
+4611,Dance Dance Revolution Ultramix 2,XB,2004.0,Simulation,0.32,0.09,0.0,0.02,78.0,7.1,E
+4632,Black,XB,2006.0,Shooter,0.31,0.09,0.0,0.01,77.0,8,M
+4633,Double Pack: Finding Nemo / The Incredibles,XB,2006.0,Action,0.31,0.09,0.0,0.01,,,
+4641,Lord of the Rings: The Third Age,XB,2004.0,Role-Playing,0.31,0.09,0.0,0.01,,,
+4652,Star Wars Starfighter: Special Edition,XB,2001.0,Simulation,0.3,0.1,0.0,0.02,76.0,tbd,T
+4671,Tom Clancy's Rainbow Six: Lockdown,XB,2005.0,Shooter,0.26,0.13,0.0,0.02,74.0,6.6,M
+4820,MX vs. ATV Unleashed,XB,2005.0,Racing,0.32,0.07,0.0,0.01,80.0,8.3,E
+4838,NBA Live 2002,XB,2001.0,Sports,0.35,0.03,0.0,0.02,76.0,7.5,E
+4861,Ultimate Spider-Man,XB,2005.0,Action,0.26,0.11,0.0,0.02,77.0,7.4,T
+4882,The House of The Dead III,XB,2002.0,Shooter,0.29,0.08,0.0,0.01,72.0,7.3,M
+4904,SSX 3,XB,2003.0,Sports,0.29,0.08,0.0,0.01,92.0,8.7,E
+4941,Tom Clancy's Ghost Recon 2: Summit Strike,XB,2005.0,Shooter,0.29,0.08,0.0,0.01,84.0,7.2,T
+4968,ESPN College Hoops 2K5,XB,2004.0,Sports,0.29,0.08,0.0,0.01,86.0,8.3,E
+5022,Hunter: The Reckoning,XB,2002.0,Action,0.28,0.08,0.0,0.01,79.0,8.9,M
+5053,Dance Dance Revolution Ultramix 3,XB,2005.0,Simulation,0.28,0.08,0.0,0.01,75.0,8.6,E10+
+5078,NBA Inside Drive 2002,XB,2002.0,Sports,0.28,0.08,0.0,0.01,76.0,tbd,E
+5156,NBA Live 2003,XB,,Sports,0.31,0.04,0.0,0.01,82.0,8.8,E
+5199,NBA 2K6,XB,2005.0,Action,0.27,0.08,0.0,0.01,84.0,8.7,E
+5210,MechAssault 2: Lone Wolf,XB,2004.0,Simulation,0.27,0.08,0.0,0.01,81.0,7.5,T
+5216,ESPN NFL Football,XB,2003.0,Sports,0.27,0.08,0.0,0.01,91.0,8.9,E
+5234,Harry Potter and the Chamber of Secrets,XB,2002.0,Action,0.27,0.08,0.0,0.01,77.0,7.2,E
+5244,Shrek,XB,2001.0,Platform,0.25,0.1,0.0,0.01,49.0,5.4,T
+5271,Cabela's Dangerous Hunts,XB,2003.0,Sports,0.26,0.08,0.0,0.01,,9.1,T
+5304,Xbox Music Mixer,XB,2003.0,Misc,0.26,0.08,0.0,0.01,49.0,tbd,E
+5371,Hitman: Contracts,XB,2004.0,Shooter,0.26,0.07,0.0,0.01,78.0,8.8,M
+5384,The Urbz: Sims in the City,XB,2004.0,Simulation,0.22,0.11,0.0,0.01,70.0,6.5,T
+5399,MVP 06 NCAA Baseball,XB,2006.0,Sports,0.25,0.07,0.0,0.01,75.0,8.6,E
+5410,Spy Hunter,XB,2002.0,Racing,0.25,0.07,0.0,0.01,71.0,tbd,T
+5429,Delta Force: Black Hawk Down,XB,2005.0,Shooter,0.25,0.07,0.0,0.01,61.0,6.6,T
+5435,Tom Clancy's Ghost Recon Advanced Warfighter,XB,2006.0,Shooter,0.21,0.11,0.0,0.01,66.0,6,T
+5458,Hulk,XB,2003.0,Action,0.25,0.07,0.0,0.01,69.0,7.7,T
+5461,Deus Ex: Invisible War,XB,2003.0,Shooter,0.25,0.07,0.0,0.01,84.0,7.6,M
+5463,NASCAR Thunder 2002,XB,2001.0,Racing,0.25,0.07,0.0,0.01,82.0,tbd,E
+5487,Fight Night Round 3,XB,2006.0,Fighting,0.26,0.06,0.0,0.01,83.0,9,T
+5542,Major League Baseball 2K6,XB,2006.0,Sports,0.24,0.07,0.0,0.01,71.0,5.7,E
+5574,NBA Street V3,XB,2005.0,Sports,0.28,0.03,0.0,0.01,89.0,8.9,E
+5650,NBA 2K3,XB,2002.0,Sports,0.24,0.07,0.0,0.01,87.0,7.9,E
+5659,NFL Fever 2004,XB,2003.0,Sports,0.24,0.07,0.0,0.01,74.0,8.8,E
+5669,Kingdom Under Fire: The Crusaders,XB,2004.0,Strategy,0.24,0.07,0.0,0.01,81.0,7.9,M
+5687,Shenmue II,XB,2002.0,Adventure,0.22,0.08,0.0,0.01,80.0,9.3,T
+5701,Crash Nitro Kart,XB,2003.0,Racing,0.24,0.07,0.0,0.01,70.0,8.9,E
+5715,NBA Inside Drive 2003,XB,2002.0,Sports,0.23,0.07,0.0,0.01,72.0,7.8,E
+5724,Yu-Gi-Oh! The Dawn of Destiny,XB,2004.0,Strategy,0.23,0.07,0.0,0.01,,,
+5726,The Matrix: Path of Neo,XB,2005.0,Action,0.23,0.07,0.0,0.01,73.0,7.3,T
+5729,Mortal Kombat: Shaolin Monks,XB,2005.0,Action,0.23,0.07,0.0,0.01,78.0,6.6,M
+5748,Brothers In Arms: Earned in Blood,XB,2005.0,Shooter,0.23,0.07,0.0,0.01,85.0,8.6,M
+5769,Star Wars Jedi Knight II: Jedi Outcast,XB,,Shooter,0.23,0.07,0.0,0.01,81.0,6.8,T
+5784,Midway Arcade Treasures 2,XB,2004.0,Misc,0.24,0.05,0.0,0.01,74.0,7.4,M
+5811,Bruce Lee: Quest of the Dragon,XB,2002.0,Fighting,0.23,0.07,0.0,0.01,32.0,2.4,T
+5824,Midtown Madness 3,XB,2003.0,Racing,0.23,0.07,0.0,0.01,76.0,8.3,E
+5923,Teenage Mutant Ninja Turtles,XB,2003.0,Action,0.22,0.06,0.0,0.01,56.0,8.4,E
+5929,AMF Bowling 2004,XB,2003.0,Sports,0.22,0.06,0.0,0.01,48.0,4.4,
+5949,Outlaw Golf,XB,2002.0,Sports,0.22,0.06,0.0,0.01,72.0,6.9,T
+5987,Area 51,XB,2005.0,Shooter,0.22,0.06,0.0,0.01,72.0,8.1,M
+6023,Madden NFL 08,XB,2007.0,Sports,0.22,0.06,0.0,0.01,76.0,6,E
+6027,Pirates of the Caribbean,XB,2003.0,Role-Playing,0.22,0.06,0.0,0.01,65.0,7.4,T
+6030,The Punisher,XB,2005.0,Action,0.22,0.06,0.0,0.01,,,
+6078,Links 2004,XB,2003.0,Sports,0.21,0.06,0.0,0.01,80.0,9,E
+6098,The Warriors,XB,2005.0,Action,0.21,0.06,0.0,0.01,85.0,8.2,M
+6102,Street Hoops,XB,2002.0,Sports,0.21,0.06,0.0,0.01,58.0,8,T
+6114,Marvel Nemesis: Rise of the Imperfects,XB,2005.0,Fighting,0.21,0.06,0.0,0.01,58.0,7.5,T
+6133,Unreal Championship 2: The Liandri Conflict,XB,,Shooter,0.22,0.05,0.0,0.01,85.0,8.2,M
+6134,Kung Fu Chaos,XB,2003.0,Fighting,0.21,0.06,0.0,0.01,68.0,8.5,T
+6155,Conflict: Desert Storm II - Back to Bagdhad,XB,2003.0,Shooter,0.21,0.06,0.0,0.01,,,
+6179,NCAA March Madness 2005,XB,2004.0,Sports,0.21,0.06,0.0,0.01,80.0,7.8,E
+6190,Silent Hill 2: Restless Dreams,XB,2001.0,Action,0.21,0.06,0.0,0.01,84.0,8.3,M
+6213,Madagascar,XB,2005.0,Platform,0.21,0.06,0.0,0.01,71.0,tbd,E10+
+6229,True Crime: New York City,XB,2005.0,Action,0.21,0.06,0.0,0.01,60.0,7.8,M
+6251,Tao Feng: Fist of the Lotus,XB,2003.0,Fighting,0.21,0.06,0.0,0.01,65.0,6.5,M
+6265,NHL Hitz 20-02,XB,2001.0,Sports,0.2,0.06,0.0,0.01,79.0,8.7,E
+6303,RalliSport Challenge 2,XB,2004.0,Racing,0.18,0.08,0.0,0.01,87.0,9.1,E
+6320,NASCAR 06: Total Team Control,XB,2005.0,Racing,0.2,0.06,0.0,0.01,79.0,5.9,E
+6324,NHL 2002,XB,2001.0,Sports,0.2,0.06,0.0,0.01,89.0,8.8,E
+6344,Fantastic 4,XB,2005.0,Action,0.2,0.06,0.0,0.01,62.0,6.6,T
+6361,NASCAR Thunder 2003,XB,2002.0,Racing,0.2,0.06,0.0,0.01,84.0,tbd,E
+6386,Knockout Kings 2002,XB,2002.0,Sports,0.2,0.06,0.0,0.01,78.0,7.9,T
+6415,ESPN NBA Basketball,XB,2003.0,Sports,0.2,0.06,0.0,0.01,87.0,8.2,E
+6431,Panzer Dragoon Orta,XB,2002.0,Shooter,0.16,0.05,0.04,0.01,90.0,8.5,T
+6512,Outlaw Volleyball,XB,2003.0,Sports,0.19,0.06,0.0,0.01,77.0,8.4,M
+6518,Dungeons & Dragons Heroes,XB,2003.0,Role-Playing,0.19,0.06,0.0,0.01,,,
+6532,Oddworld: Stranger's Wrath,XB,2005.0,Adventure,0.19,0.06,0.0,0.01,88.0,9.1,T
+6543,"SpongeBob SquarePants: Lights, Camera, Pants!",XB,2005.0,Misc,0.19,0.06,0.0,0.01,,,
+6565,All-Star Baseball 2003,XB,2002.0,Sports,0.19,0.06,0.0,0.01,79.0,8.1,E
+6577,Baldur's Gate: Dark Alliance II,XB,2004.0,Role-Playing,0.19,0.06,0.0,0.01,77.0,7.9,T
+6582,Secret Weapons Over Normandy,XB,2003.0,Simulation,0.19,0.05,0.0,0.01,77.0,8.8,T
+6603,World Series of Poker,XB,2005.0,Misc,0.19,0.05,0.0,0.01,52.0,tbd,E10+
+6612,Triple Play 2002,XB,2002.0,Sports,0.19,0.05,0.0,0.01,64.0,tbd,E
+6618,Exhibition,XB,2001.0,Misc,0.19,0.05,0.0,0.01,,,
+6621,Amped 2,XB,2003.0,Sports,0.2,0.04,0.0,0.01,80.0,7.7,E
+6640,Men of Valor,XB,2004.0,Shooter,0.19,0.05,0.0,0.01,73.0,8,M
+6653,NHL 06,XB,2005.0,Sports,0.19,0.05,0.0,0.01,79.0,8.4,E10+
+6658,Atari Anthology,XB,2004.0,Misc,0.19,0.05,0.0,0.01,68.0,tbd,E
+6661,XIII,XB,2003.0,Shooter,0.16,0.08,0.0,0.01,74.0,8.3,M
+6687,The Sims 2,XB,2005.0,Simulation,0.19,0.05,0.0,0.01,75.0,7.1,T
+6716,America's Army: Rise of a Soldier,XB,2005.0,Shooter,0.19,0.05,0.0,0.01,70.0,7.4,T
+6792,SRS: Street Racing Syndicate,XB,2004.0,Racing,0.18,0.05,0.0,0.01,,,
+6804,Genma Onimusha,XB,2002.0,Action,0.14,0.04,0.05,0.01,83.0,8.6,M
+6811,Corvette,XB,2003.0,Racing,0.18,0.05,0.0,0.01,53.0,8.6,E
+6815,Burnout 2: Point of Impact,XB,2003.0,Racing,0.18,0.05,0.0,0.01,88.0,5.1,E
+6817,Kill.Switch,XB,2003.0,Shooter,0.18,0.05,0.0,0.01,75.0,8,T
+6829,Azurik: Rise of Perathia,XB,2001.0,Action,0.18,0.05,0.0,0.01,52.0,8.5,T
+6832,Dragon Ball Z: Sagas,XB,2005.0,Fighting,0.18,0.05,0.0,0.01,51.0,6.1,T
+6855,NCAA March Madness 2004,XB,2003.0,Sports,0.18,0.05,0.0,0.01,81.0,tbd,E
+6869,The Hobbit,XB,2003.0,Platform,0.18,0.05,0.0,0.01,,,
+6881,4x4 EVO 2,XB,2001.0,Racing,0.18,0.05,0.0,0.01,59.0,6.2,E
+6910,FIFA World Cup Germany 2006,XB,2006.0,Sports,0.18,0.05,0.0,0.01,77.0,8.4,E
+6956,NASCAR Thunder 2004,XB,2003.0,Racing,0.18,0.05,0.0,0.01,85.0,9.1,E
+6957,Buffy the Vampire Slayer,XB,2002.0,Action,0.18,0.05,0.0,0.01,79.0,9.1,T
+6959,Harry Potter and the Goblet of Fire,XB,2005.0,Action,0.18,0.05,0.0,0.01,68.0,5.8,E10+
+6969,World Series Baseball,XB,2002.0,Sports,0.17,0.05,0.0,0.01,85.0,8.8,E
+6971,Starsky & Hutch,XB,2003.0,Racing,0.17,0.05,0.0,0.01,,,
+6990,The Incredible Hulk: Ultimate Destruction,XB,2005.0,Action,0.17,0.05,0.0,0.01,84.0,8,T
+7025,Mafia,XB,2004.0,Action,0.17,0.05,0.0,0.01,66.0,7.7,M
+7052,Freedom Fighters,XB,2003.0,Shooter,0.17,0.05,0.0,0.01,82.0,8.2,T
+7055,Soldier of Fortune II: Double Helix,XB,2003.0,Shooter,0.17,0.05,0.0,0.01,61.0,6.5,M
+7083,Bicycle Casino 2005,XB,2004.0,Misc,0.17,0.05,0.0,0.01,,,
+7141,Conflict: Vietnam,XB,2004.0,Shooter,0.17,0.05,0.0,0.01,60.0,7.3,M
+7197,The Suffering,XB,2004.0,Action,0.16,0.05,0.0,0.01,77.0,8.8,M
+7218,Nickelodeon Party Blast,XB,2002.0,Misc,0.16,0.05,0.0,0.01,19.0,4.3,E
+7223,Shellshock: Nam '67,XB,2004.0,Shooter,0.16,0.05,0.0,0.01,58.0,7,M
+7333,MTV Celebrity Deathmatch,XB,2003.0,Fighting,0.16,0.05,0.0,0.01,,,
+7340,BloodRayne,XB,2002.0,Shooter,0.16,0.05,0.0,0.01,76.0,7.5,M
+7344,NHL 2K6,XB,2005.0,Sports,0.16,0.05,0.0,0.01,83.0,7.5,E10+
+7346,Tenchu: Return From Darkness,XB,2004.0,Action,0.16,0.05,0.0,0.01,70.0,7,M
+7367,Robotech: Battlecry,XB,,Shooter,0.16,0.05,0.0,0.01,74.0,7,T
+7377,Darkwatch,XB,2005.0,Shooter,0.16,0.05,0.0,0.01,75.0,8.1,M
+7393,Cabela's Deer Hunt: 2004 Season,XB,2003.0,Sports,0.16,0.05,0.0,0.01,65.0,8.4,T
+7429,Unreal II: The Awakening,XB,2004.0,Shooter,0.17,0.04,0.0,0.01,64.0,5.3,M
+7433,Batman Begins,XB,2005.0,Action,0.16,0.04,0.0,0.01,65.0,7.1,T
+7439,JSRF: Jet Set Radio Future,XB,2002.0,Action,0.13,0.04,0.03,0.01,88.0,8.2,T
+7467,NHL 2003,XB,2002.0,Sports,0.15,0.04,0.0,0.01,80.0,7.9,E
+7484,Outlaw Golf 2,XB,2004.0,Sports,0.15,0.04,0.0,0.01,74.0,tbd,M
+7493,X2: Wolverine's Revenge,XB,2003.0,Platform,0.15,0.04,0.0,0.01,58.0,6.4,T
+7509,NASCAR Heat 2002,XB,2001.0,Racing,0.15,0.04,0.0,0.01,78.0,tbd,E
+7517,NCAA March Madness 06,XB,2005.0,Sports,0.15,0.04,0.0,0.01,76.0,7.2,E
+7521,Crazy Taxi 3: High Roller,XB,2002.0,Racing,0.14,0.04,0.02,0.01,69.0,8.5,T
+7522,Midnight Club 3: DUB Edition Remix,XB,2006.0,Racing,0.15,0.04,0.0,0.01,87.0,5.3,E10+
+7541,MLB SlugFest 20-03,XB,2002.0,Sports,0.15,0.04,0.0,0.01,79.0,7.8,E
+7563,NBA 2K2,XB,2002.0,Sports,0.15,0.04,0.0,0.01,90.0,7.6,E
+7567,Cars,XB,2006.0,Racing,0.15,0.04,0.0,0.01,70.0,tbd,E
+7595,MVP Baseball 2003,XB,2003.0,Sports,0.15,0.04,0.0,0.01,82.0,9,E
+7599,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",XB,2005.0,Action,0.15,0.04,0.0,0.01,72.0,6,T
+7613,IHRA Drag Racing 2004,XB,2003.0,Racing,0.15,0.04,0.0,0.01,40.0,7.4,E
+7628,Mat Hoffman's Pro BMX 2,XB,2002.0,Sports,0.15,0.04,0.0,0.01,75.0,tbd,T
+7631,From Russia With Love,XB,2005.0,Action,0.15,0.04,0.0,0.01,71.0,8.8,T
+7645,Shark Tale,XB,2004.0,Action,0.15,0.04,0.0,0.01,67.0,tbd,E
+7654,Dave Mirra Freestyle BMX 2,XB,2001.0,Sports,0.15,0.04,0.0,0.01,76.0,8.2,T
+7660,Tetris Worlds (Online Edition),XB,2003.0,Puzzle,0.15,0.04,0.0,0.01,62.0,tbd,E
+7685,The Thing,XB,2002.0,Adventure,0.15,0.04,0.0,0.01,78.0,6.6,M
+7692,Baldur's Gate: Dark Alliance,XB,2002.0,Role-Playing,0.15,0.04,0.0,0.01,83.0,8.3,T
+7696,UFC: Tapout,XB,2002.0,Fighting,0.14,0.05,0.0,0.01,,,
+7713,Big Mutha Truckers,XB,2002.0,Racing,0.15,0.04,0.0,0.01,59.0,4.3,T
+7751,Manhunt,XB,2004.0,Action,0.14,0.04,0.0,0.01,74.0,7.9,M
+7784,Legacy of Kain: Defiance,XB,2003.0,Action,0.14,0.04,0.0,0.01,74.0,7.9,M
+7820,2002 FIFA World Cup,XB,2002.0,Sports,0.14,0.04,0.0,0.01,79.0,9,E
+7824,Sudeki,XB,2004.0,Role-Playing,0.14,0.04,0.0,0.01,72.0,8.4,M
+7889,Harry Potter and the Prisoner of Azkaban,XB,2004.0,Action,0.14,0.04,0.0,0.01,67.0,8.8,E
+7946,Sega GT 2002,XB,2002.0,Racing,0.12,0.03,0.03,0.01,82.0,8.2,E
+7952,Blood Omen 2,XB,2002.0,Action,0.14,0.04,0.0,0.01,76.0,9,M
+7957,Harry Potter: Quidditch World Cup,XB,2003.0,Sports,0.14,0.04,0.0,0.01,69.0,7.5,E
+7964,Tiger Woods PGA Tour 07,XB,2006.0,Sports,0.13,0.05,0.0,0.01,81.0,6.8,E
+7967,Star Wars: The Clone Wars & Tetris Worlds,XB,2002.0,Misc,0.14,0.04,0.0,0.01,,,
+7994,Close Combat: First to Fight,XB,2005.0,Shooter,0.14,0.04,0.0,0.01,69.0,7.8,T
+7995,Indiana Jones and the Emperor's Tomb,XB,2003.0,Action,0.14,0.04,0.0,0.01,73.0,8.6,T
+8000,Ty the Tasmanian Tiger,XB,2002.0,Platform,0.14,0.04,0.0,0.01,68.0,8.5,E
+8007,NARC,XB,2005.0,Shooter,0.14,0.04,0.0,0.01,51.0,2.8,M
+8028,Gauntlet: Seven Sorrows,XB,2005.0,Role-Playing,0.14,0.04,0.0,0.01,61.0,7.8,T
+8029,AirForce Delta Storm,XB,2001.0,Shooter,0.14,0.04,0.0,0.01,61.0,7.1,E
+8031,Monopoly Party,XB,2002.0,Misc,0.14,0.04,0.0,0.01,,,
+8075,Test Drive Off-Road Wide Open,XB,2001.0,Racing,0.15,0.03,0.0,0.01,64.0,8.3,E
+8082,Bad Boys: Miami Takedown,XB,2004.0,Shooter,0.14,0.04,0.0,0.01,35.0,5.9,M
+8088,Cabela's Big Game Hunter 2005 Adventures,XB,2004.0,Sports,0.13,0.04,0.0,0.01,65.0,8.3,T
+8100,Shadow The Hedgehog,XB,2005.0,Platform,0.13,0.04,0.0,0.01,49.0,5.5,E10+
+8106,Van Helsing,XB,2007.0,Action,0.13,0.04,0.0,0.01,63.0,7.6,T
+8126,Silent Hill 4: The Room,XB,2004.0,Action,0.14,0.04,0.0,0.01,76.0,8.3,M
+8163,Juiced,XB,2005.0,Racing,0.13,0.04,0.0,0.01,68.0,9.1,T
+8184,Madden NFL 09,XB,2008.0,Sports,0.13,0.04,0.0,0.01,,5.5,E
+8188,NHL 2004,XB,2003.0,Sports,0.13,0.04,0.0,0.01,85.0,6.5,E
+8191,Namco Museum: 50th Anniversary,XB,2005.0,Misc,0.13,0.04,0.0,0.01,62.0,tbd,E10+
+8194,NFL 2K2,XB,2002.0,Sports,0.13,0.04,0.0,0.01,87.0,tbd,E
+8234,NBA Inside Drive 2004,XB,2003.0,Sports,0.13,0.04,0.0,0.01,71.0,8.2,E
+8247,Metal Arms: Glitch in the System,XB,2003.0,Shooter,0.13,0.04,0.0,0.01,82.0,8.7,T
+8256,Exhibition Volume 02,XB,2003.0,Misc,0.13,0.04,0.0,0.01,,,
+8271,Psi-Ops: The Mindgate Conspiracy,XB,2004.0,Shooter,0.13,0.04,0.0,0.01,84.0,7.9,M
+8273,SWAT: Global Strike Team,XB,2003.0,Shooter,0.13,0.04,0.0,0.01,69.0,6.3,M
+8303,Hunter: The Reckoning Redeemer,XB,2003.0,Action,0.13,0.04,0.0,0.01,72.0,8.6,M
+8309,Thief: Deadly Shadows,XB,2004.0,Action,0.13,0.04,0.0,0.01,82.0,7.3,M
+8325,Spawn: Armageddon,XB,2003.0,Action,0.13,0.04,0.0,0.01,57.0,9.2,M
+8377,Gunvalkyrie,XB,2002.0,Shooter,0.13,0.04,0.0,0.01,73.0,7.3,T
+8382,State of Emergency,XB,2003.0,Action,0.13,0.04,0.0,0.01,67.0,6.3,M
+8405,Backyard Wrestling: Don't Try This at Home,XB,2003.0,Fighting,0.13,0.04,0.0,0.01,50.0,5,M
+8406,Gauntlet: Dark Legacy,XB,2002.0,Action,0.13,0.04,0.0,0.01,54.0,8.9,T
+8431,25 to Life,XB,2006.0,Shooter,0.12,0.04,0.0,0.01,41.0,7.2,M
+8441,Leisure Suit Larry: Magna Cum Laude,XB,2004.0,Adventure,0.12,0.04,0.0,0.01,62.0,6.4,M
+8454,FlatOut,XB,2004.0,Racing,0.12,0.04,0.0,0.01,71.0,8.2,T
+8513,Magic: The Gathering - Battlegrounds,XB,2003.0,Strategy,0.12,0.03,0.0,0.01,,,
+8526,TimeSplitters: Future Perfect,XB,2005.0,Shooter,0.12,0.03,0.0,0.01,83.0,8.9,M
+8540,Dynasty Warriors 4,XB,2003.0,Action,0.12,0.03,0.0,0.01,75.0,8.8,T
+8598,Rapala Pro Fishing,XB,2004.0,Sports,0.12,0.03,0.0,0.01,59.0,tbd,E
+8666,Halo Triple Pack,XB,2005.0,Shooter,0.12,0.03,0.0,0.01,,,
+8671,NHL 2005,XB,2004.0,Sports,0.12,0.03,0.0,0.01,77.0,6.2,E
+8722,Blinx 2: Masters of Time & Space,XB,2004.0,Platform,0.12,0.03,0.0,0.01,,,
+8748,American Chopper,XB,2004.0,Racing,0.11,0.03,0.0,0.01,44.0,5.9,T
+8752,Kingdom Under Fire: Heroes,XB,2005.0,Strategy,0.11,0.03,0.0,0.01,78.0,7.5,M
+8754,The Terminator: Dawn of Fate,XB,2002.0,Action,0.11,0.03,0.0,0.01,53.0,5.2,T
+8811,World Series Baseball 2K3,XB,2003.0,Sports,0.11,0.03,0.0,0.01,89.0,8.6,E
+8813,Serious Sam,XB,2002.0,Shooter,0.11,0.03,0.0,0.01,75.0,8.2,M
+8819,Street Fighter Anniversary Collection,XB,2004.0,Fighting,0.11,0.03,0.0,0.01,79.0,6.4,T
+8822,Shadow Ops: Red Mercury,XB,2004.0,Shooter,0.11,0.03,0.0,0.01,61.0,6.1,T
+8856,Rocky,XB,2002.0,Fighting,0.11,0.03,0.0,0.01,74.0,7.3,T
+8857,Ford Racing 2,XB,2003.0,Racing,0.11,0.03,0.0,0.01,62.0,tbd,E
+8865,BloodRayne 2,XB,2004.0,Shooter,0.11,0.03,0.0,0.01,71.0,8.5,M
+8866,Jaws Unleashed,XB,2006.0,Action,0.11,0.03,0.0,0.01,51.0,6.2,M
+8876,Scooby-Doo! Mystery Mayhem,XB,2004.0,Action,0.11,0.03,0.0,0.01,,,
+8908,Capcom Classics Collection,XB,2005.0,Misc,0.11,0.03,0.0,0.01,81.0,tbd,T
+8915,Pac-Man World 3,XB,2005.0,Platform,0.11,0.04,0.0,0.01,65.0,tbd,E
+8917,Phantasy Star Online Episode I & II,XB,2003.0,Role-Playing,0.11,0.03,0.0,0.01,,,
+8918,All-Star Baseball 2005,XB,,Sports,0.11,0.03,0.0,0.01,75.0,8.8,E
+8930,Crash: Twinsanity,XB,2004.0,Platform,0.11,0.03,0.0,0.01,66.0,8.7,E
+8938,Arena Football,XB,2006.0,Sports,0.11,0.03,0.0,0.01,65.0,8.5,E10+
+8947,Super Monkey Ball Deluxe,XB,2005.0,Misc,0.11,0.03,0.0,0.01,81.0,8.2,E
+8966,Mad Dash Racing,XB,2001.0,Racing,0.11,0.03,0.0,0.01,65.0,7.7,T
+8977,Guilty Gear X2 #Reload,XB,2004.0,Fighting,0.11,0.03,0.0,0.01,86.0,7.6,T
+8987,Grabbed by the Ghoulies,XB,2003.0,Action,0.11,0.03,0.0,0.01,66.0,7.3,E
+8996,L.A. Rush,XB,2005.0,Racing,0.11,0.03,0.0,0.01,59.0,3,T
+9064,Terminator 3: Rise of the Machines,XB,2003.0,Action,0.11,0.03,0.0,0.01,35.0,2,T
+9065,SSX On Tour,XB,2005.0,Sports,0.11,0.03,0.0,0.01,81.0,8.1,E
+9066,NCAA College Basketball 2K3,XB,2002.0,Sports,0.11,0.03,0.0,0.01,84.0,8.4,E
+9075,OutRun 2,XB,2004.0,Racing,0.11,0.03,0.0,0.01,,,
+9080,Hitman: Blood Money,XB,2006.0,Action,0.11,0.03,0.0,0.01,81.0,9.1,M
+9090,NFL Blitz 20-03,XB,2002.0,Sports,0.11,0.03,0.0,0.01,72.0,7.8,E
+9102,Scooby-Doo! Night of 100 Frights,XB,2003.0,Platform,0.11,0.03,0.0,0.01,,,
+9133,Spyro: A Hero's Tail,XB,2004.0,Platform,0.11,0.03,0.0,0.01,64.0,9.1,E
+9181,Godzilla: Save the Earth,XB,2004.0,Fighting,0.1,0.03,0.0,0.0,63.0,8.2,T
+9193,Enclave,XB,2002.0,Adventure,0.11,0.03,0.0,0.01,66.0,8.4,M
+9194,Sid Meier's Pirates!,XB,2005.0,Strategy,0.11,0.03,0.0,0.01,,,
+9199,Dino Crisis 3,XB,2003.0,Action,0.08,0.03,0.03,0.0,51.0,4.1,M
+9206,Disney's Chicken Little,XB,2005.0,Platform,0.1,0.03,0.0,0.0,68.0,tbd,E10+
+9245,Marvel vs. Capcom 2: New Age of Heroes,XB,2002.0,Fighting,0.09,0.03,0.01,0.0,,,
+9269,NBA Jam,XB,2003.0,Sports,0.1,0.03,0.0,0.0,68.0,9.1,E
+9277,Apex,XB,2003.0,Racing,0.1,0.03,0.0,0.0,74.0,9.1,E
+9301,ESPN MLB Baseball,XB,2004.0,Sports,0.1,0.03,0.0,0.0,,,
+9302,Gladius,XB,2003.0,Strategy,0.1,0.03,0.0,0.0,79.0,8.5,T
+9303,Legends of Wrestling,XB,2002.0,Fighting,0.1,0.03,0.0,0.0,65.0,5.8,T
+9308,Spy Hunter 2,XB,2003.0,Racing,0.1,0.03,0.0,0.0,57.0,tbd,T
+9335,Blade II,XB,2002.0,Action,0.1,0.03,0.0,0.0,53.0,4,M
+9353,Tak 2: The Staff of Dreams,XB,2004.0,Platform,0.1,0.03,0.0,0.0,73.0,tbd,E
+9378,Rogue Ops,XB,2003.0,Action,0.1,0.03,0.0,0.0,63.0,tbd,M
+9380,Transworld Surf,XB,,Sports,0.1,0.03,0.0,0.0,76.0,tbd,T
+9387,Chessmaster,XB,2004.0,Misc,0.1,0.03,0.0,0.0,79.0,9,E
+9393,Superman: The Man of Steel,XB,2002.0,Action,0.1,0.03,0.0,0.0,44.0,6,T
+9413,Tomb Raider: Legend,XB,2006.0,Action,0.1,0.03,0.0,0.0,82.0,7.2,T
+9454,Mission: Impossible - Operation Surma,XB,2003.0,Platform,0.1,0.03,0.0,0.0,67.0,6.8,T
+9457,MX 2002 Featuring Ricky Carmichael,XB,2001.0,Racing,0.1,0.03,0.0,0.0,74.0,tbd,E
+9462,Mega Man Anniversary Collection,XB,2005.0,Platform,0.1,0.03,0.0,0.0,80.0,9.2,E
+9478,Sonic Riders,XB,2006.0,Racing,0.1,0.03,0.0,0.0,56.0,8.1,E
+9479,Shrek Super Party,XB,2002.0,Misc,0.1,0.03,0.0,0.0,33.0,8,E
+9488,Heroes of the Pacific,XB,2005.0,Simulation,0.1,0.03,0.0,0.0,76.0,8.2,T
+9489,RollerCoaster Tycoon,XB,2003.0,Strategy,0.1,0.03,0.0,0.0,62.0,8.3,E
+9490,NightCaster,XB,2002.0,Action,0.1,0.03,0.0,0.0,61.0,5.7,T
+9520,Otogi: Myth of Demons,XB,2002.0,Action,0.08,0.02,0.03,0.0,80.0,8.5,T
+9549,Teenage Mutant Ninja Turtles 2: Battle Nexus,XB,2004.0,Action,0.1,0.03,0.0,0.0,48.0,5.6,T
+9564,All-Star Baseball 2004,XB,2003.0,Sports,0.1,0.03,0.0,0.0,74.0,8.4,E
+9577,Spartan: Total Warrior,XB,2005.0,Action,0.1,0.03,0.0,0.0,73.0,8.8,M
+9582,Star Wars: Clone Wars,XB,2003.0,Shooter,0.1,0.03,0.0,0.0,,,
+9583,High Rollers Casino,XB,2004.0,Misc,0.1,0.03,0.0,0.0,,7.8,E
+9584,Advent Rising,XB,2005.0,Action,0.1,0.03,0.0,0.0,68.0,7.5,T
+9592,TOCA Race Driver 2: Ultimate Racing Simulator,XB,2004.0,Racing,0.09,0.03,0.0,0.0,,,
+9615,Burnout,XB,2002.0,Racing,0.09,0.03,0.0,0.0,75.0,6.6,E
+9624,NBA Ballers: Phenom,XB,2006.0,Sports,0.09,0.03,0.0,0.0,70.0,tbd,E
+9626,Crash Tag Team Racing,XB,2005.0,Racing,0.09,0.03,0.0,0.0,69.0,7.8,E10+
+9634,Quantum Redshift,XB,2002.0,Racing,0.09,0.03,0.0,0.0,70.0,8.1,T
+9638,Legends of Wrestling II,XB,2002.0,Fighting,0.09,0.03,0.0,0.0,62.0,tbd,T
+9640,Armed and Dangerous,XB,2003.0,Shooter,0.09,0.03,0.0,0.0,79.0,7.2,T
+9721,Lemony Snicket's A Series of Unfortunate Events,XB,2004.0,Platform,0.09,0.03,0.0,0.0,70.0,7.2,E
+9741,Red Faction II,XB,2003.0,Shooter,0.09,0.03,0.0,0.0,74.0,5.8,M
+9745,Voodoo Vince,XB,2003.0,Platform,0.09,0.03,0.0,0.0,73.0,8.4,T
+9755,Chase: Hollywood Stunt Driver,XB,2002.0,Racing,0.09,0.03,0.0,0.0,60.0,7.4,T
+9776,Cel Damage,XB,2001.0,Racing,0.09,0.03,0.0,0.0,65.0,8.4,T
+9785,Breakdown,XB,2004.0,Adventure,0.09,0.03,0.0,0.0,71.0,8.2,M
+9808,Showdown: Legends of Wrestling,XB,2004.0,Fighting,0.09,0.03,0.0,0.0,57.0,tbd,T
+9830,Godzilla: Destroy All Monsters Melee,XB,,Fighting,0.09,0.03,0.0,0.0,71.0,6.8,T
+9871,NFL Head Coach,XB,2006.0,Sports,0.09,0.03,0.0,0.0,69.0,7.1,E
+9886,Psychonauts,XB,2005.0,Platform,0.09,0.03,0.0,0.0,88.0,9,T
+9892,MLB Inside Pitch 2003,XB,2003.0,Sports,0.09,0.03,0.0,0.0,,,
+9909,Backyard Wrestling 2: There Goes the Neighborhood,XB,2004.0,Fighting,0.09,0.03,0.0,0.0,43.0,tbd,M
+9924,Castlevania: Curse of Darkness,XB,2005.0,Action,0.09,0.03,0.0,0.0,74.0,7,M
+9939,CSI: Crime Scene Investigation,XB,2004.0,Adventure,0.09,0.03,0.0,0.0,45.0,7.3,M
+9943,Buffy the Vampire Slayer: Chaos Bleeds,XB,2003.0,Action,0.09,0.03,0.0,0.0,73.0,8.4,T
+9964,Arctic Thunder,XB,2001.0,Racing,0.09,0.02,0.0,0.0,57.0,tbd,T
+9983,NHL 2K3,XB,2002.0,Sports,0.09,0.02,0.0,0.0,89.0,7.1,E
+9991,Sphinx and the Cursed Mummy,XB,2003.0,Action,0.09,0.02,0.0,0.0,79.0,9.1,T
+10001,Cabela's Deer Hunt 2005 Season,XB,2004.0,Sports,0.09,0.02,0.0,0.0,59.0,7.5,T
+10002,SplashDown,XB,2002.0,Racing,0.09,0.02,0.0,0.0,78.0,tbd,E
+10006,Dead Man's Hand,XB,2004.0,Shooter,0.09,0.02,0.0,0.0,62.0,8.1,T
+10019,ToeJam & Earl III: Mission to Earth,XB,2002.0,Action,0.09,0.02,0.0,0.0,,,
+10036,Army Men: Sarge's War,XB,2004.0,Shooter,0.09,0.02,0.0,0.0,44.0,tbd,T
+10054,Phantom Dust,XB,2004.0,Action,0.08,0.02,0.0,0.0,81.0,8.5,T
+10070,Stubbs the Zombie in Rebel Without a Pulse,XB,2005.0,Action,0.08,0.02,0.0,0.0,75.0,8.1,M
+10071,Batman: Dark Tomorrow,XB,2003.0,Action,0.08,0.02,0.0,0.0,25.0,3.6,T
+10084,Batman: Rise of Sin Tzu,XB,2003.0,Action,0.08,0.02,0.0,0.0,67.0,7.7,T
+10091,Spy vs Spy,XB,2005.0,Action,0.08,0.02,0.0,0.0,53.0,8,T
+10099,NHL Hitz 20-03,XB,2002.0,Sports,0.08,0.02,0.0,0.0,81.0,8.5,E
+10100,Murakumo: Renegade Mech Pursuit,XB,2002.0,Shooter,0.04,0.01,0.06,0.0,48.0,7.5,T
+10102,Gun Metal,XB,2002.0,Shooter,0.08,0.02,0.0,0.0,63.0,7.6,T
+10135,The Fairly Odd Parents: Breakin Da Rules,XB,2003.0,Platform,0.08,0.02,0.0,0.0,,,
+10164,ESPN NHL Hockey,XB,2003.0,Sports,0.08,0.02,0.0,0.0,88.0,8.4,E
+10175,Project: Snowblind,XB,2005.0,Action,0.08,0.02,0.0,0.0,79.0,7,T
+10181,Disney's Extreme Skate Adventure,XB,2003.0,Sports,0.08,0.02,0.0,0.0,76.0,8.3,E
+10237,Outlaw Golf: Nine Holes of Christmas,XB,2002.0,Sports,0.08,0.02,0.0,0.0,,,
+10239,NHL Rivals 2004,XB,2003.0,Sports,0.08,0.02,0.0,0.0,65.0,8.8,E
+10241,X-Men: Next Dimension,XB,2002.0,Fighting,0.08,0.02,0.0,0.0,56.0,tbd,T
+10262,Charlie and the Chocolate Factory,XB,2005.0,Adventure,0.08,0.02,0.0,0.0,39.0,0.5,E
+10266,Ty the Tasmanian Tiger 2: Bush Rescue,XB,2004.0,Platform,0.08,0.02,0.0,0.0,69.0,8.8,E
+10273,BMX XXX,XB,2002.0,Sports,0.08,0.02,0.0,0.0,58.0,7.8,M
+10286,Dr. Seuss' The Cat in the Hat,XB,2003.0,Misc,0.08,0.02,0.0,0.0,56.0,tbd,E
+10365,Mace Griffin: Bounty Hunter,XB,2003.0,Shooter,0.08,0.02,0.0,0.0,64.0,8.2,M
+10370,Fight Club,XB,2004.0,Fighting,0.08,0.02,0.0,0.0,37.0,4.7,M
+10395,Dead to Rights II,XB,2005.0,Shooter,0.08,0.02,0.0,0.0,54.0,7.4,M
+10404,Cabela's Dangerous Hunts 2,XB,2005.0,Sports,0.08,0.02,0.0,0.0,63.0,tbd,T
+10427,UFC: Tapout 2,XB,2003.0,Fighting,0.08,0.02,0.0,0.0,66.0,7.3,T
+10438,Vexx,XB,2003.0,Platform,0.08,0.02,0.0,0.0,70.0,8.5,T
+10440,Pariah,XB,2005.0,Action,0.08,0.02,0.0,0.0,70.0,7.4,M
+10441,Cabela's Outdoor Adventures,XB,2005.0,Sports,0.08,0.02,0.0,0.0,,tbd,T
+10443,Metal Slug 3,XB,2004.0,Shooter,0.08,0.02,0.0,0.0,76.0,5.1,T
+10481,Syberia,XB,2003.0,Action,0.08,0.02,0.0,0.0,72.0,7,T
+10502,Beyond Good & Evil,XB,2003.0,Adventure,0.08,0.02,0.0,0.0,,,
+10521,Colin McRae Rally 04,XB,2004.0,Racing,0.08,0.02,0.0,0.0,84.0,8.1,E
+10524,FIFA Street,XB,2005.0,Sports,0.08,0.02,0.0,0.0,60.0,8,E
+10531,Hot Wheels: Stunt Track Challenge,XB,2004.0,Racing,0.08,0.02,0.0,0.0,63.0,6.2,E
+10539,Capcom vs. SNK 2 EO,XB,2003.0,Fighting,0.08,0.02,0.0,0.0,80.0,8.7,T
+10555,Dark Summit,XB,2001.0,Sports,0.08,0.02,0.0,0.0,71.0,tbd,T
+10563,X-Men: The Official Game,XB,2006.0,Action,0.08,0.02,0.0,0.0,53.0,8.1,T
+10569,Conflict: Global Terror,XB,2005.0,Shooter,0.08,0.02,0.0,0.0,62.0,7.9,M
+10611,Kelly Slater's Pro Surfer,XB,2002.0,Sports,0.08,0.02,0.0,0.0,80.0,8,E
+10613,SNK vs. Capcom: SVC Chaos,XB,2004.0,Fighting,0.08,0.02,0.0,0.0,,,
+10624,The Bard's Tale,XB,2004.0,Role-Playing,0.08,0.02,0.0,0.0,75.0,8.8,T
+10658,Silent Scope Complete,XB,2004.0,Shooter,0.07,0.02,0.0,0.0,69.0,7.4,M
+10665,Evil Dead: Fistfull of Boomstick,XB,2003.0,Action,0.07,0.02,0.0,0.0,,,
+10666,Tom Clancy's Classic Trilogy,XB,2004.0,Shooter,0.07,0.02,0.0,0.0,,tbd,M
+10669,Indigo Prophecy,XB,2005.0,Adventure,0.07,0.03,0.0,0.0,84.0,7.7,M
+10673,Over the Hedge,XB,2006.0,Platform,0.07,0.02,0.0,0.0,61.0,tbd,E10+
+10676,Sneakers,XB,2002.0,Puzzle,0.07,0.02,0.0,0.0,28.0,4.6,E
+10682,College Hoops 2K6,XB,2005.0,Sports,0.07,0.02,0.0,0.0,82.0,9.2,E
+10689,Exhibition Volume 03,XB,2003.0,Misc,0.07,0.02,0.0,0.0,,,
+10699,Predator: Concrete Jungle,XB,2005.0,Action,0.07,0.02,0.0,0.0,46.0,8,M
+10712,Rocky: Legends,XB,2004.0,Action,0.07,0.02,0.0,0.0,67.0,5.2,T
+10731,MTX Mototrax,XB,2004.0,Racing,0.07,0.02,0.0,0.0,79.0,tbd,E
+10750,Reign of Fire,XB,2002.0,Shooter,0.07,0.02,0.0,0.0,54.0,tbd,M
+10768,Ice Age 2: The Meltdown,XB,2006.0,Platform,0.07,0.02,0.0,0.0,68.0,tbd,E10+
+10788,MotoGP 2,XB,2003.0,Racing,0.07,0.02,0.0,0.0,87.0,8.5,E
+10805,Steel Battalion,XB,2002.0,Simulation,0.05,0.02,0.02,0.0,83.0,8.5,T
+10814,MX SuperFly featuring Ricky Carmichael,XB,2002.0,Racing,0.07,0.02,0.0,0.0,,,
+10822,Minority Report: Everybody Runs,XB,2002.0,Action,0.07,0.02,0.0,0.0,54.0,5,T
+10831,Playboy: The Mansion,XB,2005.0,Simulation,0.07,0.02,0.0,0.0,61.0,4.1,M
+10838,Whacked!,XB,2002.0,Misc,0.07,0.02,0.0,0.0,,,
+10849,Crash 'N' Burn,XB,2004.0,Racing,0.07,0.02,0.0,0.0,65.0,6.4,T
+10850,NFL Blitz 20-02,XB,2002.0,Sports,0.07,0.02,0.0,0.0,77.0,tbd,E
+10853,Robots,XB,2005.0,Action,0.07,0.02,0.0,0.0,60.0,tbd,E
+10888,MotoGP,XB,2002.0,Racing,0.07,0.02,0.0,0.0,84.0,8.4,E
+10897,MLB SlugFest 20-04,XB,2003.0,Sports,0.07,0.02,0.0,0.0,76.0,tbd,E
+10917,Ford Mustang: The Legend Lives,XB,2005.0,Racing,0.07,0.02,0.0,0.0,55.0,tbd,E
+10929,World Championship Poker 2: Featuring Howard Lederer,XB,2005.0,Misc,0.07,0.02,0.0,0.0,71.0,tbd,T
+10934,Ninja Gaiden Black,XB,2005.0,Action,0.07,0.02,0.0,0.0,94.0,8.7,M
+10944,Trivial Pursuit unhinged,XB,2004.0,Misc,0.07,0.02,0.0,0.0,58.0,8,T
+10957,Yourself Fitness,XB,2004.0,Sports,0.07,0.02,0.0,0.0,,,
+10969,Shrek SuperSlam,XB,2005.0,Action,0.07,0.02,0.0,0.0,71.0,9.3,E10+
+10975,New Legends,XB,2002.0,Action,0.07,0.02,0.0,0.0,56.0,tbd,T
+10987,Disney's The Haunted Mansion,XB,2003.0,Platform,0.07,0.02,0.0,0.0,,,
+11098,Defender,XB,2002.0,Misc,0.07,0.02,0.0,0.0,69.0,tbd,T
+11130,Transworld Snowboarding,XB,2002.0,Sports,0.07,0.02,0.0,0.0,74.0,9.2,T
+11132,World Soccer Winning Eleven 8 International,XB,2004.0,Sports,0.07,0.02,0.0,0.0,90.0,8.4,E
+11133,Sniper Elite,XB,2005.0,Shooter,0.07,0.02,0.0,0.0,77.0,8.5,M
+11135,Test Drive: Eve of Destruction,XB,2004.0,Racing,0.07,0.02,0.0,0.0,72.0,8.7,T
+11137,Crimson Sea,XB,2002.0,Action,0.04,0.01,0.04,0.0,78.0,8.2,T
+11150,The Suffering: Ties That Bind,XB,2005.0,Action,0.07,0.02,0.0,0.0,76.0,9.1,M
+11178,Ford Racing 3,XB,2004.0,Racing,0.07,0.02,0.0,0.0,58.0,tbd,E
+11179,MLB SlugFest Loaded,XB,2004.0,Sports,0.07,0.02,0.0,0.0,77.0,tbd,T
+11184,R: Racing Evolution,XB,2003.0,Racing,0.06,0.02,0.0,0.0,67.0,tbd,T
+11192,Karaoke Revolution,XB,2004.0,Misc,0.06,0.02,0.0,0.0,80.0,8.5,E
+11208,Forgotten Realms: Demon Stone,XB,2004.0,Action,0.06,0.02,0.0,0.0,72.0,6.5,T
+11214,Tim Burton's The Nightmare Before Christmas: Oogie's Revenge,XB,2005.0,Adventure,0.06,0.02,0.0,0.0,65.0,7.3,E10+
+11217,Royal Palace of White Sword and The City of Gentiles,XB,2005.0,Role-Playing,0.06,0.02,0.0,0.0,,,
+11229,The Incredibles: Rise of the Underminer,XB,2005.0,Action,0.06,0.02,0.0,0.0,63.0,tbd,E10+
+11270,NCAA Football 08,XB,2007.0,Sports,0.06,0.02,0.0,0.0,82.0,8.1,E
+11309,Sega GT Online,XB,2003.0,Racing,0.06,0.02,0.0,0.0,72.0,9.2,T
+11316,Prisoner of War,XB,2002.0,Adventure,0.06,0.02,0.0,0.0,64.0,tbd,T
+11351,Aliens versus Predator: Extinction,XB,2003.0,Strategy,0.06,0.02,0.0,0.0,64.0,7.7,T
+11355,FIFA Street 2,XB,2006.0,Sports,0.06,0.02,0.0,0.0,63.0,7.1,E
+11368,Blazing Angels: Squadrons of WWII,XB,2006.0,Simulation,0.06,0.02,0.0,0.0,69.0,6.8,T
+11468,The Italian Job,XB,2003.0,Racing,0.06,0.02,0.0,0.0,54.0,5.8,T
+11510,High Heat Major League Baseball 2004,XB,2003.0,Sports,0.06,0.02,0.0,0.0,83.0,8.4,E
+11526,Midway Arcade Treasures 3,XB,2005.0,Misc,0.06,0.02,0.0,0.0,68.0,tbd,E
+11541,Goblin Commander: Unleash the Horde,XB,2003.0,Strategy,0.06,0.02,0.0,0.0,70.0,tbd,T
+11569,Battlestar Galactica,XB,2003.0,Shooter,0.06,0.02,0.0,0.0,63.0,tbd,T
+11570,Fireblade,XB,2002.0,Action,0.06,0.02,0.0,0.0,71.0,tbd,T
+11574,RoadKill,XB,2003.0,Action,0.06,0.02,0.0,0.0,68.0,7.4,M
+11582,Indycar Series 2005,XB,2004.0,Action,0.06,0.02,0.0,0.0,72.0,tbd,E
+11592,Evil Dead: Regeneration,XB,2005.0,Action,0.06,0.02,0.0,0.0,66.0,tbd,M
+11647,Ford vs. Chevy,XB,2005.0,Racing,0.06,0.02,0.0,0.0,,tbd,E
+11649,The Dukes of Hazzard: Return of the General Lee,XB,2004.0,Racing,0.06,0.02,0.0,0.0,49.0,7,E
+11690,Frogger Beyond,XB,2002.0,Platform,0.06,0.02,0.0,0.0,,tbd,E
+11727,Vietcong: Purple Haze,XB,2004.0,Shooter,0.06,0.02,0.0,0.0,57.0,8.4,M
+11742,Far Cry Instincts Evolution,XB,2006.0,Shooter,0.06,0.02,0.0,0.0,78.0,6.3,M
+11743,Pinball Hall of Fame: The Gottlieb Collection,XB,2004.0,Misc,0.06,0.02,0.0,0.0,,,
+11750,Scooby-Doo! Unmasked,XB,2005.0,Platform,0.06,0.02,0.0,0.0,,,
+11753,Dynasty Warriors 3,XB,2002.0,Action,0.06,0.02,0.0,0.0,70.0,8.9,T
+11757,MTV Music Generator 3: This Is the Remix,XB,2004.0,Misc,0.06,0.02,0.0,0.0,79.0,5.4,T
+11795,Rayman 3: Hoodlum Havoc,XB,2003.0,Platform,0.06,0.02,0.0,0.0,75.0,7.9,E
+11807,And1 Streetball,XB,2006.0,Action,0.06,0.02,0.0,0.0,,,
+11842,Still Life,XB,2005.0,Adventure,0.05,0.02,0.0,0.0,70.0,8.2,M
+11843,Big Mutha Truckers 2,XB,2005.0,Racing,0.05,0.02,0.0,0.0,50.0,3.4,M
+11849,I-Ninja,XB,2003.0,Platform,0.05,0.02,0.0,0.0,75.0,8.4,T
+11864,Commandos 2: Men of Courage,XB,2002.0,Strategy,0.05,0.02,0.0,0.0,67.0,8.4,T
+11875,Maximum Chase,XB,2002.0,Racing,0.05,0.02,0.0,0.0,56.0,tbd,T
+11895,Tak: The Great Juju Challenge,XB,2005.0,Platform,0.05,0.02,0.0,0.0,75.0,tbd,E
+11897,Combat: Task Force 121,XB,2005.0,Shooter,0.05,0.02,0.0,0.0,44.0,8.5,M
+11900,Exhibition Volume 4,XB,2003.0,Misc,0.05,0.02,0.0,0.0,,,
+11909,Circus Maximus: Chariot Wars,XB,2002.0,Racing,0.05,0.02,0.0,0.0,67.0,5,T
+11937,James Cameron's Dark Angel,XB,2002.0,Action,0.05,0.02,0.0,0.0,47.0,8.3,T
+11979,Loons: The Fight For Fame,XB,2002.0,Action,0.05,0.02,0.0,0.0,,,
+11981,Second Sight,XB,2004.0,Adventure,0.05,0.02,0.0,0.0,75.0,8,T
+11984,Totaled!,XB,2002.0,Racing,0.05,0.02,0.0,0.0,,,
+12007,Taz Wanted,XB,2002.0,Platform,0.05,0.02,0.0,0.0,62.0,tbd,E
+12010,Harry Potter and the Sorcerer's Stone,XB,2003.0,Action,0.05,0.02,0.0,0.0,59.0,6,E
+12025,Samurai Warriors,XB,2004.0,Action,0.05,0.02,0.0,0.0,71.0,9,T
+12037,The Guy Game,XB,2004.0,Misc,0.05,0.02,0.0,0.0,47.0,5.4,M
+12046,Drake of the 99 Dragons,XB,,Shooter,0.05,0.01,0.0,0.0,22.0,1.8,T
+12082,Pitfall: The Lost Expedition,XB,2004.0,Platform,0.05,0.01,0.0,0.0,73.0,7.8,E
+12181,Jurassic Park: Operation Genesis,XB,2003.0,Simulation,0.05,0.01,0.0,0.0,69.0,8.8,T
+12188,Driver: Parallel Lines,XB,2006.0,Racing,0.05,0.01,0.0,0.0,69.0,4.6,M
+12198,World Racing,XB,2003.0,Racing,0.05,0.01,0.0,0.0,56.0,8.1,E
+12217,Rayman Arena,XB,,Racing,0.05,0.01,0.0,0.0,50.0,tbd,E
+12240,Karaoke Revolution Party,XB,2005.0,Misc,0.05,0.01,0.0,0.0,80.0,tbd,E10+
+12258,Worms Forts: Under Siege,XB,2004.0,Strategy,0.05,0.01,0.0,0.0,67.0,8,T
+12272,NHL Hitz Pro,XB,2003.0,Sports,0.05,0.01,0.0,0.0,81.0,8.8,E
+12282,Wings of War,XB,2004.0,Simulation,0.05,0.01,0.0,0.0,62.0,5,T
+12283,187: Ride or Die,XB,2005.0,Racing,0.05,0.01,0.0,0.0,51.0,6.9,M
+12288,Kabuki Warriors,XB,2001.0,Action,0.05,0.01,0.0,0.0,32.0,2.5,M
+12291,World Poker Tour,XB,2005.0,Misc,0.05,0.01,0.0,0.0,63.0,7.8,T
+12296,Pirates: The Legend of Black Kat,XB,2002.0,Adventure,0.05,0.01,0.0,0.0,74.0,tbd,T
+12305,Bionicle,XB,2003.0,Action,0.05,0.01,0.0,0.0,49.0,1.5,E
+12318,Aggressive Inline,XB,2002.0,Sports,0.05,0.01,0.0,0.0,85.0,7.7,T
+12351,F1 2001,XB,2001.0,Racing,0.05,0.01,0.0,0.0,83.0,5.5,E
+12383,Deathrow: Underground Team Combat,XB,2002.0,Sports,0.05,0.01,0.0,0.0,,,
+12386,Land of the Dead: Road to Fiddler's Green,XB,2005.0,Shooter,0.05,0.01,0.0,0.0,32.0,5.8,M
+12442,Monster Garage,XB,2004.0,Strategy,0.05,0.01,0.0,0.0,38.0,tbd,T
+12446,Tecmo Classic Arcade,XB,2005.0,Misc,0.05,0.01,0.0,0.0,55.0,tbd,E
+12471,Barbie Horse Adventures: Wild Horse Rescue,XB,2003.0,Sports,0.05,0.01,0.0,0.0,,,
+12486,Cold Fear,XB,2005.0,Action,0.05,0.01,0.0,0.0,71.0,7.6,M
+12499,Call of Cthulhu: Dark Corners of the Earth,XB,2005.0,Adventure,0.05,0.01,0.0,0.0,77.0,8.1,M
+12500,The Great Escape,XB,2003.0,Action,0.05,0.01,0.0,0.0,55.0,tbd,T
+12527,Terminator 3: The Redemption,XB,2004.0,Shooter,0.05,0.01,0.0,0.0,66.0,8.6,T
+12535,Serious Sam II,XB,2005.0,Shooter,0.05,0.01,0.0,0.0,72.0,6.7,M
+12573,IHRA Professional Drag Racing 2005,XB,2004.0,Racing,0.04,0.01,0.0,0.0,36.0,tbd,E
+12611,Exhibition Volume 5,XB,2004.0,Misc,0.04,0.01,0.0,0.0,,,
+12628,Splat Renegade Paintball,XB,2005.0,Sports,0.04,0.01,0.0,0.0,44.0,tbd,T
+12633,Worms 3D,XB,2003.0,Strategy,0.04,0.01,0.0,0.0,69.0,8.4,T
+12651,Tron 2.0: Killer App,XB,2004.0,Action,0.04,0.01,0.0,0.0,69.0,4.3,T
+12673,NTRA Breeders' Cup World Thoroughbred Championships,XB,2005.0,Simulation,0.04,0.01,0.0,0.0,,,
+12689,Myst III: Exile,XB,2002.0,Adventure,0.04,0.01,0.0,0.0,55.0,tbd,E
+12699,Fatal Frame,XB,2002.0,Action,0.04,0.01,0.0,0.0,77.0,8.6,T
+12709,Catwoman,XB,2004.0,Action,0.04,0.01,0.0,0.0,45.0,4.6,T
+12735,Constantine,XB,2005.0,Action,0.04,0.01,0.0,0.0,60.0,7.1,M
+12781,Dr. Muto,XB,2002.0,Platform,0.04,0.01,0.0,0.0,70.0,tbd,T
+12784,Tom Clancy's Rainbow Six: Critical Hour,XB,,Shooter,0.04,0.01,0.0,0.0,54.0,3.6,M
+12812,NBA Live 07,XB,2006.0,Sports,0.04,0.01,0.0,0.0,69.0,6.8,E
+12841,Whiplash,XB,2003.0,Racing,0.04,0.01,0.0,0.0,68.0,tbd,T
+12849,SeaBlade,XB,2002.0,Shooter,0.04,0.01,0.0,0.0,48.0,tbd,T
+12869,Speed Kings,XB,2003.0,Racing,0.04,0.01,0.0,0.0,60.0,8.8,E
+12872,Gladiator: Sword of Vengeance,XB,2003.0,Action,0.04,0.01,0.0,0.0,65.0,7.1,M
+12897,Sega Soccer Slam,XB,2002.0,Sports,0.04,0.01,0.0,0.0,80.0,8.5,E
+12906,Carve,XB,2004.0,Racing,0.04,0.01,0.0,0.0,64.0,tbd,E
+12907,BlowOut,XB,2003.0,Shooter,0.04,0.01,0.0,0.0,55.0,tbd,T
+12914,Dynasty Warriors 5,XB,2005.0,Action,0.04,0.01,0.0,0.0,66.0,8,T
+12931,MLB SlugFest 2006,XB,2006.0,Sports,0.04,0.01,0.0,0.0,59.0,tbd,E10+
+12935,UEFA Euro 2004: Portugal,XB,2004.0,Sports,0.04,0.01,0.0,0.0,74.0,8.1,E
+12947,Zapper: One Wicked Cricket!,XB,2002.0,Platform,0.04,0.01,0.0,0.0,,,
+12957,NFL Blitz Pro,XB,2003.0,Sports,0.04,0.01,0.0,0.0,71.0,6.6,E
+12964,Wakeboarding Unleashed Featuring Shaun Murray,XB,2003.0,Sports,0.04,0.01,0.0,0.0,80.0,8.8,E
+12982,King Arthur,XB,2004.0,Action,0.04,0.01,0.0,0.0,61.0,tbd,T
+12992,Dragon's Lair 3D: Return to the Lair,XB,2002.0,Platform,0.04,0.01,0.0,0.0,,,
+12995,Myst IV: Revelation,XB,2005.0,Adventure,0.04,0.01,0.0,0.0,75.0,tbd,T
+13024,Otogi 2: Immortal Warriors,XB,2003.0,Action,0.04,0.01,0.0,0.0,79.0,8.3,T
+13031,Fallout: Brotherhood of Steel,XB,2004.0,Role-Playing,0.04,0.01,0.0,0.0,66.0,5.5,M
+13033,IndyCar Series,XB,2003.0,Racing,0.04,0.01,0.0,0.0,71.0,7.8,E
+13035,Ultra Bust-A-Move,XB,2004.0,Puzzle,0.04,0.01,0.0,0.0,74.0,tbd,E
+13036,Rally Fusion: Race of Champions,XB,2002.0,Racing,0.04,0.01,0.0,0.0,69.0,tbd,E
+13102,Phantom Crash,XB,2002.0,Simulation,0.03,0.01,0.01,0.0,74.0,8.3,T
+13148,Alias,XB,2004.0,Action,0.04,0.01,0.0,0.0,64.0,6,T
+13163,Arx Fatalis,XB,2003.0,Role-Playing,0.04,0.01,0.0,0.0,71.0,8.2,M
+13228,Alter Echo,XB,2003.0,Shooter,0.04,0.01,0.0,0.0,62.0,tbd,T
+13283,Crime Life: Gang Wars,XB,2005.0,Action,0.04,0.01,0.0,0.0,30.0,3.4,M
+13285,Rugby 2005,XB,2005.0,Sports,0.04,0.01,0.0,0.0,75.0,7.7,E
+13287,Taito Legends,XB,2005.0,Misc,0.04,0.01,0.0,0.0,74.0,tbd,T
+13301,Fatal Frame II: Crimson Butterfly Director's Cut,XB,2004.0,Action,0.04,0.01,0.0,0.0,84.0,8.3,M
+13306,Colin McRae Rally 2005,XB,2004.0,Racing,0.04,0.01,0.0,0.0,83.0,7.5,E
+13314,American Chopper 2: Full Throttle,XB,2005.0,Racing,0.04,0.01,0.0,0.0,,tbd,T
+13342,Kakuto Chojin,XB,2002.0,Fighting,0.04,0.01,0.0,0.0,46.0,7.2,T
+13344,Robotech: Invasion,XB,2004.0,Shooter,0.04,0.01,0.0,0.0,59.0,tbd,T
+13359,Raze's Hell,XB,2005.0,Shooter,0.04,0.01,0.0,0.0,71.0,8.1,M
+13362,Shin Megami Tensei NINE,XB,2002.0,Role-Playing,0.0,0.0,0.05,0.0,,,
+13370,NightCaster II: Equinox,XB,2002.0,Action,0.03,0.01,0.0,0.0,46.0,7,T
+13390,Full Spectrum Warrior: Ten Hammers,XB,2006.0,Strategy,0.03,0.01,0.0,0.0,69.0,tbd,M
+13408,Intellivision Lives!,XB,2004.0,Misc,0.03,0.01,0.0,0.0,,,
+13422,Mike Tyson Heavyweight Boxing,XB,2002.0,Sports,0.03,0.01,0.0,0.0,37.0,tbd,T
+13443,Wrath Unleashed,XB,2004.0,Strategy,0.03,0.01,0.0,0.0,69.0,7,T
+13456,The Bible Game,XB,2005.0,Misc,0.03,0.01,0.0,0.0,60.0,2.7,E
+13460,Yager,XB,2003.0,Shooter,0.03,0.01,0.0,0.0,70.0,9.3,T
+13465,Futurama,XB,2003.0,Platform,0.03,0.01,0.0,0.0,58.0,6.9,T
+13479,Trigger Man,XB,2004.0,Shooter,0.03,0.01,0.0,0.0,31.0,tbd,T
+13523,Operation Flashpoint: Elite,XB,2005.0,Shooter,0.03,0.01,0.0,0.0,64.0,8.3,T
+13546,TOCA Race Driver 2,XB,2004.0,Racing,0.03,0.01,0.0,0.0,,8.3,T
+13572,FlatOut 2,XB,2006.0,Racing,0.03,0.01,0.0,0.0,73.0,7.3,T
+13590,Dai Senryaku VII: Modern Military Tactics,XB,2003.0,Strategy,0.03,0.01,0.0,0.0,74.0,8.8,E
+13618,Strike Force Bowling,XB,2004.0,Sports,0.03,0.01,0.0,0.0,54.0,tbd,E
+13629,SX Superstar,XB,2003.0,Racing,0.03,0.01,0.0,0.0,53.0,tbd,T
+13637,Outlaw Tennis,XB,2005.0,Sports,0.03,0.01,0.0,0.0,66.0,7.7,M
+13657,NASCAR 07,XB,2006.0,Racing,0.03,0.01,0.0,0.0,72.0,7,E
+13661,Scaler,XB,2004.0,Platform,0.03,0.01,0.0,0.0,69.0,tbd,E
+13671,Bloody Roar Extreme,XB,2003.0,Fighting,0.03,0.01,0.0,0.0,61.0,8.6,T
+13674,Tennis Masters Series 2003,XB,2002.0,Sports,0.03,0.01,0.0,0.0,67.0,tbd,E
+13684,Torino 2006,XB,2006.0,Sports,0.03,0.01,0.0,0.0,,,
+13687,Metal Slug 4 & 5,XB,2005.0,Shooter,0.03,0.01,0.0,0.0,,,
+13734,Star Trek: Shattered Universe,XB,2004.0,Simulation,0.03,0.01,0.0,0.0,41.0,4,E
+13749,Capcom Fighting Evolution,XB,2005.0,Fighting,0.03,0.01,0.0,0.0,61.0,tbd,T
+13780,Shattered Union,XB,2005.0,Strategy,0.03,0.01,0.0,0.0,66.0,6.9,T
+13810,Worms 4: Mayhem,XB,2005.0,Strategy,0.03,0.01,0.0,0.0,69.0,9.2,T
+13846,The Da Vinci Code,XB,2006.0,Action,0.03,0.01,0.0,0.0,52.0,2.8,T
+13854,Pure Pinball,XB,2004.0,Misc,0.03,0.01,0.0,0.0,68.0,8.5,E
+13898,Dreamfall: The Longest Journey,XB,2006.0,Adventure,0.03,0.01,0.0,0.0,73.0,8.8,M
+13926,Colin McRae Rally 3,XB,2002.0,Racing,0.03,0.01,0.0,0.0,86.0,7.4,E
+13942,Pro Race Driver,XB,2003.0,Racing,0.03,0.01,0.0,0.0,80.0,7.5,T
+14050,Smashing Drive,XB,2002.0,Racing,0.03,0.01,0.0,0.0,42.0,tbd,T
+14055,Teenage Mutant Ninja Turtles 3: Mutant Nightmare,XB,2005.0,Action,0.03,0.01,0.0,0.0,56.0,tbd,E10+
+14058,Beatdown: Fists of Vengeance,XB,2005.0,Action,0.03,0.01,0.0,0.0,,,
+14069,World Championship Pool 2004,XB,2003.0,Sports,0.03,0.01,0.0,0.0,67.0,tbd,E
+14083,RLH: Run Like Hell,XB,2003.0,Shooter,0.03,0.01,0.0,0.0,55.0,8,M
+14086,Obscure,XB,2004.0,Adventure,0.03,0.01,0.0,0.0,66.0,8.4,M
+14120,Black Stone: Magic & Steel,XB,2003.0,Role-Playing,0.03,0.01,0.0,0.0,,,
+14125,Painkiller: Hell Wars,XB,2006.0,Shooter,0.03,0.01,0.0,0.0,68.0,7.4,M
+14154,MX World Tour Featuring Jamie Little,XB,2005.0,Racing,0.03,0.01,0.0,0.0,51.0,tbd,E
+14163,RedCard 20-03,XB,2002.0,Sports,0.03,0.01,0.0,0.0,67.0,9,E
+14179,TOCA Race Driver 3,XB,2006.0,Racing,0.03,0.01,0.0,0.0,84.0,8,E10+
+14227,Special Forces: Nemesis Strike,XB,2005.0,Shooter,0.03,0.01,0.0,0.0,60.0,6.5,M
+14298,Project Gotham Racing 2 (JP weekly sales),XB,2003.0,Action,0.0,0.0,0.03,0.0,,,
+14355,GunGriffon: Allied Strike,XB,2004.0,Simulation,0.02,0.01,0.0,0.0,55.0,tbd,T
+14383,Tork: Prehistoric Punk,XB,2005.0,Platform,0.02,0.01,0.0,0.0,62.0,6.2,E
+14457,Stacked with Daniel Negreanu,XB,2006.0,Misc,0.02,0.01,0.0,0.0,61.0,tbd,T
+14491,Digimon World 4,XB,2005.0,Role-Playing,0.02,0.01,0.0,0.0,54.0,8.8,E
+14494,Galleon: Islands of Mystery,XB,2004.0,Action,0.02,0.01,0.0,0.0,67.0,7,T
+14532,Freaky Flyers,XB,2003.0,Racing,0.02,0.01,0.0,0.0,64.0,tbd,T
+14546,Combat Elite: WWII Paratroopers,XB,,Shooter,0.02,0.01,0.0,0.0,56.0,tbd,T
+14611,Robin Hood: Defender of the Crown,XB,2003.0,Strategy,0.02,0.01,0.0,0.0,57.0,tbd,T
+14617,Curious George,XB,2006.0,Action,0.02,0.01,0.0,0.0,57.0,tbd,E
+14619,Virtual Pool: Tournament Edition,XB,2005.0,Sports,0.02,0.01,0.0,0.0,62.0,tbd,E
+14642,Real World Golf,XB,2006.0,Sports,0.02,0.01,0.0,0.0,74.0,tbd,E
+14662,Wallace & Gromit in Project Zoo,XB,2003.0,Platform,0.02,0.01,0.0,0.0,,,
+14666,Metal Dungeon,XB,2002.0,Role-Playing,0.02,0.01,0.0,0.0,44.0,7.2,T
+14675,Future Tactics: The Uprising,XB,2004.0,Strategy,0.02,0.01,0.0,0.0,61.0,tbd,
+14703,Whiteout,XB,2002.0,Racing,0.02,0.01,0.0,0.0,58.0,tbd,T
+14712,Syberia II,XB,2004.0,Adventure,0.02,0.01,0.0,0.0,71.0,8.7,T
+14713,Motor Trend presents Lotus Challenge,XB,2003.0,Racing,0.02,0.01,0.0,0.0,61.0,tbd,E
+14738,The King of Fighters 02/03,XB,2005.0,Fighting,0.02,0.01,0.0,0.0,76.0,tbd,T
+14739,ESPN Winter X Games: Snowboarding 2002,XB,2002.0,Sports,0.02,0.01,0.0,0.0,71.0,tbd,T
+14749,Tom and Jerry in War of the Whiskers,XB,,Fighting,0.02,0.01,0.0,0.0,,,
+14790,Pro Cast Sports Fishing,XB,2003.0,Sports,0.02,0.01,0.0,0.0,49.0,tbd,E
+14803,NBA 2K7,XB,2006.0,Sports,0.02,0.01,0.0,0.0,83.0,8.6,E
+14813,Frogger: Ancient Shadow,XB,2005.0,Platform,0.02,0.01,0.0,0.0,47.0,tbd,E
+14837,Mojo!,XB,2003.0,Puzzle,0.02,0.01,0.0,0.0,,,
+14865,NHL 07,XB,2006.0,Sports,0.02,0.01,0.0,0.0,75.0,7.7,E10+
+14913,World War II Combat: Road To Berlin,XB,2006.0,Shooter,0.02,0.01,0.0,0.0,,1.2,M
+14931,The King of Fighters: Maximum Impact - Maniax,XB,,Fighting,0.02,0.01,0.0,0.0,,,
+15004,Room Zoom: Race for Impact,XB,2004.0,Racing,0.02,0.01,0.0,0.0,,,
+15020,Stake: Fortune Fighters,XB,2003.0,Fighting,0.02,0.01,0.0,0.0,26.0,3.7,T
+15037,Cold War,XB,2005.0,Shooter,0.02,0.01,0.0,0.0,60.0,8,T
+15039,Steel Battalion: Line of Contact,XB,2004.0,Simulation,0.02,0.01,0.0,0.0,70.0,8,T
+15042,NBA Starting Five,XB,2002.0,Sports,0.02,0.01,0.0,0.0,48.0,5.5,E
+15050,Carmen Sandiego: The Secret of the Stolen Drums,XB,2004.0,Action,0.02,0.01,0.0,0.0,53.0,tbd,E
+15054,"Ed, Edd n Eddy: The Mis-Edventures",XB,2005.0,Platform,0.02,0.01,0.0,0.0,56.0,7.7,E
+15068,Ty the Tasmanian Tiger 3: Night of the Quinkan,XB,2005.0,Action,0.02,0.01,0.0,0.0,66.0,tbd,E10+
+15069,Total Overdose: A Gunslinger's Tale in Mexico,XB,2005.0,Shooter,0.02,0.01,0.0,0.0,71.0,9.2,M
+15134,Total Immersion Racing,XB,2002.0,Racing,0.02,0.01,0.0,0.0,60.0,tbd,E
+15179,Toxic Grind,XB,2002.0,Sports,0.02,0.0,0.0,0.0,49.0,tbd,T
+15182,ScrapLand,XB,2005.0,Action,0.02,0.0,0.0,0.0,73.0,7.4,T
+15205,Samurai Shodown V,XB,2006.0,Fighting,0.02,0.0,0.0,0.0,58.0,tbd,T
+15208,Pro Fishing Challenge,XB,2004.0,Sports,0.02,0.0,0.0,0.0,62.0,9.1,E
+15224,Freestyle Metal X,XB,2003.0,Racing,0.02,0.0,0.0,0.0,,,
+15247,Commandos: Strike Force,XB,2006.0,Shooter,0.02,0.0,0.0,0.0,62.0,tbd,T
+15252,Zathura,XB,2005.0,Adventure,0.02,0.0,0.0,0.0,48.0,5.5,E10+
+15280,Knight's Apprentice: Memorick's Adventures,XB,2004.0,Action,0.02,0.0,0.0,0.0,53.0,4.5,T
+15301,Iron Phoenix,XB,2005.0,Fighting,0.02,0.0,0.0,0.0,58.0,6.5,T
+15325,Group S Challenge,XB,2003.0,Racing,0.02,0.0,0.0,0.0,57.0,6,E
+15342,Dakar 2: The World's Ultimate Rally,XB,2003.0,Racing,0.02,0.0,0.0,0.0,,,
+15369,Guess the Logos,XB,2004.0,Puzzle,0.02,0.0,0.0,0.0,,,
+15395,The King of Fighters NeoWave,XB,2006.0,Fighting,0.02,0.0,0.0,0.0,62.0,tbd,T
+15442,Headhunter: Redemption,XB,2004.0,Action,0.02,0.0,0.0,0.0,59.0,6.8,M
+15451,Chicago Enforcer,XB,2005.0,Shooter,0.02,0.0,0.0,0.0,33.0,2.8,M
+15485,XGRA: Extreme G Racing Association,XB,2003.0,Racing,0.02,0.0,0.0,0.0,66.0,6.8,T
+15499,Motocross Mania 3,XB,2005.0,Racing,0.01,0.0,0.0,0.0,38.0,3.6,T
+15520,Pump It Up: Exceed,XB,2005.0,Misc,0.01,0.0,0.0,0.0,74.0,7.5,T
+15542,Digimon Rumble Arena 2,XB,2004.0,Fighting,0.01,0.0,0.0,0.0,65.0,8.8,T
+15575,Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E.,XB,2005.0,Platform,0.01,0.0,0.0,0.0,57.0,tbd,E10+
+15583,ESPN MLS ExtraTime 2002,XB,2002.0,Sports,0.01,0.0,0.0,0.0,68.0,tbd,E
+15622,Rugby 06,XB,2006.0,Sports,0.01,0.0,0.0,0.0,76.0,tbd,
+15630,Urban Chaos: Riot Response,XB,2006.0,Shooter,0.01,0.0,0.0,0.0,72.0,8.6,M
+15647,Broken Sword: The Sleeping Dragon,XB,2003.0,Adventure,0.01,0.0,0.0,0.0,77.0,8.3,T
+15693,ESPN NFL Primetime 2002,XB,2002.0,Sports,0.01,0.0,0.0,0.0,57.0,tbd,E
+15695,Red Ninja: End of Honor,XB,2005.0,Action,0.01,0.0,0.0,0.0,46.0,4,M
+15730,TMNT: Mutant Melee,XB,2005.0,Fighting,0.01,0.0,0.0,0.0,43.0,4.8,T
+15735,RoboCop,XB,2003.0,Shooter,0.01,0.0,0.0,0.0,30.0,3.6,M
+15746,The Hustle: Detroit Streets,XB,2006.0,Sports,0.01,0.0,0.0,0.0,52.0,tbd,T
+15768,Pulse Racer,XB,2003.0,Racing,0.01,0.0,0.0,0.0,24.0,2.8,E
+15776,Rogue Trooper,XB,2006.0,Shooter,0.01,0.0,0.0,0.0,71.0,8.5,T
+15816,Without Warning,XB,,Shooter,0.01,0.0,0.0,0.0,45.0,2,M
+15828,Final Fight: Streetwise,XB,2006.0,Action,0.01,0.0,0.0,0.0,42.0,4,M
+15832,Top Gear RPM Tuning,XB,2005.0,Racing,0.01,0.0,0.0,0.0,45.0,7.5,T
+15850,Battle Engine Aquila,XB,2003.0,Shooter,0.01,0.0,0.0,0.0,76.0,tbd,T
+15871,Army Men: Major Malfunction,XB,2006.0,Shooter,0.01,0.0,0.0,0.0,36.0,4,T
+15890,Judge Dredd: Dredd Vs Death,XB,2003.0,Shooter,0.01,0.0,0.0,0.0,57.0,6.7,M
+15918,Exhibition Volume 6,XB,2004.0,Misc,0.01,0.0,0.0,0.0,,,
+15959,V-Rally 3,XB,2003.0,Racing,0.01,0.0,0.0,0.0,76.0,tbd,E
+15989,Antz Extreme Racing,XB,2002.0,Racing,0.01,0.0,0.0,0.0,35.0,8.7,E
+16037,Hummer Badlands,XB,2006.0,Racing,0.01,0.0,0.0,0.0,44.0,6,E
+16053,IHRA Drag Racing: Sportsman Edition,XB,2006.0,Racing,0.01,0.0,0.0,0.0,35.0,tbd,E10+
+16157,Aquaman: Battle for Atlantis,XB,,Action,0.01,0.0,0.0,0.0,26.0,2.7,T
+16164,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,XB,2005.0,Adventure,0.01,0.0,0.0,0.0,,,
+16178,Egg Mania: Eggstreme Madness,XB,2002.0,Puzzle,0.01,0.0,0.0,0.0,58.0,tbd,E
+16194,Grooverider: Slot Car Thunder,XB,2003.0,Racing,0.01,0.0,0.0,0.0,45.0,7.3,E
+16203,Aeon Flux,XB,2005.0,Action,0.01,0.0,0.0,0.0,69.0,3,T
+16237,WTA Tour Tennis,XB,2002.0,Sports,0.01,0.0,0.0,0.0,,tbd,E
+16239,Furious Karting,XB,2003.0,Racing,0.01,0.0,0.0,0.0,63.0,tbd,T
+16259,Malice,XB,2004.0,Platform,0.01,0.0,0.0,0.0,48.0,tbd,T
+16263,Wallace & Gromit: Curse of the Were-Rabbit,XB,2005.0,Adventure,0.01,0.0,0.0,0.0,,,
+16424,RalliSport Challenge(JP sales),XB,2002.0,Racing,0.0,0.0,0.01,0.0,,,
+16442,Dinotopia: The Sunstone Odyssey,XB,2003.0,Action,0.01,0.0,0.0,0.0,44.0,tbd,T
+16452,NHL 2K7,XB,2006.0,Sports,0.01,0.0,0.0,0.0,78.0,tbd,E10+
+16455,Powerdrome,XB,2004.0,Racing,0.01,0.0,0.0,0.0,69.0,7,T
+16467,"Crouching Tiger, Hidden Dragon",XB,2003.0,Action,0.01,0.0,0.0,0.0,52.0,tbd,T
+16470,Super Bubble Pop,XB,2002.0,Puzzle,0.01,0.0,0.0,0.0,42.0,tbd,E
+16521,ESPN NBA 2Night 2002,XB,2002.0,Sports,0.01,0.0,0.0,0.0,,tbd,E

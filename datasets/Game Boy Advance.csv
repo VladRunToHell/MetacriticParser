@@ -1,0 +1,823 @@
+,Name,Platform,Year_of_Release,Genre,NA_sales,EU_sales,JP_sales,Other_sales,Critic_Score,User_Score,Rating
+25,Pokemon Ruby/Pokemon Sapphire,GBA,2002.0,Role-Playing,6.06,3.9,5.38,0.5,,,
+58,Pokemon FireRed/Pokemon LeafGreen,GBA,2004.0,Role-Playing,4.34,2.65,3.15,0.35,,,
+131,Pokémon Emerald Version,GBA,2004.0,Role-Playing,2.57,1.58,2.06,0.21,76.0,9,E
+162,Super Mario Advance,GBA,2001.0,Platform,3.14,1.24,0.91,0.2,84.0,7.8,E
+166,Mario Kart: Super Circuit,GBA,2001.0,Racing,2.62,1.64,0.99,0.23,93.0,8.3,E
+167,Super Mario World,GBA,2001.0,Platform,3.21,1.11,0.95,0.2,,,
+187,Super Mario Bros. 3,GBA,2003.0,Platform,2.93,1.25,0.83,0.2,,,
+266,Namco Museum,GBA,2001.0,Misc,3.0,1.11,0.05,0.07,79.0,7.3,E
+489,Pac-Man Collection,GBA,2001.0,Puzzle,2.07,0.77,0.05,0.05,79.0,7.8,E
+495,Super Mario World 2: Yoshi's Island,GBA,2002.0,Platform,1.75,0.45,0.62,0.09,,,
+519,Finding Nemo,GBA,2003.0,Action,1.59,1.05,0.04,0.14,,7,E
+553,The Legend of Zelda: A Link to the Past,GBA,2002.0,Action,1.75,0.52,0.33,0.1,95.0,9.1,E
+657,Frogger's Adventures: Temple of the Frog,GBA,,Adventure,2.15,0.18,0.0,0.07,73.0,tbd,E
+705,Kirby: Nightmare in Dream Land,GBA,2002.0,Platform,1.22,0.1,0.91,0.04,81.0,8.9,E
+706,Wario Land 4,GBA,2001.0,Platform,0.9,0.73,0.54,0.09,88.0,8.9,E
+716,Sonic Advance,GBA,2001.0,Platform,1.19,0.71,0.22,0.13,87.0,8.1,E
+722,Spyro: Season of Ice,GBA,2001.0,Platform,1.29,0.83,0.0,0.11,74.0,8,E
+755,Mario & Luigi: Superstar Saga,GBA,2003.0,Role-Playing,1.48,0.17,0.47,0.06,,,
+776,Final Fantasy Tactics Advance,GBA,2003.0,Role-Playing,0.82,0.37,0.89,0.05,87.0,7.8,E
+815,Yu-Gi-Oh! The Eternal Duelist Soul,GBA,2001.0,Strategy,1.64,0.36,0.0,0.07,,,
+820,Pokemon Mystery Dungeon: Red/Blue Rescue Team,GBA,2005.0,Role-Playing,0.71,0.52,0.74,0.08,,,
+821,The Incredibles,GBA,2004.0,Action,1.15,0.77,0.04,0.1,55.0,tbd,E
+836,Donkey Kong Country,GBA,2003.0,Platform,1.2,0.48,0.29,0.07,78.0,8.9,E
+858,Harry Potter and the Chamber of Secrets,GBA,2002.0,Action,1.21,0.64,0.05,0.09,76.0,7.9,E
+941,Kingdom Hearts: Chain of Memories,GBA,2004.0,Role-Playing,1.26,0.18,0.35,0.06,76.0,7.9,E
+950,2 Games in 1: Sonic Advance & ChuChu Rocket!,GBA,2005.0,Misc,1.31,0.49,0.0,0.03,,,
+971,Sonic Advance 2,GBA,2002.0,Platform,0.93,0.59,0.21,0.07,83.0,8.3,E
+995,Golden Sun,GBA,2001.0,Role-Playing,0.93,0.38,0.4,0.06,91.0,9.3,E
+1001,2 Games in 1 Double Pack: The Incredibles / Finding Nemo: The Continuing Adventures,GBA,2007.0,Action,1.26,0.47,0.0,0.03,,,
+1017,2 Games in 1: Disney Princess & The Lion King,GBA,2004.0,Misc,1.25,0.46,0.0,0.03,,,
+1032,Crash Bandicoot: The Huge Adventure,GBA,2002.0,Platform,0.95,0.7,0.0,0.08,78.0,7.9,E
+1047,Tetris Worlds,GBA,2001.0,Puzzle,1.25,0.39,0.0,0.06,65.0,tbd,E
+1065,Harry Potter and the Sorcerer's Stone,GBA,2001.0,Action,0.87,0.66,0.08,0.08,64.0,7.1,E
+1066,Dragon Ball Z: The Legacy of Goku,GBA,2002.0,Role-Playing,1.52,0.12,0.0,0.05,53.0,6.9,E
+1081,Metroid Fusion,GBA,2002.0,Action,1.18,0.27,0.17,0.06,92.0,9.1,E
+1089,"Monsters, Inc.",GBA,2001.0,Adventure,0.59,0.95,0.03,0.1,,tbd,E
+1117,Kirby & the Amazing Mirror,GBA,2004.0,Platform,0.8,0.05,0.76,0.03,,,
+1173,Spyro 2: Season of Flame,GBA,2002.0,Platform,0.85,0.65,0.0,0.08,76.0,7.6,E
+1198,Pokemon Pinball: Ruby & Sapphire,GBA,2003.0,Misc,0.68,0.38,0.44,0.05,,,
+1292,Disney Princess,GBA,2003.0,Platform,1.04,0.37,0.0,0.06,,tbd,E
+1298,The SpongeBob SquarePants Movie,GBA,2004.0,Platform,1.02,0.38,0.0,0.06,,tbd,E
+1342,Classic NES Series: Super Mario Bros.,GBA,2004.0,Platform,0.0,0.0,1.39,0.03,84.0,8.6,E
+1352,The Legend of Zelda: The Minish Cap,GBA,2004.0,Action,0.89,0.22,0.22,0.1,89.0,9,E
+1382,Sonic Advance 3,GBA,2004.0,Platform,0.74,0.52,0.08,0.06,79.0,8.4,E
+1421,Crash Bandicoot 2: N-Tranced,GBA,2003.0,Platform,0.63,0.66,0.0,0.07,75.0,7.8,E
+1469,Spider-Man: The Movie,GBA,2002.0,Action,0.92,0.35,0.01,0.05,,,
+1472,The Sims: Bustin' Out,GBA,2003.0,Simulation,0.93,0.35,0.0,0.06,,,
+1488,Mega Man Battle Network 4: Red Sun / Blue Moon,GBA,2003.0,Role-Playing,0.31,0.04,0.96,0.01,,,
+1507,Yu-Gi-Oh! The Sacred Cards,GBA,2002.0,Role-Playing,0.94,0.35,0.0,0.02,,,
+1520,Mega Man Battle Network 3 Blue / White Version,GBA,2002.0,Role-Playing,0.39,0.02,0.85,0.03,,,
+1524,Pirates of the Caribbean: The Curse of the Black Pearl,GBA,2003.0,Platform,0.93,0.34,0.0,0.02,49.0,6.2,E
+1625,SpongeBob SquarePants: Battle for Bikini Bottom,GBA,2003.0,Platform,0.88,0.33,0.0,0.02,,7.3,E
+1629,Donkey Kong Country 2,GBA,2004.0,Platform,0.79,0.27,0.12,0.04,80.0,9.1,E
+1631,"WarioWare, Inc.: Mega MicroGame$",GBA,2003.0,Puzzle,0.4,0.11,0.7,0.02,,,
+1645,Golden Sun: The Lost Age,GBA,2002.0,Role-Playing,0.61,0.27,0.27,0.07,86.0,9.5,E
+1667,Shrek / Shrek 2 2-in-1 Gameboy Advance Video,GBA,2007.0,Misc,0.87,0.32,0.0,0.02,,,
+1689,The Simpsons: Road Rage,GBA,2003.0,Racing,0.86,0.32,0.0,0.02,55.0,6.8,E
+1692,SpongeBob SquarePants: Revenge of the Flying Dutchman,GBA,2002.0,Platform,0.92,0.23,0.0,0.04,71.0,7.7,E
+1703,Final Fantasy I & II: Dawn of Souls,GBA,2004.0,Role-Playing,0.64,0.24,0.29,0.02,,,
+1715,Tony Hawk's Pro Skater 2,GBA,2001.0,Sports,0.85,0.31,0.0,0.02,95.0,7.5,E
+1739,Mario vs. Donkey Kong,GBA,2004.0,Puzzle,0.68,0.25,0.21,0.02,81.0,8,E
+1747,Yu-Gi-Oh! The Sacred Cards (American and Others sales),GBA,2002.0,Role-Playing,0.84,0.27,0.0,0.05,,,
+1793,LEGO Star Wars: The Video Game,GBA,2005.0,Action,0.82,0.3,0.0,0.02,,,
+1805,Cars,GBA,2006.0,Racing,0.81,0.3,0.0,0.02,50.0,4.7,E
+1815,Pokémon Mystery Dungeon: Red Rescue Team (US weekly sales),GBA,2005.0,Role-Playing,0.81,0.3,0.0,0.02,,,
+1875,Dragon Ball Z: The Legacy of Goku II,GBA,2003.0,Role-Playing,0.78,0.29,0.0,0.02,75.0,8.9,E
+1908,Dragon Ball Z: Taiketsu,GBA,2003.0,Fighting,0.77,0.29,0.0,0.02,40.0,6.1,T
+1909,Disney's Lilo & Stitch,GBA,2002.0,Platform,0.77,0.29,0.0,0.02,,,
+1955,Spider-Man 2,GBA,2004.0,Action,0.76,0.28,0.0,0.02,65.0,7.7,E
+1995,F-Zero: Maximum Velocity,GBA,2001.0,Racing,0.39,0.16,0.37,0.12,86.0,8.5,E
+2101,Mario Party Advance,GBA,2005.0,Misc,0.5,0.19,0.28,0.02,54.0,5.4,E
+2117,Fire Emblem,GBA,2003.0,Strategy,0.49,0.18,0.29,0.01,88.0,9.2,E
+2174,Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel,GBA,2003.0,Misc,0.68,0.25,0.0,0.02,,,
+2212,Bentley's Hackpack,GBA,2005.0,Misc,0.67,0.25,0.0,0.02,,,
+2217,Crash City Mayhem,GBA,2004.0,Racing,0.67,0.25,0.0,0.02,,,
+2224,Teenage Mutant Ninja Turtles,GBA,2003.0,Action,0.67,0.25,0.0,0.02,71.0,8.8,E
+2320,Madagascar,GBA,2005.0,Platform,0.62,0.24,0.0,0.03,71.0,tbd,E
+2323,Castlevania: Circle of the Moon,GBA,2001.0,Platform,0.6,0.22,0.05,0.02,91.0,8.5,T
+2327,Classic NES Series: The Legend of Zelda,GBA,2004.0,Adventure,0.46,0.17,0.24,0.02,84.0,8.6,E
+2328,Fire Emblem: The Sacred Stones,GBA,2004.0,Strategy,0.42,0.16,0.3,0.02,85.0,9.1,E
+2471,Metroid: Zero Mission,GBA,2004.0,Adventure,0.6,0.22,0.0,0.01,89.0,9,E
+2482,Lizzie McGuire 2: Lizzie Diaries,GBA,2004.0,Action,0.6,0.22,0.0,0.01,57.0,5,E
+2617,Secret Agent Barbie: Royal Jewels Mission,GBA,2002.0,Platform,0.56,0.21,0.0,0.01,71.0,tbd,E
+2661,Star Wars Episode II: Attack of the Clones,GBA,2002.0,Action,0.55,0.2,0.0,0.01,38.0,5,E
+2665,Donkey Kong Country 3,GBA,2005.0,Platform,0.45,0.17,0.14,0.01,77.0,8.4,E
+2693,Mega Man Battle Network 6: Cybeast Falzar / Gregar,GBA,2005.0,Role-Playing,0.09,0.03,0.62,0.02,,,
+2699,That's So Raven,GBA,2004.0,Adventure,0.54,0.2,0.0,0.01,39.0,7.6,E
+2752,Yu-Gi-Oh! Dungeon Dice Monsters,GBA,2001.0,Misc,0.42,0.16,0.15,0.01,,,
+2764,The Lord of the Rings: The Two Towers,GBA,2002.0,Action,0.53,0.2,0.0,0.01,,,
+2773,WarioWare: Twisted!,GBA,,Puzzle,0.16,0.06,0.5,0.02,,,
+2781,Sword of Mana,GBA,2003.0,Role-Playing,0.31,0.11,0.3,0.02,72.0,8.3,E
+2793,Classic NES Series: Donkey Kong,GBA,2004.0,Platform,0.4,0.15,0.17,0.01,55.0,4.8,E
+2814,Beyblade VForce: Ultimate Blader Jam,GBA,2003.0,Action,0.52,0.19,0.0,0.01,,tbd,E
+2820,Star Wars Episode III: Revenge of the Sith,GBA,2005.0,Action,0.52,0.19,0.0,0.01,73.0,7.5,E10+
+2838,Kouchuu Ouja Mushi King,GBA,2005.0,Action,0.0,0.0,0.7,0.02,,,
+2850,Super Monkey Ball Jr.,GBA,2002.0,Puzzle,0.51,0.19,0.0,0.01,82.0,8.6,E
+2878,Scooby-Doo 2: Monsters Unleashed,GBA,2004.0,Action,0.51,0.19,0.0,0.01,46.0,tbd,E
+2909,F-14 Tomcat,GBA,2001.0,Action,0.5,0.19,0.0,0.01,67.0,tbd,E
+2919,Advance Wars,GBA,2001.0,Strategy,0.5,0.19,0.0,0.01,92.0,9,E
+2931,Classic NES Series: Zelda II: The Adventure of Link,GBA,2004.0,Adventure,0.37,0.14,0.17,0.01,73.0,7.5,E
+2933,Disney's Chicken Little,GBA,2005.0,Platform,0.5,0.18,0.0,0.01,71.0,tbd,E
+2949,Mario Pinball Land,GBA,2004.0,Misc,0.5,0.18,0.0,0.01,62.0,4.9,E
+2967,Shark Tale,GBA,2004.0,Action,0.49,0.18,0.0,0.01,63.0,9,E
+3024,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GBA,,Action,0.48,0.18,0.0,0.01,66.0,6.8,E
+3057,Dragon Quest Monsters: Caravan Heart,GBA,2003.0,Role-Playing,0.0,0.0,0.64,0.02,,,
+3058,Strawberry Shortcake: Summertime Adventure,GBA,2004.0,Adventure,0.47,0.18,0.0,0.01,,tbd,E
+3072,Shrek: Hassle at the Castle,GBA,2002.0,Action,0.47,0.17,0.0,0.01,71.0,7.4,E
+3077,Disney's Kim Possible 2: Drakken's Demise,GBA,2004.0,Platform,0.47,0.17,0.0,0.01,77.0,tbd,E
+3097,Yoshi Topsy-Turvy,GBA,2004.0,Platform,0.25,0.09,0.3,0.01,60.0,6.6,E
+3099,Cartoon Network Block Party / Cartoon Network Speedway Double Pack,GBA,2005.0,Misc,0.47,0.17,0.0,0.01,,,
+3105,Advance Wars 2: Black Hole Rising,GBA,2003.0,Strategy,0.47,0.17,0.0,0.01,89.0,9.4,E
+3129,Crash Bandicoot Purple: Ripto's Rampage,GBA,2004.0,Platform,0.46,0.17,0.0,0.01,67.0,6.6,E
+3148,Nicktoons Collection: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.46,0.17,0.0,0.01,,,
+3159,SpongeBob SquarePants: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.46,0.17,0.0,0.01,,,
+3160,Konami Collector's Series: Arcade Advanced,GBA,2002.0,Misc,0.46,0.17,0.0,0.01,78.0,tbd,E
+3189,Dogz,GBA,2004.0,Simulation,0.45,0.17,0.0,0.01,,,
+3241,The Urbz: Sims in the City,GBA,2004.0,Simulation,0.37,0.22,0.0,0.03,72.0,9.2,E
+3282,2 Games in 1: Sonic Battle & ChuChu Rocket!,GBA,2005.0,Misc,0.44,0.16,0.0,0.01,,,
+3287,Dora the Explorer: Super Spies,GBA,2004.0,Platform,0.44,0.16,0.0,0.01,,8,E
+3291,Texas Hold 'Em Poker,GBA,2004.0,Misc,0.44,0.16,0.0,0.01,49.0,6.8,E
+3306,Final Fantasy IV Advance,GBA,2005.0,Role-Playing,0.27,0.1,0.22,0.01,85.0,7.3,E10+
+3308,Madden NFL 2003,GBA,2002.0,Sports,0.44,0.16,0.0,0.01,76.0,tbd,E
+3311,Harry Potter and the Goblet of Fire,GBA,2005.0,Action,0.44,0.16,0.0,0.01,71.0,6,E
+3313,Dragon Ball Z: Buu's Fury,GBA,2004.0,Action,0.44,0.16,0.0,0.01,62.0,8.9,E
+3315,Spider-Man: Mysterio's Menace,GBA,2001.0,Action,0.43,0.16,0.0,0.01,84.0,8.7,E
+3317,Game & Watch Gallery 4,GBA,2002.0,Misc,0.43,0.16,0.0,0.01,,,
+3322,Tony Hawk's Underground,GBA,2003.0,Sports,0.43,0.16,0.0,0.01,86.0,7.7,E
+3324,Monster Trucks,GBA,2004.0,Racing,0.43,0.16,0.0,0.01,,tbd,E
+3417,Harvest Moon: Friends of Mineral Town,GBA,2003.0,Simulation,0.34,0.13,0.11,0.01,81.0,9.6,E
+3466,Shrek 2: Beg for Mercy,GBA,2004.0,Adventure,0.42,0.15,0.0,0.01,,,
+3492,Tony Hawk's Pro Skater 4,GBA,2002.0,Sports,0.41,0.15,0.0,0.01,85.0,8.8,E
+3498,Spyro Orange: The Cortex Conspiracy,GBA,2004.0,Action,0.41,0.15,0.0,0.01,60.0,7,E
+3554,The Incredible Hulk,GBA,2003.0,Action,0.4,0.15,0.0,0.01,,,
+3555,Ms. Pac-Man Maze Madness,GBA,2004.0,Puzzle,0.4,0.15,0.0,0.01,,tbd,E
+3559,The Lord of the Rings: The Return of the King,GBA,2003.0,Action,0.4,0.15,0.0,0.01,77.0,8.2,T
+3562,Classic NES Series: Dr. Mario,GBA,2004.0,Puzzle,0.31,0.11,0.13,0.01,66.0,7.5,E
+3569,Yu-Gi-Oh! World Championship Tournament 2004,GBA,2004.0,Misc,0.4,0.15,0.0,0.01,,,
+3578,Backyard NFL Football,GBA,2002.0,Sports,0.4,0.15,0.0,0.01,,,
+3596,Barbie Groovy Games,GBA,2002.0,Misc,0.4,0.15,0.0,0.01,47.0,7,E
+3598,Yu-Gi-Oh! Reshef of Destruction,GBA,2003.0,Strategy,0.4,0.15,0.0,0.01,,,
+3643,Mega Man Zero,GBA,2002.0,Platform,0.22,0.08,0.24,0.01,82.0,8.9,E
+3660,SpongeBob SquarePants: SuperSponge,GBA,2001.0,Action,0.39,0.15,0.0,0.01,,,
+3662,Tak and the Power of Juju,GBA,2003.0,Platform,0.39,0.15,0.0,0.01,79.0,9.2,E
+3695,The Fairly Odd Parents: Breakin' Da Rules,GBA,2003.0,Platform,0.39,0.14,0.0,0.01,,,
+3720,Bratz: Rock Angelz,GBA,2004.0,Misc,0.39,0.14,0.0,0.01,,,E
+3755,SpongeBob SquarePants: Game Boy Advance Video Volume 2,GBA,2004.0,Misc,0.38,0.14,0.0,0.01,,,
+3814,Mario Tennis: Power Tour,GBA,2005.0,Sports,0.24,0.09,0.19,0.01,81.0,8,E
+3855,That's So Raven 2: Supernatural Style,GBA,2005.0,Adventure,0.37,0.14,0.0,0.01,52.0,tbd,E
+3864,Tony Hawk's Pro Skater 3,GBA,2002.0,Sports,0.37,0.14,0.0,0.01,90.0,8,E
+3868,Harry Potter and the Prisoner of Azkaban,GBA,2004.0,Action,0.37,0.14,0.0,0.01,69.0,8.1,E
+3903,"SpongeBob SquarePants: Lights, Camera, Pants!",GBA,2005.0,Misc,0.37,0.14,0.0,0.01,,,
+3912,Disney's Kim Possible: Revenge of Monkey Fist,GBA,2002.0,Platform,0.37,0.14,0.0,0.01,62.0,8.8,E
+3927,Dragon Ball Z: Supersonic Warriors,GBA,2004.0,Fighting,0.36,0.13,0.0,0.01,73.0,7,T
+3937,The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,GBA,2004.0,Action,0.36,0.13,0.0,0.01,56.0,tbd,E
+3973,Tactics Ogre: The Knight of Lodis,GBA,2001.0,Role-Playing,0.13,0.05,0.31,0.01,88.0,9.1,E
+3994,Rayman Advance,GBA,2001.0,Platform,0.36,0.13,0.0,0.01,84.0,8.4,E
+4012,Tony Hawk's Underground 2,GBA,2004.0,Sports,0.35,0.13,0.0,0.01,70.0,tbd,E
+4029,Power Rangers: Dino Thunder,GBA,2003.0,Action,0.35,0.13,0.0,0.01,49.0,,E
+4074,Madagascar: Operation Penguin,GBA,2005.0,Action,0.35,0.13,0.0,0.01,,tbd,E
+4075,Need for Speed: Porsche Unleashed,GBA,2004.0,Racing,0.35,0.13,0.0,0.01,62.0,7.8,E
+4118,Midnight Club: Street Racing,GBA,2001.0,Racing,0.34,0.13,0.0,0.01,50.0,5.3,E
+4155,Densetsu no Stafi,GBA,2002.0,Platform,0.0,0.0,0.46,0.01,,,
+4188,Pirates of the Caribbean: Dead Man's Chest,GBA,2006.0,Adventure,0.33,0.12,0.0,0.01,70.0,5.6,E10+
+4199,Kong: The 8th Wonder of the World,GBA,2005.0,Action,0.33,0.12,0.0,0.01,59.0,tbd,E10+
+4210,Iridion 3D,GBA,2001.0,Shooter,0.33,0.12,0.0,0.01,53.0,tbd,E
+4212,Classic NES Series: Pac-Man,GBA,2004.0,Puzzle,0.25,0.09,0.12,0.01,53.0,tbd,E
+4219,Dragon Ball Z: Collectible Card Game,GBA,2002.0,Misc,0.33,0.12,0.0,0.01,62.0,5.5,E
+4224,Disney's Kim Possible 3: Team Possible,GBA,2005.0,Platform,0.33,0.12,0.0,0.01,76.0,7.7,E
+4230,Stuart Little 2,GBA,2002.0,Platform,0.33,0.12,0.0,0.01,59.0,tbd,E
+4231,Tak 2: The Staff of Dreams,GBA,2004.0,Platform,0.33,0.12,0.0,0.01,45.0,tbd,E
+4236,Scooby-Doo,GBA,2001.0,Platform,0.33,0.12,0.0,0.01,64.0,tbd,E
+4249,Rugrats: Castle Capers,GBA,2001.0,Action,0.33,0.12,0.0,0.01,,,
+4250,Crash Nitro Kart,GBA,2003.0,Racing,0.33,0.12,0.0,0.01,77.0,8.3,E
+4266,Mother 1+2,GBA,2003.0,Role-Playing,0.0,0.0,0.45,0.01,,,
+4276,2 Games in 1: SpongeBob SquarePants: SuperSponge & Rugrats Go Wild,GBA,2005.0,Platform,0.33,0.12,0.0,0.01,,,
+4319,Yu-Gi-Oh! Destiny Board Traveler,GBA,2004.0,Misc,0.32,0.12,0.0,0.01,,,
+4332,Tekken Advance,GBA,2001.0,Fighting,0.32,0.12,0.0,0.01,82.0,8.2,T
+4335,Hot Wheels: Stunt Track Challenge,GBA,2004.0,Racing,0.32,0.12,0.0,0.01,,tbd,E
+4369,Mario Golf: Advance Tour,GBA,2004.0,Sports,0.32,0.12,0.0,0.01,84.0,8.6,E
+4402,Densetsu no Stafi 2,GBA,2003.0,Platform,0.0,0.0,0.43,0.01,,,
+4436,Scooby-Doo! Mystery Mayhem,GBA,2003.0,Action,0.31,0.12,0.0,0.01,53.0,tbd,E
+4444,Battlebots: Design & Destroy,GBA,2003.0,Action,0.31,0.12,0.0,0.01,,,
+4448,Power Rangers: S.P.D.,GBA,2004.0,Action,0.31,0.12,0.0,0.01,,tbd,E10+
+4466,Classic NES Series: Metroid,GBA,2004.0,Adventure,0.26,0.1,0.07,0.01,58.0,8.6,E
+4473,Need for Speed Underground 2,GBA,2004.0,Racing,0.31,0.12,0.0,0.01,72.0,8.2,E
+4479,Flight Control Rocket,GBA,2005.0,Simulation,0.31,0.12,0.0,0.01,,,
+4501,The Powerpuff Girls: Him and Seek,GBA,2002.0,Platform,0.31,0.11,0.0,0.01,,,
+4502,Mega Man Zero 2,GBA,2003.0,Platform,0.18,0.07,0.17,0.01,81.0,8.6,E
+4508,The Fairly Odd Parents: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.31,0.11,0.0,0.01,,,
+4536,Backyard Baseball,GBA,2002.0,Sports,0.31,0.11,0.0,0.01,,,
+4553,Mega Man Battle Network,GBA,2001.0,Role-Playing,0.14,0.05,0.22,0.01,79.0,8.9,E
+4569,Famicom Mini: Super Mario Bros. 2,GBA,2004.0,Platform,0.0,0.0,0.41,0.01,,,
+4581,Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005,GBA,2005.0,Misc,0.3,0.11,0.0,0.01,,,
+4588,Star Wars Trilogy: Apprentice of the Force,GBA,2004.0,Action,0.3,0.11,0.0,0.01,60.0,tbd,E
+4590,Lemony Snicket's A Series of Unfortunate Events,GBA,2004.0,Platform,0.3,0.11,0.0,0.01,72.0,8,E
+4615,The Fairly Odd Parents: Game Boy Advance Video Volume 2,GBA,2004.0,Misc,0.3,0.11,0.0,0.01,,,
+4631,Jimmy Neutron: Boy Genius,GBA,2001.0,Platform,0.3,0.11,0.0,0.01,,,
+4658,Dexter's Laboratory Deesaster Strikes,GBA,2001.0,Adventure,0.3,0.11,0.0,0.01,,,
+4661,Scooby-Doo and the Cyber Chase,GBA,2001.0,Adventure,0.3,0.11,0.0,0.01,,,
+4731,Yu-Gi-Oh! The Eternal Duelist Soul (JP sales),GBA,2001.0,Misc,0.0,0.0,0.4,0.01,,,
+4785,The Incredibles: Rise of the Underminer,GBA,2005.0,Action,0.29,0.11,0.0,0.01,,tbd,E
+4816,Rocket Power: Dream Scheme,GBA,2001.0,Action,0.29,0.11,0.0,0.01,,,
+4827,Mother 3,GBA,2006.0,Role-Playing,0.0,0.0,0.39,0.01,,,
+4828,Nicktoons: Freeze Frame Frenzy,GBA,2004.0,Action,0.29,0.11,0.0,0.01,53.0,tbd,E
+4876,Disney's Brother Bear,GBA,2003.0,Action,0.28,0.1,0.0,0.01,,tbd,E
+4885,Fire Emblem: Fuuin no Tsurugi,GBA,2002.0,Role-Playing,0.0,0.0,0.39,0.0,,,
+4906,Madden NFL 2005,GBA,2004.0,Sports,0.28,0.1,0.0,0.01,79.0,7.6,E
+4934,The Sims 2,GBA,2005.0,Simulation,0.28,0.1,0.0,0.01,58.0,7.5,E10+
+4956,Harry Potter: Quidditch World Cup,GBA,2003.0,Sports,0.28,0.1,0.0,0.01,53.0,8.3,E
+4973,The Cat in the Hat,GBA,2005.0,Platform,0.27,0.1,0.0,0.01,,,
+4982,Ice Age,GBA,2002.0,Action,0.27,0.1,0.0,0.01,47.0,tbd,E
+5005,Lilo & Stitch 2: Hämsterviel Havoc,GBA,2004.0,Action,0.27,0.1,0.0,0.01,,,
+5122,Barbie Horse Adventures: Blue Ribbon Race,GBA,2003.0,Sports,0.26,0.1,0.0,0.01,,,
+5128,Slime MoriMori Dragon Quest: Shougeki No Shippo Dan,GBA,2003.0,Adventure,0.0,0.0,0.36,0.01,,,
+5191,Hamtaro: Ham-Ham Heartbreak,GBA,2002.0,Action,0.26,0.1,0.0,0.01,72.0,9.3,E
+5194,Cubix Robots for Everyone: Clash 'n' Bash,GBA,,Action,0.26,0.1,0.0,0.01,,,
+5207,Shaun Palmer's Pro Snowboarder,GBA,2001.0,Sports,0.26,0.1,0.0,0.01,58.0,tbd,E
+5212,Hamster Club 3,GBA,2002.0,Simulation,0.0,0.0,0.35,0.01,,,
+5229,Super Robot Taisen A,GBA,2001.0,Strategy,0.0,0.0,0.35,0.01,,,
+5250,Backyard Baseball 2006,GBA,2005.0,Sports,0.25,0.09,0.0,0.01,,,
+5269,Disney's Tarzan: Return to the Jungle,GBA,2002.0,Action,0.25,0.09,0.0,0.01,68.0,tbd,E
+5288,Star Wars: Flight of the Falcon,GBA,2003.0,Action,0.25,0.09,0.0,0.01,39.0,5.8,E
+5299,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,GBA,2003.0,Action,0.25,0.09,0.0,0.01,,tbd,E
+5340,Risk / Battleship / Clue,GBA,2005.0,Misc,0.25,0.09,0.0,0.01,,,
+5344,The Wild Thornberrys Movie,GBA,2002.0,Platform,0.25,0.09,0.0,0.01,,tbd,E
+5354,Classic NES Series: Ice Climber,GBA,2004.0,Platform,0.1,0.04,0.2,0.01,66.0,tbd,E
+5361,Driver 2 Advance,GBA,2002.0,Action,0.25,0.09,0.0,0.01,73.0,6.6,T
+5368,The Fairly Odd Parents: Shadow Showdown,GBA,2004.0,Platform,0.25,0.09,0.0,0.01,,,
+5413,Herbie: Fully Loaded,GBA,2005.0,Racing,0.24,0.09,0.0,0.01,47.0,6.8,E
+5441,Banjo-Kazooie: Grunty's Revenge,GBA,2003.0,Platform,0.24,0.09,0.0,0.01,72.0,8.1,E
+5474,Shrek SuperSlam,GBA,2005.0,Action,0.24,0.09,0.0,0.01,58.0,tbd,E10+
+5485,Classic NES Series: Castlevania,GBA,2004.0,Platform,0.17,0.06,0.09,0.01,74.0,8.6,E
+5488,GT Advance Championship Racing,GBA,2001.0,Racing,0.24,0.09,0.0,0.01,82.0,tbd,E
+5513,Spy Kids 3-D: Game Over,GBA,2003.0,Platform,0.24,0.09,0.0,0.01,62.0,7.7,E
+5517,Power Rangers: Ninja Storm,GBA,2003.0,Misc,0.24,0.09,0.0,0.01,55.0,7.8,E
+5537,Dr. Mario / Puzzle League,GBA,2005.0,Puzzle,0.12,0.04,0.16,0.01,74.0,tbd,E
+5549,Teenage Mutant Ninja Turtles 2: Battle Nexus,GBA,2004.0,Action,0.23,0.09,0.0,0.01,65.0,tbd,E
+5613,Fortress,GBA,2001.0,Action,0.23,0.08,0.0,0.01,64.0,tbd,E
+5633,Cartoon Network Collection: Game Boy Advance Video Platinum Edition,GBA,2005.0,Misc,0.23,0.08,0.0,0.01,,,
+5636,SpongeBob SquarePants: Double Pack,GBA,2005.0,Platform,0.23,0.08,0.0,0.01,,,
+5641,"Ed, Edd n Eddy: Jawbreakers!",GBA,2002.0,Adventure,0.23,0.08,0.0,0.01,,,
+5654,Sega Smash Pack,GBA,2002.0,Misc,0.23,0.08,0.0,0.01,60.0,tbd,E
+5660,Madden NFL 2002,GBA,2001.0,Sports,0.23,0.08,0.0,0.01,,tbd,E
+5708,Madden NFL 2004,GBA,2003.0,Sports,0.22,0.08,0.0,0.01,70.0,6.6,E
+5750,2 Games in 1: Disney's Brother Bear / The Lion King 1 1/2,GBA,2005.0,Action,0.22,0.08,0.0,0.01,,,
+5771,Mega Man Battle Network 2,GBA,2002.0,Action,0.22,0.08,0.0,0.01,81.0,9,E
+5813,KuruKuru Kururin,GBA,2001.0,Puzzle,0.0,0.0,0.3,0.01,,,
+5823,Ultimate Spider-Man,GBA,2005.0,Action,0.22,0.08,0.0,0.01,62.0,7.3,E10+
+5825,Shrek Swamp Kart Speedway,GBA,2002.0,Racing,0.22,0.08,0.0,0.01,27.0,8.9,E
+5831,Spyro: Attack of the Rhynocs,GBA,2003.0,Platform,0.22,0.08,0.0,0.01,72.0,7.5,E
+5843,Lizzie McGuire 3: Homecoming Havoc,GBA,2005.0,Platform,0.22,0.08,0.0,0.01,59.0,tbd,E
+5846,Charlie and the Chocolate Factory,GBA,2005.0,Adventure,0.22,0.08,0.0,0.01,36.0,3.8,E
+5850,Rhythm Tengoku,GBA,2006.0,Misc,0.0,0.0,0.3,0.01,,,
+5877,Crazy Taxi: Catch a Ride,GBA,2003.0,Racing,0.21,0.08,0.0,0.01,48.0,5.9,E
+5884,Yu Yu Hakusho Ghost Files: Spirit Detective,GBA,2003.0,Action,0.21,0.08,0.0,0.01,,,
+5910,Power Pro Kun Pocket 6,GBA,2003.0,Sports,0.0,0.0,0.29,0.01,,,
+5912,Finding Nemo: The Continuing Adventures,GBA,2004.0,Action,0.21,0.08,0.0,0.01,,tbd,E
+5913,Spirit: Stallion of the Cimarron,GBA,2002.0,Platform,0.21,0.08,0.0,0.01,46.0,tbd,E
+5945,Need for Speed Underground,GBA,2003.0,Racing,0.21,0.08,0.0,0.01,77.0,8.2,E
+5947,Power Pro Kun Pocket 4,GBA,2002.0,Sports,0.0,0.0,0.29,0.01,,,
+5990,Hamster Club 4: Shigessa Daidassou,GBA,2003.0,Simulation,0.0,0.0,0.28,0.01,,,
+6009,Duel Masters: Sempai Legends,GBA,2003.0,Misc,0.21,0.08,0.0,0.01,69.0,8,E
+6082,Earthworm Jim,GBA,2001.0,Platform,0.2,0.08,0.0,0.01,72.0,5.7,E
+6083,Tales of Phantasia,GBA,2003.0,Role-Playing,0.08,0.03,0.17,0.01,76.0,8.1,E10+
+6091,Disney's Extreme Skate Adventure,GBA,2003.0,Sports,0.2,0.08,0.0,0.01,70.0,tbd,E
+6092,Dragon Ball GT: Transformation,GBA,2005.0,Action,0.2,0.08,0.0,0.01,69.0,8.2,E10+
+6103,Yu-Gi-Oh! Double Pack,GBA,2006.0,Role-Playing,0.2,0.08,0.0,0.01,,,
+6104,X-Men: Reign of Apocalypse,GBA,2001.0,Action,0.2,0.08,0.0,0.01,61.0,tbd,E
+6112,Fantastic 4: Flame On,GBA,2005.0,Action,0.2,0.08,0.0,0.01,,,
+6116,F/A-18F Super Hornet,GBA,2004.0,Simulation,0.2,0.08,0.0,0.01,,,
+6117,Final Fantasy VI Advance,GBA,2006.0,Role-Playing,0.0,0.0,0.28,0.01,92.0,8.4,E10+
+6138,Godzilla: Domination!,GBA,2002.0,Fighting,0.2,0.07,0.0,0.01,,,
+6147,Rocket Power: Beach Bandits,GBA,2002.0,Platform,0.2,0.07,0.0,0.01,,,
+6160,Pitfall: The Mayan Adventure,GBA,2001.0,Platform,0.2,0.07,0.0,0.01,58.0,tbd,E
+6167,Disney's Treasure Planet,GBA,2002.0,Action,0.2,0.07,0.0,0.01,68.0,tbd,E
+6184,Corvette,GBA,2003.0,Racing,0.2,0.07,0.0,0.01,,tbd,E
+6233,Power Pro Kun Pocket 3,GBA,2001.0,Sports,0.0,0.0,0.27,0.01,,,
+6234,Castlevania: Aria of Sorrow,GBA,2003.0,Platform,0.2,0.07,0.0,0.0,91.0,9.1,T
+6255,The Legend of Zelda: The Minish Cap(weekly JP sales),GBA,,Action,0.0,0.0,0.27,0.01,,,
+6257,Motocross Maniacs Advance,GBA,2002.0,Racing,0.2,0.07,0.0,0.0,69.0,tbd,E
+6260,M&M's Blast!,GBA,2001.0,Puzzle,0.2,0.07,0.0,0.0,,,
+6295,NickToons: Racing,GBA,2002.0,Racing,0.19,0.07,0.0,0.0,78.0,tbd,E
+6308,Over the Hedge,GBA,2006.0,Platform,0.19,0.07,0.0,0.0,49.0,tbd,E
+6316,WWE Road to WrestleMania X8,GBA,2002.0,Fighting,0.19,0.07,0.0,0.0,73.0,7.5,E
+6317,Yu-Gi-Oh! The Sacred Cards (JP weekly sales),GBA,2002.0,Role-Playing,0.0,0.0,0.26,0.01,,,
+6345,Mat Hoffman's Pro BMX,GBA,2001.0,Sports,0.19,0.07,0.0,0.0,71.0,tbd,E
+6358,Magical Vacation,GBA,2001.0,Role-Playing,0.0,0.0,0.26,0.01,,,
+6367,Connect Four / Perfection / Trouble,GBA,2005.0,Misc,0.19,0.07,0.0,0.0,,,
+6405,Operation Armored Liberty,GBA,2003.0,Action,0.19,0.07,0.0,0.0,,tbd,T
+6414,Sonic X: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.19,0.07,0.0,0.0,,,
+6421,Dungeons & Dragons: Eye of the Beholder,GBA,2002.0,Role-Playing,0.19,0.07,0.0,0.0,,,
+6452,Rugrats: I Gotta Go Party,GBA,2002.0,Action,0.19,0.07,0.0,0.0,,,
+6467,The Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron,GBA,2002.0,Action,0.19,0.07,0.0,0.0,55.0,tbd,E
+6471,Hey Arnold! The Movie,GBA,2002.0,Platform,0.19,0.07,0.0,0.0,,,
+6472,Final Fantasy V Advance,GBA,2006.0,Role-Playing,0.0,0.0,0.26,0.01,83.0,7.2,E
+6473,Need for Speed: Most Wanted,GBA,2005.0,Racing,0.19,0.07,0.0,0.0,,8.3,E
+6486,Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006,GBA,2006.0,Misc,0.14,0.05,0.07,0.01,,,
+6488,Power Pro Kun Pocket 5,GBA,2003.0,Sports,0.0,0.0,0.25,0.01,,,
+6490,Konjiki no Gashbell!! Makai no Bookmark,GBA,2004.0,Adventure,0.0,0.0,0.25,0.01,,,
+6508,Dora the Explorer: The Search for Pirate Pig's Treasure,GBA,2002.0,Adventure,0.19,0.07,0.0,0.0,,tbd,E
+6525,Classic NES Series: Bomberman,GBA,2004.0,Action,0.1,0.04,0.11,0.01,,,
+6529,Frogger's Journey: The Forgotten Relic,GBA,2003.0,Action,0.18,0.07,0.0,0.0,59.0,tbd,E
+6531,Dora the Explorer: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.18,0.07,0.0,0.0,,,
+6551,Bionicle: Matoran Adventures,GBA,2002.0,Platform,0.18,0.07,0.0,0.0,,,
+6562,ATV: Quad Power Racing,GBA,2002.0,Racing,0.18,0.07,0.0,0.0,49.0,tbd,E
+6570,Super Robot Taisen R,GBA,2002.0,Strategy,0.0,0.0,0.25,0.01,,,
+6572,Castlevania: Harmony of Dissonance,GBA,2002.0,Platform,0.16,0.06,0.04,0.0,87.0,8.2,T
+6581,Super Street Fighter II: Turbo Revival,GBA,2001.0,Fighting,0.18,0.07,0.0,0.0,84.0,7.4,T
+6599,Ice Age 2: The Meltdown,GBA,2006.0,Platform,0.18,0.07,0.0,0.0,,tbd,E
+6614,Spy Kids Challenger,GBA,2002.0,Platform,0.18,0.07,0.0,0.0,,,
+6625,Cartoon Network Collection: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.18,0.07,0.0,0.0,,,
+6641,Bomberman Tournament,GBA,2001.0,Puzzle,0.1,0.04,0.1,0.01,88.0,,E
+6647,Midway's Greatest Arcade Hits,GBA,2001.0,Misc,0.18,0.07,0.0,0.0,48.0,tbd,E
+6654,Golden Nugget Casino,GBA,2004.0,Misc,0.18,0.07,0.0,0.0,,tbd,E
+6704,Medabots AX: Metabee,GBA,2002.0,Role-Playing,0.18,0.07,0.0,0.0,,,
+6705,Tennis no Oji-Sama: Genius Boys Academy,GBA,2002.0,Sports,0.0,0.0,0.24,0.01,,,
+6747,Butt Ugly Martians: B.K.M. Battles,GBA,2002.0,Action,0.18,0.07,0.0,0.0,63.0,tbd,E
+6752,Sorry! / Aggravation / Scrabble Junior,GBA,2005.0,Misc,0.18,0.07,0.0,0.0,,,
+6760,Classic NES Series: Excitebike,GBA,2004.0,Racing,0.11,0.04,0.1,0.01,66.0,tbd,E
+6761,Classic NES Series: Xevious,GBA,2004.0,Shooter,0.08,0.03,0.12,0.01,,,
+6767,Catz,GBA,2005.0,Simulation,0.18,0.06,0.0,0.0,,7.9,E
+6805,DK: King of Swing,GBA,2005.0,Platform,0.17,0.06,0.0,0.0,70.0,5,E
+6830,All Grown Up!: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.17,0.06,0.0,0.0,,,
+6838,Ms. Pac-Man: Maze Madness / Pac-Man World,GBA,2005.0,Puzzle,0.17,0.06,0.0,0.0,,,
+6860,Tony Hawk's American Sk8land,GBA,2005.0,Sports,0.17,0.06,0.0,0.0,64.0,5.4,E
+6863,Densetsu no Stafi 3,GBA,2004.0,Platform,0.0,0.0,0.23,0.01,,,
+6885,Grand Theft Auto,GBA,2004.0,Action,0.17,0.06,0.0,0.0,68.0,7.1,M
+6887,Dora the Explorer: Super Star Adventures,GBA,2004.0,Adventure,0.17,0.06,0.0,0.0,,,
+6913,Polly Pocket: Super Splash Island,GBA,2003.0,Action,0.17,0.06,0.0,0.0,,,
+6953,Super Robot Taisen D,GBA,2003.0,Strategy,0.0,0.0,0.23,0.01,,,
+7007,Yu-Gi-Oh! GX: Duel Academy,GBA,2005.0,Misc,0.17,0.06,0.0,0.0,,,
+7015,Madden NFL 06,GBA,2005.0,Sports,0.17,0.06,0.0,0.0,71.0,tbd,E
+7029,Mega Man & Bass,GBA,2002.0,Platform,0.16,0.06,0.0,0.0,,,
+7044,Barbie as The Island Princess,GBA,2007.0,Adventure,0.16,0.06,0.0,0.0,,,
+7048,Mega Man Battle Network 5: Team Colonel / Protoman,GBA,2004.0,Role-Playing,0.16,0.06,0.0,0.0,,,
+7128,EX Monopoly,GBA,2001.0,Misc,0.16,0.06,0.0,0.0,,,
+7153,Breath of Fire,GBA,2001.0,Role-Playing,0.11,0.04,0.06,0.0,79.0,8.8,E
+7161,Hamtaro: Ham-Ham Games,GBA,2004.0,Sports,0.16,0.06,0.0,0.0,77.0,7.8,E
+7162,Danny Phantom: The Ultimate Enemy,GBA,2005.0,Action,0.16,0.06,0.0,0.0,,8.8,E
+7182,Mega Man Zero 3,GBA,2004.0,Platform,0.16,0.06,0.0,0.0,77.0,9,E
+7188,Nicktoons Collection: Game Boy Advance Video Volume 2,GBA,2004.0,Misc,0.16,0.06,0.0,0.0,,,
+7192,Duel Masters: Kaijudo Showdown,GBA,2004.0,Misc,0.16,0.06,0.0,0.0,66.0,tbd,E
+7195,The Lord of the Rings: The Third Age,GBA,2004.0,Role-Playing,0.16,0.06,0.0,0.0,67.0,8.5,T
+7252,Disney's Magical Quest Starring Mickey and Minnie,GBA,2002.0,Action,0.16,0.06,0.0,0.0,,,
+7257,Naruto: Ninja Council,GBA,2003.0,Action,0.16,0.06,0.0,0.0,60.0,7.1,E10+
+7270,Samurai Jack: The Amulet of Time,GBA,2003.0,Platform,0.16,0.06,0.0,0.0,63.0,tbd,T
+7279,American Idol,GBA,2003.0,Misc,0.15,0.06,0.0,0.0,,4.8,E
+7280,Britney's Dance Beat,GBA,2002.0,Misc,0.15,0.06,0.0,0.0,53.0,7.4,E
+7330,Robotech: The Macross Saga,GBA,2002.0,Shooter,0.15,0.06,0.0,0.0,61.0,6.5,E
+7424,Famicom Mini: Ganbare Goemon! Karakuri Douchuu,GBA,2004.0,Platform,0.0,0.0,0.2,0.01,,,
+7437,Shrek: Reekin' Havoc,GBA,2003.0,Platform,0.15,0.06,0.0,0.0,57.0,tbd,E
+7476,SpongeBob SquarePants: Game Boy Advance Video Volume 3,GBA,2004.0,Misc,0.15,0.05,0.0,0.0,,,
+7478,Final Fight One,GBA,2001.0,Fighting,0.09,0.03,0.08,0.0,82.0,7.8,E
+7494,Power Rangers: Wild Force,GBA,2002.0,Action,0.15,0.05,0.0,0.0,55.0,6.9,E
+7498,Mary-Kate and Ashley: Girls Night Out,GBA,2002.0,Misc,0.15,0.05,0.0,0.0,75.0,tbd,E
+7501,Beyblade G-Revolution,GBA,2004.0,Action,0.15,0.05,0.0,0.0,40.0,7.8,E
+7524,CandyLand / Chutes & Ladders / Memory,GBA,2005.0,Misc,0.15,0.05,0.0,0.0,,,
+7548,Rocket Power: Zero Gravity Zone,GBA,2003.0,Sports,0.14,0.05,0.0,0.0,,,
+7556,Harvest Moon: More Friends of Mineral Town,GBA,2003.0,Simulation,0.14,0.05,0.0,0.0,82.0,9.2,E
+7562,X2: Wolverine's Revenge,GBA,2003.0,Platform,0.14,0.05,0.0,0.0,72.0,7.2,E
+7574,Super Dodge Ball Advance,GBA,2001.0,Sports,0.14,0.05,0.0,0.0,79.0,tbd,E
+7623,Namco Museum: 50th Anniversary,GBA,2005.0,Misc,0.14,0.05,0.0,0.0,60.0,tbd,E
+7670,Backyard Hockey,GBA,2003.0,Sports,0.14,0.05,0.0,0.0,,tbd,E
+7681,Ratatouille,GBA,2007.0,Action,0.14,0.05,0.0,0.0,65.0,tbd,E
+7683,The Fairly Odd Parents: Enter the Cleft,GBA,2002.0,Platform,0.14,0.05,0.0,0.0,,,
+7687,Power Rangers: Time Force,GBA,2001.0,Action,0.14,0.05,0.0,0.0,,,
+7711,Dexter's Lab Chess Challenge,GBA,2002.0,Misc,0.14,0.05,0.0,0.0,,,
+7716,The Hobbit,GBA,2003.0,Platform,0.14,0.05,0.0,0.0,67.0,9.2,E
+7731,Breath of Fire II,GBA,2001.0,Role-Playing,0.14,0.05,0.0,0.0,81.0,8.8,E
+7740,Dinotopia: The Timestone Pirates,GBA,2002.0,Action,0.14,0.05,0.0,0.0,64.0,tbd,E
+7788,Tales of the World: Narikiri Dungeon 2,GBA,2002.0,Role-Playing,0.0,0.0,0.19,0.0,,,
+7795,Dave Mirra Freestyle BMX 2,GBA,2001.0,Sports,0.14,0.05,0.0,0.0,85.0,tbd,E
+7818,The Polar Express,GBA,2004.0,Adventure,0.14,0.05,0.0,0.0,,tbd,E
+7823,Frogger's Adventures 2: The Lost Wand,GBA,2002.0,Adventure,0.14,0.05,0.0,0.0,75.0,tbd,E
+7844,SSX Tricky,GBA,2002.0,Sports,0.14,0.05,0.0,0.0,66.0,tbd,E
+7855,Lunar Legend,GBA,2002.0,Role-Playing,0.14,0.05,0.0,0.0,79.0,7.8,E
+7919,Crash & Spyro Superpack,GBA,2005.0,Platform,0.13,0.05,0.0,0.0,,,
+7929,Thomas the Tank Engine & Friends,GBA,2004.0,Adventure,0.13,0.05,0.0,0.0,,,
+7931,The Scorpion King: Sword of Osiris,GBA,2002.0,Action,0.13,0.05,0.0,0.0,72.0,tbd,E
+7941,Jackie Chan Adventures: Legend of the Dark Hand,GBA,2001.0,Action,0.13,0.05,0.0,0.0,,,
+7989,Sports Illustrated for Kids: Football,GBA,2003.0,Sports,0.13,0.05,0.0,0.0,,,
+8011,Super Robot Taisen J,GBA,2005.0,Strategy,0.0,0.0,0.18,0.0,,,
+8021,Jurassic Park III: Island Attack,GBA,2001.0,Adventure,0.13,0.05,0.0,0.0,57.0,tbd,E
+8044,Atari Anniversary Advance,GBA,2002.0,Misc,0.13,0.05,0.0,0.0,75.0,tbd,E
+8065,Pokémon I Choose You / Squirtle Squad Game Boy Advance Video,GBA,2004.0,Misc,0.13,0.05,0.0,0.0,,,
+8102,Batman: Vengeance,GBA,2001.0,Adventure,0.13,0.05,0.0,0.0,68.0,tbd,E
+8120,Tiger Woods PGA Tour 2004,GBA,2003.0,Sports,0.13,0.05,0.0,0.0,75.0,7.5,E
+8121,The Game of Life / Yahtzee / Payday,GBA,2005.0,Misc,0.13,0.05,0.0,0.0,,,
+8158,All Grown Up! Express Yourself,GBA,2004.0,Misc,0.13,0.05,0.0,0.0,,,
+8165,Looney Tunes: Back in Action,GBA,2003.0,Platform,0.13,0.05,0.0,0.0,47.0,tbd,E
+8168,Virtua Tennis,GBA,2002.0,Sports,0.13,0.05,0.0,0.0,83.0,tbd,E
+8176,ESPN X Games Skateboarding,GBA,2001.0,Sports,0.13,0.05,0.0,0.0,,tbd,E
+8183,Backyard Basketball,GBA,2004.0,Sports,0.13,0.05,0.0,0.0,,tbd,E
+8186,Scooby-Doo! Unmasked,GBA,2005.0,Platform,0.13,0.05,0.0,0.0,,,
+8212,Teen Titans,GBA,,Action,0.13,0.05,0.0,0.0,61.0,tbd,E10+
+8213,Sports Illustrated for Kids: Baseball,GBA,2001.0,Sports,0.12,0.05,0.0,0.0,39.0,tbd,E
+8225,World Championship Poker,GBA,2004.0,Misc,0.12,0.05,0.0,0.0,66.0,tbd,E
+8253,ESPN Final Round Golf 2002,GBA,2001.0,Sports,0.12,0.05,0.0,0.0,70.0,tbd,E
+8281,Hello Kitty: Happy Party Pals,GBA,2005.0,Misc,0.12,0.05,0.0,0.0,,,
+8298,Tak: The Great Juju Challenge,GBA,2005.0,Platform,0.12,0.05,0.0,0.0,52.0,tbd,E
+8313,Batman Begins,GBA,2005.0,Action,0.12,0.05,0.0,0.0,61.0,6.9,E10+
+8316,Dragon Ball GT: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.12,0.05,0.0,0.0,,,
+8327,Codename: Kids Next Door: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.12,0.05,0.0,0.0,,,
+8328,Pokémon Beach Blank-out Blastoise / Go West Young Meowth Game Boy Advance Video,GBA,2004.0,Misc,0.12,0.05,0.0,0.0,,,
+8336,Disney's Home on the Range,GBA,2004.0,Action,0.12,0.04,0.0,0.0,65.0,tbd,E
+8347,Gyakuten Saiban 3,GBA,2004.0,Adventure,0.0,0.0,0.16,0.0,,,
+8357,Teenage Mutant Ninja Turtles: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.12,0.04,0.0,0.0,,,
+8372,James Bond 007: Everything or Nothing,GBA,2003.0,Shooter,0.12,0.04,0.0,0.0,73.0,8.3,T
+8413,Matchbox Cross Town Heroes,GBA,2002.0,Racing,0.12,0.04,0.0,0.0,,,
+8416,Wolfenstein 3D,GBA,2002.0,Shooter,0.12,0.04,0.0,0.0,57.0,6,M
+8442,Mousetrap / Operation / Simon,GBA,2005.0,Misc,0.12,0.04,0.0,0.0,,,
+8474,Hot Wheels Velocity X,GBA,2002.0,Racing,0.12,0.04,0.0,0.0,,,
+8489,Paws & Claws: Pet Resort,GBA,2006.0,Simulation,0.12,0.04,0.0,0.0,,,
+8492,Curious George,GBA,2006.0,Action,0.12,0.04,0.0,0.0,65.0,tbd,E
+8498,Tom and Jerry: Infurnal Escape,GBA,2003.0,Action,0.12,0.04,0.0,0.0,,,
+8504,Let's Ride: Sunshine Stables,GBA,2005.0,Sports,0.12,0.04,0.0,0.0,,,
+8556,NASCAR Heat 2002,GBA,2002.0,Racing,0.12,0.04,0.0,0.0,52.0,tbd,E
+8574,The Wild Thornberrys: Chimp Chase,GBA,2001.0,Action,0.11,0.04,0.0,0.0,,tbd,E
+8625,Konami Krazy Racers,GBA,2001.0,Racing,0.09,0.03,0.04,0.0,78.0,tbd,E
+8630,F-Zero: GP Legend,GBA,2003.0,Racing,0.11,0.04,0.0,0.0,77.0,8.5,E
+8633,Mr. Driller 2,GBA,2001.0,Puzzle,0.0,0.0,0.15,0.0,62.0,tbd,E
+8646,Power Rangers Double Pack,GBA,2005.0,Action,0.11,0.04,0.0,0.0,,,
+8664,MX 2002 Featuring Ricky Carmichael,GBA,2001.0,Racing,0.11,0.04,0.0,0.0,,,
+8691,He-Man: Power of Grayskull,GBA,2002.0,Action,0.11,0.04,0.0,0.0,50.0,tbd,E
+8698,Mat Hoffman's Pro BMX 2,GBA,2002.0,Sports,0.11,0.04,0.0,0.0,82.0,tbd,E
+8704,Digimon Battle Spirit 2,GBA,2003.0,Fighting,0.11,0.04,0.0,0.0,63.0,tbd,E
+8753,Cartoon Network Collection: Game Boy Advance Video Special Edition,GBA,2005.0,Misc,0.11,0.04,0.0,0.0,,,
+8788,The Fairly Odd Parents: Clash with the Anti-World,GBA,2005.0,Adventure,0.11,0.04,0.0,0.0,,,
+8807,Prince of Persia: The Sands of Time,GBA,2003.0,Action,0.11,0.04,0.0,0.0,75.0,8.8,T
+8836,Pokémon: Johto Photo Finish: Game Boy Advance Video,GBA,2004.0,Misc,0.11,0.04,0.0,0.0,,,
+8843,Spongebob Squarepants / Fairly Odd Parents Double Pack,GBA,2005.0,Action,0.11,0.04,0.0,0.0,,,
+8874,All-Star Baseball 2003,GBA,2002.0,Sports,0.11,0.04,0.0,0.0,77.0,tbd,E
+8882,Strawberry Shortcake: Game Boy Advance Video Volume 1,GBA,2004.0,Misc,0.11,0.04,0.0,0.0,,,
+8891,Street Fighter Alpha 3,GBA,2002.0,Fighting,0.11,0.04,0.0,0.0,83.0,7.8,T
+8939,Power Pro Kun Pocket 1+2,GBA,2004.0,Sports,0.0,0.0,0.14,0.0,,,
+8940,Medal of Honor: Infiltrator,GBA,2003.0,Shooter,0.11,0.04,0.0,0.0,80.0,7.2,T
+8960,Barbie Superpack: Secret Agent / Groovy Games,GBA,2005.0,Misc,0.1,0.04,0.0,0.0,,,
+8974,Sonic Advance & Sonic Pinball Party Combo Pack,GBA,2005.0,Misc,0.1,0.04,0.0,0.0,,,
+8975,Boktai: The Sun is in Your Hand,GBA,2003.0,Role-Playing,0.1,0.04,0.0,0.0,83.0,9.6,E
+8982,Elf: The Movie,GBA,2004.0,Action,0.1,0.04,0.0,0.0,,tbd,E
+8995,Tennis no Oji-Sama: Aim at The Victory!,GBA,2002.0,Sports,0.0,0.0,0.14,0.0,,,
+9010,Rayman 3,GBA,2003.0,Platform,0.1,0.04,0.0,0.0,83.0,7.8,E
+9021,Klonoa: Empire of Dreams,GBA,2001.0,Platform,0.1,0.04,0.0,0.0,,,
+9046,Shrek 2 and Shark Tale 2-in-1 Pack,GBA,2005.0,Misc,0.1,0.04,0.0,0.0,,,
+9070,Doom,GBA,2001.0,Shooter,0.1,0.04,0.0,0.0,81.0,8.5,T
+9088,Shonen Jump's Shaman King: Master of Spirits,GBA,2004.0,Role-Playing,0.1,0.04,0.0,0.0,,,
+9098,Zapper: One Wicked Cricket!,GBA,2002.0,Platform,0.1,0.04,0.0,0.0,,,
+9180,Gyakuten Saiban 2,GBA,2002.0,Action,0.0,0.0,0.14,0.0,,,
+9185,Jim Henson's the Muppets: On With the Show!,GBA,2003.0,Action,0.1,0.04,0.0,0.0,,,
+9190,Tim Burton's The Nightmare Before Christmas: The Pumpkin King,GBA,2005.0,Platform,0.1,0.04,0.0,0.0,71.0,5.5,E10+
+9215,Star Wars: Jedi Power Battles,GBA,2002.0,Action,0.1,0.04,0.0,0.0,58.0,tbd,T
+9240,Shining Soul,GBA,2002.0,Role-Playing,0.03,0.01,0.09,0.0,58.0,8.5,E
+9250,Fear Factor: Unleashed,GBA,2004.0,Action,0.1,0.04,0.0,0.0,30.0,3,T
+9258,LEGO Island Xtreme Stunts,GBA,2002.0,Racing,0.1,0.04,0.0,0.0,,,
+9266,Hot Wheels: World Race,GBA,2003.0,Racing,0.1,0.04,0.0,0.0,,6.2,E
+9280,Tomb Raider: The Prophecy,GBA,2002.0,Action,0.1,0.04,0.0,0.0,66.0,8.8,T
+9293,Disney's Cinderella: Magical Dreams,GBA,,Platform,0.1,0.04,0.0,0.0,69.0,tbd,E
+9317,James Bond 007: Nightfire,GBA,2003.0,Shooter,0.1,0.04,0.0,0.0,66.0,8.1,T
+9328,Bratz,GBA,2002.0,Platform,0.1,0.04,0.0,0.0,,tbd,E
+9338,Baseball Advance,GBA,2002.0,Sports,0.1,0.04,0.0,0.0,80.0,7.8,E
+9345,Paperboy / Rampage,GBA,2005.0,Misc,0.1,0.04,0.0,0.0,,tbd,E
+9407,WWE Survivor Series,GBA,2004.0,Fighting,0.09,0.04,0.0,0.0,55.0,8.2,T
+9435,Disney's Winnie the Pooh's Rumbly Tumbly Adventure,GBA,2005.0,Platform,0.09,0.03,0.0,0.0,,,
+9452,Fire ProWrestling,GBA,2001.0,Fighting,0.09,0.03,0.0,0.0,,,
+9495,Digimon Racing,GBA,2004.0,Racing,0.09,0.03,0.0,0.0,62.0,tbd,E
+9505,Iridion II,GBA,2003.0,Shooter,0.09,0.03,0.0,0.0,78.0,tbd,E
+9525,Walt Disney Pictures Presents: The Wild,GBA,2006.0,Platform,0.09,0.03,0.0,0.0,,,
+9548,Ty the Tasmanian Tiger 2: Bush Rescue,GBA,2004.0,Platform,0.09,0.03,0.0,0.0,63.0,tbd,E
+9571,Pokémon: For Ho-Oh the Bells Toll!: Game Boy Advance Video,GBA,2004.0,Misc,0.09,0.03,0.0,0.0,,,
+9588,Derby Stallion Advance,GBA,2002.0,Sports,0.0,0.0,0.12,0.0,,,
+9591,Snood,GBA,2001.0,Puzzle,0.09,0.03,0.0,0.0,68.0,tbd,E
+9601,Kelly Slater's Pro Surfer,GBA,2002.0,Sports,0.09,0.03,0.0,0.0,72.0,tbd,E
+9646,Monster Truck Madness,GBA,2003.0,Racing,0.09,0.03,0.0,0.0,75.0,tbd,E
+9654,Disney's Atlantis: The Lost Empire,GBA,2001.0,Platform,0.09,0.03,0.0,0.0,,tbd,E
+9682,Galidor: Defenders of the Outer Dimension,GBA,2002.0,Action,0.09,0.03,0.0,0.0,53.0,tbd,E
+9696,NHL 2002,GBA,2002.0,Sports,0.09,0.03,0.0,0.0,,tbd,E
+9779,SSX 3,GBA,2003.0,Sports,0.09,0.03,0.0,0.0,63.0,tbd,E
+9835,2 Games in 1 Double Pack: Hot Wheels Velocity X / Hot Wheels World Race,GBA,2005.0,Racing,0.09,0.03,0.0,0.0,,,
+9850,Crash Superpack: Crash Bandicoot 2: N-Tranced / Crash Nitro Kart,GBA,2005.0,Misc,0.09,0.03,0.0,0.0,,,
+9851,Famicom Mini: TwinBee,GBA,2004.0,Shooter,0.0,0.0,0.12,0.0,,,
+9859,Ultimate Card Games,GBA,2003.0,Misc,0.09,0.03,0.0,0.0,87.0,,E
+9870,The Bible Game,GBA,2005.0,Misc,0.09,0.03,0.0,0.0,,tbd,E
+9879,"Ed, Edd n Eddy: The Mis-Edventures",GBA,2005.0,Platform,0.08,0.03,0.0,0.0,,tbd,E
+9933,Turok: Evolution,GBA,2002.0,Shooter,0.08,0.03,0.0,0.0,72.0,7,T
+9994,GT Advance 2: Rally Racing,GBA,2001.0,Racing,0.08,0.03,0.0,0.0,77.0,6,E
+10021,Phantasy Star Collection,GBA,2002.0,Role-Playing,0.08,0.03,0.0,0.0,76.0,8.1,E
+10023,LEGO Knights' Kingdom,GBA,2004.0,Action,0.08,0.03,0.0,0.0,62.0,tbd,E
+10032,NBA Jam 2002,GBA,2002.0,Sports,0.08,0.03,0.0,0.0,49.0,tbd,E
+10045,Tom Clancy's Rainbow Six: Rogue Spear,GBA,2002.0,Shooter,0.08,0.03,0.0,0.0,76.0,tbd,T
+10061,Mega Man Battle Chip Challenge,GBA,2003.0,Misc,0.08,0.03,0.0,0.0,54.0,8.3,E
+10116,Sabrina The Teenage Witch: Potion Commotion,GBA,2002.0,Action,0.08,0.03,0.0,0.0,63.0,2.8,E
+10120,Pac-Man Pinball Advance,GBA,2005.0,Misc,0.08,0.03,0.0,0.0,52.0,tbd,E
+10121,Yu Yu Hakusho: Tournament Tactics,GBA,2004.0,Strategy,0.08,0.03,0.0,0.0,,6.8,E
+10133,Disney's Peter Pan: Return to Never Land,GBA,2002.0,Platform,0.08,0.03,0.0,0.0,,,
+10145,Contra Advance: The Alien Wars EX,GBA,2002.0,Shooter,0.08,0.03,0.0,0.0,70.0,tbd,E
+10168,XXX,GBA,2002.0,Action,0.08,0.03,0.0,0.0,50.0,5,E
+10186,Pac-Man World 2,GBA,2005.0,Action,0.08,0.03,0.0,0.0,,6,E
+10230,Famicom Mini: Famicom Tantei Club - Kieta Koukeisha Zenkouhen,GBA,2004.0,Adventure,0.0,0.0,0.11,0.0,,,
+10280,Lady Sia,GBA,2001.0,Platform,0.08,0.03,0.0,0.0,73.0,tbd,E
+10325,Dynasty Warriors Advance,GBA,2005.0,Action,0.08,0.03,0.0,0.0,56.0,tbd,E
+10333,Mega Man Zero 4,GBA,2005.0,Platform,0.08,0.03,0.0,0.0,77.0,9.1,E
+10377,Disney Channel Collection Vol. 1,GBA,2004.0,Misc,0.08,0.03,0.0,0.0,,,
+10383,Space Invaders,GBA,2002.0,Shooter,0.08,0.03,0.0,0.0,,,
+10408,SimCity 2000,GBA,2003.0,Simulation,0.08,0.03,0.0,0.0,62.0,7.8,E
+10450,Banjo-Pilot,GBA,2005.0,Racing,0.07,0.03,0.0,0.0,68.0,5.9,E
+10480,Road Rash: Jailbreak,GBA,2003.0,Racing,0.07,0.03,0.0,0.0,78.0,9.3,T
+10490,Riviera: The Promised Land,GBA,2004.0,Role-Playing,0.07,0.03,0.0,0.0,76.0,9.2,T
+10493,Top Gun: Combat Zones,GBA,2004.0,Simulation,0.07,0.03,0.0,0.0,,,
+10523,Monster Jam: Maximum Destruction,GBA,2002.0,Racing,0.07,0.03,0.0,0.0,58.0,tbd,E
+10603,Van Helsing,GBA,2004.0,Action,0.07,0.03,0.0,0.0,33.0,6.3,T
+10629,L'Aigle de Guerre,GBA,2001.0,Strategy,0.0,0.0,0.1,0.0,,,
+10644,Disney's The Jungle Book,GBA,2002.0,Platform,0.07,0.03,0.0,0.0,60.0,tbd,E
+10651,Tom Clancy's Splinter Cell,GBA,2003.0,Action,0.07,0.03,0.0,0.0,77.0,8.6,T
+10716,Famicom Mini: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo Zenkouhen,GBA,2004.0,Adventure,0.0,0.0,0.1,0.0,,,
+10748,Famicom Mini: Mappy,GBA,2004.0,Platform,0.0,0.0,0.09,0.0,,,
+10792,Ultimate Muscle - The Kinnikuman Legacy: The Path of the Superhero,GBA,2002.0,Fighting,0.05,0.02,0.03,0.0,,,
+10800,Castlevania Double Pack,GBA,2006.0,Platform,0.07,0.03,0.0,0.0,86.0,8.4,T
+10801,Ballistic: Ecks vs. Sever,GBA,2002.0,Shooter,0.07,0.03,0.0,0.0,,,
+10878,Altered Beast: Guardian of the Realms,GBA,2002.0,Action,0.07,0.02,0.0,0.0,63.0,4.8,T
+10898,Barbie and the Magic of Pegasus,GBA,2005.0,Action,0.07,0.02,0.0,0.0,,tbd,E
+10948,The Revenge of Shinobi,GBA,2002.0,Platform,0.07,0.02,0.0,0.0,51.0,tbd,E
+10953,Cabela's Big Game Hunter,GBA,2002.0,Sports,0.07,0.02,0.0,0.0,,,
+10967,Bomberman Max 2: Blue Advance,GBA,2002.0,Puzzle,0.07,0.02,0.0,0.0,75.0,tbd,E
+11009,Top Gun: Firestorm Advance,GBA,2002.0,Shooter,0.07,0.02,0.0,0.0,,,
+11039,Astro Boy: Omega Factor,GBA,2003.0,Action,0.06,0.02,0.0,0.0,85.0,8.6,E
+11068,2-in-1 Game Pack: Spider-Man & Spider-Man 2,GBA,2005.0,Platform,0.06,0.02,0.0,0.0,,,
+11119,Super Puzzle Fighter II,GBA,,Puzzle,0.06,0.02,0.0,0.0,83.0,9.5,E
+11185,Bionicle,GBA,2003.0,Action,0.06,0.02,0.0,0.0,,tbd,E
+11211,LEGO Star Wars II: The Original Trilogy,GBA,2006.0,Action,0.06,0.02,0.0,0.0,55.0,7,E
+11218,Top Gear Rally,GBA,2003.0,Racing,0.06,0.02,0.0,0.0,78.0,7.6,E
+11223,Famicom Mini: Makaimura,GBA,2004.0,Platform,0.0,0.0,0.08,0.0,,,
+11236,ChuChu Rocket!,GBA,2001.0,Strategy,0.06,0.02,0.0,0.0,,,
+11258,Monster House,GBA,2006.0,Adventure,0.06,0.02,0.0,0.0,69.0,9,E
+11286,Famicom Mini: Famicom Mukashi Banashi - Shin Oniga Shima Zenkouhen,GBA,2004.0,Adventure,0.0,0.0,0.08,0.0,,,
+11304,Famicom Mini: Mario Bros.,GBA,2004.0,Platform,0.0,0.0,0.08,0.0,,,
+11305,RockMan EXE 4.5 Real Operation,GBA,2004.0,Role-Playing,0.0,0.0,0.08,0.0,,,
+11306,Rescue Heroes: Billy Blazes,GBA,2003.0,Action,0.06,0.02,0.0,0.0,,,
+11314,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,GBA,2005.0,Adventure,0.06,0.02,0.0,0.0,,,
+11323,Zoids: Legacy,GBA,2003.0,Role-Playing,0.06,0.02,0.0,0.0,,8.9,E
+11327,Onimusha Tactics,GBA,2003.0,Strategy,0.06,0.02,0.0,0.0,64.0,8.7,T
+11337,Ultimate Brain Games,GBA,2003.0,Misc,0.06,0.02,0.0,0.0,80.0,8.3,E
+11342,Gundam Seed: Battle Assault,GBA,2004.0,Fighting,0.06,0.02,0.0,0.0,,,
+11350,Famicom Mini: Adventure Island,GBA,2004.0,Action,0.0,0.0,0.08,0.0,,,
+11358,Shining Force: Resurrection of the Dark Dragon,GBA,2004.0,Role-Playing,0.06,0.02,0.0,0.0,77.0,8.8,T
+11359,Shining Soul II,GBA,2003.0,Role-Playing,0.06,0.02,0.0,0.0,74.0,8.3,E
+11365,Metal Slug Advance,GBA,2004.0,Shooter,0.06,0.02,0.0,0.0,79.0,8.3,T
+11367,Gradius Galaxies,GBA,2001.0,Shooter,0.06,0.02,0.0,0.0,78.0,tbd,E
+11383,Board Game Classics,GBA,2005.0,Misc,0.06,0.02,0.0,0.0,,tbd,E
+11415,FIFA Soccer 2005,GBA,2004.0,Sports,0.06,0.02,0.0,0.0,75.0,7.8,E
+11425,Pinobee: Wings of Adventure,GBA,2001.0,Platform,0.06,0.02,0.0,0.0,61.0,tbd,E
+11529,The King of Fighters EX2: Howling Blood,GBA,2002.0,Fighting,0.06,0.02,0.0,0.0,80.0,9.1,T
+11532,Famicom Mini: SD Gundam World Gachapon Senshi - Scramble Wars,GBA,2004.0,Strategy,0.0,0.0,0.08,0.0,,,
+11537,Famicom Mini: Star Soldier,GBA,2004.0,Shooter,0.0,0.0,0.08,0.0,,,
+11545,Cartoon Network Collection: Game Boy Advance Video Volume 2,GBA,2004.0,Misc,0.06,0.02,0.0,0.0,,,
+11573,Boxing Fever,GBA,2001.0,Sports,0.06,0.02,0.0,0.0,76.0,tbd,E
+11606,Pocket Dogs,GBA,2004.0,Misc,0.06,0.02,0.0,0.0,,,
+11624,LEGO Soccer Mania,GBA,2002.0,Sports,0.06,0.02,0.0,0.0,,,
+11704,GT Advance 3: Pro Concept Racing,GBA,2002.0,Racing,0.05,0.02,0.0,0.0,74.0,tbd,E
+11721,Dragon Ball Z: The Legacy of Goku I & II,GBA,2005.0,Role-Playing,0.05,0.02,0.0,0.0,,,
+11741,Codename: Kids Next Door: Operation S.O.D.A.,GBA,2004.0,Platform,0.05,0.02,0.0,0.0,,tbd,E
+11746,Medal of Honor: Underground,GBA,2002.0,Shooter,0.05,0.02,0.0,0.0,46.0,1.7,T
+11792,Famicom Mini: Hikari Shinwa: Palutena no Kagami,GBA,2004.0,Platform,0.0,0.0,0.07,0.0,,,
+11799,Super Ghouls 'n Ghosts,GBA,2002.0,Platform,0.05,0.02,0.0,0.0,78.0,8.8,E
+11823,Winx Club,GBA,2005.0,Shooter,0.05,0.02,0.0,0.0,,tbd,E
+11836,Bomberman Max 2: Red Advance,GBA,2002.0,Puzzle,0.05,0.02,0.0,0.0,75.0,tbd,E
+11863,Pong / Asteroids / Yars' Revenge,GBA,2005.0,Misc,0.05,0.02,0.0,0.0,,tbd,E
+11880,Mucha Lucha! Mascaritas of the Lost Code,GBA,2003.0,Fighting,0.05,0.02,0.0,0.0,,,
+11894,Archer Maclean's 3D Pool,GBA,2003.0,Misc,0.05,0.02,0.0,0.0,,,
+11903,Disney's Donald Duck Advance,GBA,2001.0,Platform,0.05,0.02,0.0,0.0,,,
+11931,Pitfall: The Lost Expedition,GBA,2003.0,Platform,0.05,0.02,0.0,0.0,66.0,tbd,E
+11934,All-Star Baseball 2004,GBA,2003.0,Sports,0.05,0.02,0.0,0.0,,,
+11952,Famicom Mini: Nazo no Murasame-Jou,GBA,2004.0,Action,0.0,0.0,0.07,0.0,,,
+11966,Disney Sports Skateboarding,GBA,2002.0,Sports,0.05,0.02,0.0,0.0,42.0,tbd,E
+12019,Caesars Palace Advance: Millennium Gold Edition,GBA,2001.0,Misc,0.05,0.02,0.0,0.0,,,
+12038,Let's Ride! Dreamer,GBA,2005.0,Adventure,0.05,0.02,0.0,0.0,,,
+12075,Crayon Shin-Chan: Densetsu o Yobu Omake no To Shukkugaan!,GBA,2006.0,Action,0.0,0.0,0.07,0.0,,,
+12088,River City Ransom EX,GBA,2004.0,Action,0.05,0.02,0.0,0.0,75.0,8.4,T
+12102,Famicom Mini: Wrecking Crew,GBA,2004.0,Puzzle,0.0,0.0,0.07,0.0,,,
+12145,Sudoku Fever,GBA,2006.0,Puzzle,0.05,0.02,0.0,0.0,,tbd,E
+12178,Legends of Wrestling II,GBA,2002.0,Fighting,0.05,0.02,0.0,0.0,24.0,3.7,E
+12182,FIFA Soccer 06,GBA,2005.0,Sports,0.05,0.02,0.0,0.0,,tbd,E
+12190,everGirl,GBA,2005.0,Adventure,0.05,0.02,0.0,0.0,,,
+12193,Batman: Rise of Sin Tzu,GBA,2003.0,Action,0.05,0.02,0.0,0.0,63.0,6.8,E
+12200,X-Men: The Official Game,GBA,2006.0,Action,0.05,0.02,0.0,0.0,55.0,9.3,E10+
+12201,Disney's Party,GBA,2003.0,Misc,0.05,0.02,0.0,0.0,,tbd,E
+12223,Centipede / Breakout / Warlords,GBA,2005.0,Misc,0.05,0.02,0.0,0.0,,tbd,E
+12253,Gunstar Super Heroes,GBA,2005.0,Shooter,0.05,0.02,0.0,0.0,83.0,8.5,E10+
+12256,Frogger Advance: The Great Quest,GBA,2002.0,Action,0.05,0.02,0.0,0.0,55.0,tbd,E
+12260,Pocky & Rocky with Becky,GBA,2001.0,Shooter,0.05,0.02,0.0,0.0,,,
+12277,Hot Wheels: Burnin' Rubber,GBA,2001.0,Racing,0.05,0.02,0.0,0.0,66.0,tbd,E
+12287,Desert Strike Advance,GBA,2002.0,Simulation,0.05,0.02,0.0,0.0,66.0,tbd,E
+12300,ESPN Winter X-Games: Snowboarding 2002,GBA,2000.0,Sports,0.05,0.02,0.0,0.0,,,
+12315,Disney's Magical Quest 2 Starring Mickey and Minnie,GBA,2003.0,Action,0.05,0.02,0.0,0.0,63.0,tbd,E
+12342,Kururin Paradise,GBA,2002.0,Puzzle,0.0,0.0,0.06,0.0,,,
+12349,Rayman: Hoodlum's Revenge,GBA,2005.0,Platform,0.05,0.02,0.0,0.0,61.0,tbd,E
+12363,Famicom Mini: Balloon Fight,GBA,2004.0,Action,0.0,0.0,0.06,0.0,,,
+12369,The Pinball of the Dead,GBA,2002.0,Misc,0.05,0.02,0.0,0.0,79.0,tbd,T
+12373,Tom Clancy's Splinter Cell: Pandora Tomorrow,GBA,2004.0,Action,0.05,0.02,0.0,0.0,68.0,6.2,T
+12408,Tron 2.0: Killer App,GBA,2004.0,Action,0.04,0.02,0.0,0.0,68.0,tbd,E
+12409,Jurassic Park III: Park Builder,GBA,2001.0,Simulation,0.04,0.02,0.0,0.0,65.0,8,E
+12419,LEGO Bionicle,GBA,2001.0,Platform,0.04,0.02,0.0,0.0,,tbd,E
+12447,2 Games in 1: Sonic Pinball Party & Columns Crown,GBA,2005.0,Misc,0.04,0.02,0.0,0.0,,,
+12478,Shonen Jump's Shaman King: Legacy of the Spirits - Soaring Hawk/Sprinting Wolf,GBA,2005.0,Action,0.04,0.02,0.0,0.0,,,
+12479,Bubble Bobble: Old & New,GBA,2002.0,Puzzle,0.04,0.02,0.0,0.0,,,
+12508,Salt Lake 2002,GBA,2002.0,Sports,0.04,0.02,0.0,0.0,55.0,tbd,E
+12574,Tokyo Xtreme Racer Advance,GBA,2005.0,Racing,0.04,0.02,0.0,0.0,,tbd,E
+12596,Rapala Pro Fishing,GBA,2004.0,Sports,0.04,0.02,0.0,0.0,,tbd,E
+12597,Guilty Gear X: Advance Edition,GBA,2002.0,Fighting,0.04,0.02,0.0,0.0,67.0,5.9,T
+12602,Ford Racing 3,GBA,2005.0,Racing,0.04,0.02,0.0,0.0,,tbd,E
+12608,Oddworld: Munch's Oddysee,GBA,2003.0,Platform,0.04,0.02,0.0,0.0,44.0,2.5,E
+12619,Hi Hi Puffy AmiYumi: Kaznapped,GBA,2005.0,Action,0.04,0.02,0.0,0.0,,,
+12620,Broken Sword: The Shadow of the Templars,GBA,2002.0,Adventure,0.04,0.02,0.0,0.0,80.0,7.8,T
+12649,Backyard Skateboarding 2006,GBA,2004.0,Sports,0.04,0.02,0.0,0.0,,,
+12671,Racing Gears Advance,GBA,2004.0,Racing,0.04,0.02,0.0,0.0,83.0,8.9,E
+12724,Zone of the Enders: The Fist of Mars,GBA,2001.0,Role-Playing,0.04,0.02,0.0,0.0,71.0,9,E
+12730,Terminator 3: Rise of the Machines,GBA,2003.0,Action,0.04,0.02,0.0,0.0,50.0,tbd,T
+12785,Scrabble Blast!,GBA,2005.0,Misc,0.04,0.01,0.0,0.0,,,
+12804,MotoGP,GBA,2002.0,Racing,0.04,0.01,0.0,0.0,67.0,tbd,E
+12814,BattleBots: Beyond the BattleBox,GBA,2002.0,Action,0.04,0.01,0.0,0.0,53.0,tbd,E
+12819,Mighty Beanz: Pocket Puzzles,GBA,2004.0,Puzzle,0.04,0.01,0.0,0.0,37.0,tbd,E
+12839,Cabela's Big Game Hunter 2005 Adventures,GBA,2004.0,Sports,0.04,0.01,0.0,0.0,,,
+12865,Worms World Party,GBA,2002.0,Strategy,0.04,0.01,0.0,0.0,75.0,tbd,E
+12866,Medabots: Metabee,GBA,2002.0,Role-Playing,0.04,0.01,0.0,0.0,,,
+12870,Rebelstar: Tactical Command,GBA,2005.0,Strategy,0.04,0.01,0.0,0.0,78.0,9.1,E10+
+12892,Wing Commander: Prophecy,GBA,2003.0,Simulation,0.04,0.01,0.0,0.0,70.0,8.3,T
+12916,Famicom Mini: Dig Dug,GBA,2004.0,Puzzle,0.0,0.0,0.05,0.0,,,
+12917,FIFA Soccer 2003,GBA,2002.0,Sports,0.04,0.01,0.0,0.0,76.0,tbd,E
+12934,Lufia: The Ruins of Lore,GBA,2002.0,Role-Playing,0.04,0.01,0.0,0.0,76.0,8.3,E
+12970,Drill Dozer,GBA,,Platform,0.04,0.01,0.0,0.0,81.0,8.3,E
+13039,Piglet's Big Game,GBA,2003.0,Platform,0.04,0.01,0.0,0.0,,,
+13072,Monster! Bass Fishing,GBA,2003.0,Sports,0.04,0.01,0.0,0.0,,,
+13073,Sigma Star Saga,GBA,2005.0,Role-Playing,0.04,0.01,0.0,0.0,68.0,8.2,E10+
+13086,FIFA Soccer 2004,GBA,2003.0,Sports,0.04,0.01,0.0,0.0,82.0,7.9,E
+13133,Puyo Pop,GBA,2001.0,Puzzle,0.04,0.01,0.0,0.0,84.0,tbd,E
+13145,Jim Henson's Muppets in Spy Muppets: License to Croak,GBA,2003.0,Action,0.04,0.01,0.0,0.0,,,
+13171,Dr. Seuss: Green Eggs and Ham,GBA,2003.0,Action,0.04,0.01,0.0,0.0,,9,E
+13178,Turbo Turtle Adventure,GBA,2002.0,Puzzle,0.04,0.01,0.0,0.0,70.0,tbd,E
+13188,The Lost Vikings,GBA,2003.0,Puzzle,0.04,0.01,0.0,0.0,75.0,9.1,E
+13197,Ty the Tasmanian Tiger 3: Night of the Quinkan,GBA,2005.0,Action,0.04,0.01,0.0,0.0,73.0,tbd,E10+
+13234,Around the World in 80 Days,GBA,2004.0,Action,0.03,0.01,0.0,0.0,40.0,tbd,E
+13239,Pinball Tycoon,GBA,2002.0,Misc,0.03,0.01,0.0,0.0,,tbd,E
+13242,Cartoon Network Block Party,GBA,2004.0,Misc,0.03,0.01,0.0,0.0,52.0,tbd,E
+13249,Super Bust-A-Move,GBA,2001.0,Puzzle,0.03,0.01,0.0,0.0,77.0,tbd,E
+13251,ZooCube,GBA,2002.0,Puzzle,0.03,0.01,0.0,0.0,71.0,tbd,E
+13262,Reign of Fire,GBA,2002.0,Shooter,0.03,0.01,0.0,0.0,61.0,tbd,T
+13273,Barnyard,GBA,2006.0,Action,0.03,0.01,0.0,0.0,56.0,tbd,E
+13288,Rock 'N Roll Racing,GBA,2003.0,Racing,0.03,0.01,0.0,0.0,80.0,9.4,E
+13297,American Bass Challenge,GBA,2001.0,Sports,0.03,0.01,0.0,0.0,69.0,tbd,E
+13334,ESPN Great Outdoor Games Bass 2002,GBA,2001.0,Sports,0.03,0.01,0.0,0.0,57.0,tbd,E
+13339,Punch King,GBA,2002.0,Fighting,0.03,0.01,0.0,0.0,58.0,tbd,E
+13340,V-Rally 3,GBA,2002.0,Racing,0.03,0.01,0.0,0.0,82.0,tbd,E
+13424,The Berenstain Bears and the Spooky Old Tree,GBA,2005.0,Platform,0.03,0.01,0.0,0.0,,,
+13450,Double Dragon Advance,GBA,2003.0,Action,0.03,0.01,0.0,0.0,75.0,8.4,T
+13473,Activision Anthology,GBA,2003.0,Misc,0.03,0.01,0.0,0.0,79.0,tbd,E
+13494,Summon Night Craft Sword Monogatari: Hajimari no Ishi,GBA,2005.0,Role-Playing,0.0,0.0,0.04,0.0,,,
+13516,Millipede / Super Breakout / Lunar Lander,GBA,2005.0,Misc,0.03,0.01,0.0,0.0,,tbd,E
+13534,Boktai 2: Solar Boy Django,GBA,2004.0,Role-Playing,0.03,0.01,0.0,0.0,78.0,8.5,T
+13541,Crushed Baseball,GBA,2004.0,Sports,0.03,0.01,0.0,0.0,,tbd,E
+13542,Dark Arena,GBA,2002.0,Shooter,0.03,0.01,0.0,0.0,65.0,tbd,T
+13553,Trollz: Hair Affair!,GBA,2005.0,Misc,0.03,0.01,0.0,0.0,,,
+13577,Justice League: Chronicles,GBA,2003.0,Platform,0.03,0.01,0.0,0.0,43.0,tbd,E
+13587,Chicken Shoot,GBA,2005.0,Action,0.03,0.01,0.0,0.0,,,
+13595,Advance Guardian Heroes,GBA,2004.0,Role-Playing,0.03,0.01,0.0,0.0,65.0,tbd,E
+13599,Star X,GBA,2002.0,Shooter,0.03,0.01,0.0,0.0,60.0,tbd,E
+13620,Chessmaster,GBA,2002.0,Misc,0.03,0.01,0.0,0.0,76.0,tbd,E
+13641,No Rules: Get Phat,GBA,2001.0,Action,0.03,0.01,0.0,0.0,,,
+13656,The Invincible Iron Man,GBA,2002.0,Action,0.03,0.01,0.0,0.0,68.0,tbd,E
+13746,Catwoman,GBA,2004.0,Action,0.03,0.01,0.0,0.0,61.0,tbd,T
+13804,Superman: Countdown to Apokolips,GBA,2003.0,Platform,0.03,0.01,0.0,0.0,47.0,5.7,E
+13828,Mike Tyson Boxing,GBA,2002.0,Sports,0.03,0.01,0.0,0.0,44.0,tbd,E
+13838,Mission: Impossible - Operation Surma,GBA,2003.0,Platform,0.03,0.01,0.0,0.0,42.0,tbd,T
+13848,Famicom Mini: Clu Clu Land,GBA,2004.0,Puzzle,0.0,0.0,0.04,0.0,,,
+13869,Stuntman,GBA,2003.0,Racing,0.03,0.01,0.0,0.0,77.0,tbd,E
+13883,Tiger Woods PGA Tour Golf,GBA,2002.0,Sports,0.03,0.01,0.0,0.0,,tbd,E
+13913,Klonoa Heroes: Densetsu no Star Medal,GBA,2002.0,Role-Playing,0.0,0.0,0.04,0.0,,,
+13920,Denki Blocks!,GBA,2001.0,Puzzle,0.03,0.01,0.0,0.0,,,
+13967,Dragon Ball: Advanced Adventure,GBA,2004.0,Action,0.03,0.01,0.0,0.0,75.0,8.5,E10+
+13970,The Ripping Friends,GBA,2002.0,Action,0.03,0.01,0.0,0.0,38.0,tbd,E
+13974,Super Army War,GBA,2005.0,Action,0.03,0.01,0.0,0.0,58.0,tbd,T
+13979,Doom II: Hell on Earth,GBA,2002.0,Shooter,0.03,0.01,0.0,0.0,,,
+13999,Big Mutha Truckers,GBA,2005.0,Racing,0.03,0.01,0.0,0.0,,,
+14013,The Sum of All Fears,GBA,2002.0,Shooter,0.03,0.01,0.0,0.0,69.0,tbd,T
+14020,Minority Report: Everybody Runs,GBA,2002.0,Action,0.03,0.01,0.0,0.0,54.0,tbd,T
+14023,Garfield: The Search for Pooky,GBA,2003.0,Platform,0.03,0.01,0.0,0.0,,,
+14032,Gumby vs. the Astrobots,GBA,2005.0,Action,0.03,0.01,0.0,0.0,63.0,tbd,E
+14062,Monster Force,GBA,2002.0,Shooter,0.03,0.01,0.0,0.0,65.0,tbd,E
+14082,Stadium Games,GBA,2003.0,Sports,0.03,0.01,0.0,0.0,,,
+14094,Hot Potato!,GBA,2001.0,Action,0.03,0.01,0.0,0.0,,,
+14114,The Ant Bully,GBA,2006.0,Platform,0.03,0.01,0.0,0.0,,tbd,E
+14116,Sega Arcade Gallery,GBA,2003.0,Misc,0.03,0.01,0.0,0.0,70.0,tbd,E
+14148,Alienators: Evolution Continues,GBA,2001.0,Action,0.03,0.01,0.0,0.0,54.0,tbd,E
+14171,Care Bears - Care Quest,GBA,2005.0,Action,0.02,0.01,0.0,0.0,,,
+14176,Boboboubo Boubobo: Ougi 87.5 Bakuretsu Hanage Shinken,GBA,2002.0,Action,0.0,0.0,0.03,0.0,,,
+14178,Zatch Bell! Electric Arena,GBA,2003.0,Fighting,0.02,0.01,0.0,0.0,,,
+14184,Sky Dancers,GBA,2005.0,Action,0.02,0.01,0.0,0.0,,,
+14186,Silent Scope,GBA,2002.0,Shooter,0.02,0.01,0.0,0.0,70.0,8,T
+14189,Yggdra Union: We'll Never Fight Alone,GBA,2006.0,Role-Playing,0.0,0.0,0.03,0.0,,,
+14200,"Crouching Tiger, Hidden Dragon",GBA,2003.0,Action,0.02,0.01,0.0,0.0,60.0,tbd,T
+14210,Sabre Wulf,GBA,,Platform,0.02,0.01,0.0,0.0,75.0,8,E
+14218,Driven,GBA,2001.0,Racing,0.02,0.01,0.0,0.0,68.0,tbd,E
+14242,Backyard NFL Football 2006,GBA,2005.0,Sports,0.02,0.01,0.0,0.0,,,
+14247,Monster Guardians,GBA,2001.0,Role-Playing,0.0,0.0,0.03,0.0,,,
+14249,An American Tail: Fievel's Gold Rush,GBA,2002.0,Platform,0.02,0.01,0.0,0.0,,,
+14273,James Pond: Codename Robocod,GBA,2005.0,Platform,0.02,0.01,0.0,0.0,,,
+14300,CT Special Forces,GBA,2002.0,Action,0.02,0.01,0.0,0.0,71.0,tbd,T
+14306,FIFA World Cup: Germany 2006,GBA,2006.0,Sports,0.02,0.01,0.0,0.0,57.0,6.9,E
+14308,Earthworm Jim 2,GBA,2002.0,Platform,0.02,0.01,0.0,0.0,45.0,5.7,E
+14319,Driv3r,GBA,2005.0,Racing,0.02,0.01,0.0,0.0,,5.4,M
+14352,Elf Bowling 1 & 2,GBA,2005.0,Sports,0.02,0.01,0.0,0.0,,,
+14364,The Flintstones: Big Trouble in Bedrock,GBA,2001.0,Platform,0.02,0.01,0.0,0.0,,,
+14384,Chicken Shoot 2,GBA,2005.0,Adventure,0.02,0.01,0.0,0.0,,tbd,E10+
+14426,Totally Spies!,GBA,2005.0,Platform,0.02,0.01,0.0,0.0,,,
+14443,Starsky & Hutch,GBA,2003.0,Racing,0.02,0.01,0.0,0.0,,,
+14444,Sitting Ducks,GBA,2003.0,Platform,0.02,0.01,0.0,0.0,35.0,tbd,E
+14511,Eyeshield 21: DevilBats DevilDays,GBA,2006.0,Role-Playing,0.0,0.0,0.03,0.0,,,
+14549,Klonoa 2: Dream Champ Tournament,GBA,2002.0,Platform,0.02,0.01,0.0,0.0,78.0,9.3,E
+14554,Super Collapse! II,GBA,2004.0,Puzzle,0.02,0.01,0.0,0.0,,,
+14556,Golden Nugget Casino / Texas Hold 'Em Double Pack,GBA,2005.0,Misc,0.02,0.01,0.0,0.0,,,
+14559,Smashing Drive,GBA,2004.0,Racing,0.02,0.01,0.0,0.0,,tbd,E
+14566,CIMA: The Enemy,GBA,2003.0,Role-Playing,0.02,0.01,0.0,0.0,70.0,tbd,E
+14574,Marble Madness / Klax,GBA,2005.0,Puzzle,0.02,0.01,0.0,0.0,,tbd,E
+14601,R-Type III: The Third Lightning,GBA,2004.0,Shooter,0.02,0.01,0.0,0.0,46.0,tbd,E
+14608,Atomic Betty,GBA,2005.0,Puzzle,0.02,0.01,0.0,0.0,62.0,7.5,E
+14613,Street Jam Basketball,GBA,2004.0,Sports,0.02,0.01,0.0,0.0,35.0,8,E
+14618,Disney's Aladdin,GBA,2003.0,Platform,0.02,0.01,0.0,0.0,59.0,tbd,E
+14632,Popeye: Rush for Spinach,GBA,2005.0,Platform,0.02,0.01,0.0,0.0,48.0,4.2,E
+14638,Planet of the Apes,GBA,2001.0,Action,0.02,0.01,0.0,0.0,54.0,tbd,E
+14673,Gekido Advance: Kintaro's Revenge,GBA,2002.0,Action,0.02,0.01,0.0,0.0,70.0,7,T
+14677,Power Poke Dash,GBA,2006.0,Sports,0.0,0.0,0.03,0.0,,,
+14690,Buffy the Vampire Slayer: Wrath of the Darkhul King,GBA,2003.0,Action,0.02,0.01,0.0,0.0,44.0,8.6,T
+14701,Calcio Bit,GBA,2006.0,Sports,0.0,0.0,0.03,0.0,,,
+14709,Hajime no Ippo: The Fighting,GBA,2002.0,Fighting,0.0,0.0,0.03,0.0,,,
+14732,Kong: King of Atlantis,GBA,2005.0,Action,0.02,0.01,0.0,0.0,,tbd,E
+14769,Super Duper Sumos,GBA,,Action,0.02,0.01,0.0,0.0,57.0,tbd,E
+14776,Disney Sports Soccer,GBA,2002.0,Sports,0.02,0.01,0.0,0.0,68.0,tbd,E
+14785,Max Payne,GBA,2003.0,Shooter,0.02,0.01,0.0,0.0,78.0,7.8,M
+14807,Greg Hastings' Tournament Paintball Max'd,GBA,2006.0,Shooter,0.02,0.01,0.0,0.0,,tbd,E10+
+14808,Dave Mirra Freestyle BMX 3,GBA,2002.0,Sports,0.02,0.01,0.0,0.0,78.0,tbd,E
+14835,Demon Driver: Time to Burn Rubber!,GBA,2003.0,Racing,0.02,0.01,0.0,0.0,,,
+14850,Jet Grind Radio,GBA,2003.0,Action,0.02,0.01,0.0,0.0,74.0,9.3,E
+14858,Baldur's Gate: Dark Alliance,GBA,2004.0,Role-Playing,0.02,0.01,0.0,0.0,76.0,6.5,T
+14889,Madden NFL 07,GBA,2006.0,Sports,0.02,0.01,0.0,0.0,68.0,9.3,E
+14896,Franklin the Turtle,GBA,2005.0,Misc,0.02,0.01,0.0,0.0,,,
+14903,Gauntlet / Rampart,GBA,2005.0,Misc,0.02,0.01,0.0,0.0,,tbd,E
+14908,Justice League Heroes: The Flash,GBA,2006.0,Action,0.02,0.01,0.0,0.0,72.0,7.4,E10+
+14922,Bookworm,GBA,2004.0,Puzzle,0.02,0.01,0.0,0.0,62.0,,E
+14953,Drome Racers,GBA,2003.0,Racing,0.02,0.01,0.0,0.0,73.0,tbd,E
+14964,Mahou Sensei Negima! Private Lesson 2: Ojama Shimasu Parasite de Chu,GBA,2006.0,Role-Playing,0.0,0.0,0.02,0.0,,,
+15000,Spy Hunter / Super Sprint,GBA,2005.0,Racing,0.02,0.01,0.0,0.0,,,
+15023,Serious Sam Advance,GBA,2004.0,Shooter,0.02,0.01,0.0,0.0,51.0,7.2,M
+15048,Disney's Magical Quest 3 Starring Mickey and Donald,GBA,2003.0,Action,0.02,0.01,0.0,0.0,58.0,tbd,E
+15075,Colin McRae Rally 2.0,GBA,2002.0,Racing,0.02,0.01,0.0,0.0,80.0,tbd,E
+15096,AirForce Delta Storm,GBA,2002.0,Shooter,0.02,0.01,0.0,0.0,71.0,tbd,E
+15126,Thunderbirds,GBA,2004.0,Shooter,0.02,0.01,0.0,0.0,47.0,tbd,E
+15147,DemiKids: Dark Version,GBA,2002.0,Role-Playing,0.02,0.01,0.0,0.0,,,
+15151,Blender Bros.,GBA,2002.0,Platform,0.02,0.01,0.0,0.0,73.0,tbd,E
+15156,DemiKids: Light Version,GBA,2002.0,Role-Playing,0.02,0.01,0.0,0.0,62.0,8.3,E
+15161,Shaman King: Chou Senjiryokketsu 3,GBA,2002.0,Role-Playing,0.0,0.0,0.02,0.0,,,
+15204,Summon Night: Swordcraft Story,GBA,2003.0,Role-Playing,0.02,0.01,0.0,0.0,77.0,8.1,E10+
+15360,Kill.Switch,GBA,2004.0,Shooter,0.02,0.01,0.0,0.0,,tbd,T
+15408,Wakeboarding Unleashed Featuring Shaun Murray,GBA,2003.0,Sports,0.01,0.01,0.0,0.0,67.0,tbd,E
+15415,Nicktoons Collection: Game Boy Advance Video Volume 3,GBA,2005.0,Misc,0.01,0.01,0.0,0.0,,,
+15427,Shonen Jump's Shaman King: Master of Spirits 2,GBA,2005.0,Role-Playing,0.01,0.01,0.0,0.0,,,
+15433,Disney Sports Football,GBA,2002.0,Sports,0.01,0.01,0.0,0.0,62.0,tbd,E
+15448,Prehistorik Man,GBA,2001.0,Platform,0.01,0.01,0.0,0.0,69.0,tbd,E
+15450,F1 2002,GBA,2002.0,Racing,0.01,0.01,0.0,0.0,,tbd,E
+15509,Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation,GBA,2006.0,Action,0.01,0.01,0.0,0.0,,,
+15540,Car Battler Joe,GBA,2001.0,Role-Playing,0.01,0.01,0.0,0.0,77.0,tbd,E
+15574,Virtual Kasparov,GBA,2002.0,Strategy,0.01,0.01,0.0,0.0,70.0,tbd,E
+15608,The Cheetah Girls,GBA,2006.0,Misc,0.01,0.0,0.0,0.0,,tbd,E
+15617,Teenage Mutant Ninja Turtles Double Pack,GBA,2006.0,Action,0.01,0.0,0.0,0.0,,,
+15628,Shrek / Shark Tale Game Boy Advance Video,GBA,2006.0,Misc,0.01,0.0,0.0,0.0,,,
+15635,The Mummy,GBA,2002.0,Action,0.01,0.0,0.0,0.0,72.0,tbd,E
+15665,Barbie as the Princess and the Pauper,GBA,2004.0,Adventure,0.01,0.0,0.0,0.0,,tbd,E
+15706,Kong: The Animated Series,GBA,2002.0,Action,0.01,0.0,0.0,0.0,52.0,tbd,E
+15717,Tiny Toon Adventures: Wacky Stackers,GBA,2001.0,Puzzle,0.01,0.0,0.0,0.0,58.0,tbd,E
+15727,Robopon 2: Cross Version,GBA,2001.0,Role-Playing,0.01,0.0,0.0,0.0,,,
+15731,Ultimate Puzzle Games,GBA,2005.0,Puzzle,0.01,0.0,0.0,0.0,,tbd,E
+15751,Space Channel 5: Ulala's Cosmic Attack,GBA,2002.0,Misc,0.01,0.0,0.0,0.0,55.0,8,E
+15755,Disney Sports Basketball,GBA,2002.0,Sports,0.01,0.0,0.0,0.0,73.0,tbd,E
+15756,Ozzy & Drix,GBA,2003.0,Platform,0.01,0.0,0.0,0.0,,,
+15792,SD Gundam Force,GBA,2004.0,Shooter,0.01,0.0,0.0,0.0,,tbd,E
+15804,Cabbage Patch Kids: The Patch Puppy Rescue,GBA,2007.0,Misc,0.01,0.0,0.0,0.0,,,
+15859,Big Idea's VeggieTales: LarryBoy and the Bad Apple,GBA,2006.0,Action,0.01,0.0,0.0,0.0,,,
+15888,WTA Tour Tennis,GBA,2002.0,Sports,0.01,0.0,0.0,0.0,66.0,tbd,E
+15894,Davis Cup Tennis,GBA,2002.0,Sports,0.01,0.0,0.0,0.0,59.0,tbd,E
+15963,Dead to Rights,GBA,2004.0,Shooter,0.01,0.0,0.0,0.0,40.0,tbd,T
+15999,Games Explosion!,GBA,2006.0,Action,0.01,0.0,0.0,0.0,,,
+16014,Robopon 2: Ring Version,GBA,2001.0,Role-Playing,0.01,0.0,0.0,0.0,68.0,tbd,E
+16019,Dragon Tales: Dragon Adventures,GBA,2003.0,Platform,0.01,0.0,0.0,0.0,,,
+16027,Rayman 10th Anniversary,GBA,2005.0,Platform,0.01,0.0,0.0,0.0,,,
+16085,Blackthorne,GBA,2003.0,Action,0.01,0.0,0.0,0.0,67.0,7.6,T
+16119,Ten Pin Alley 2,GBA,2004.0,Sports,0.01,0.0,0.0,0.0,,tbd,E
+16163,Mortal Kombat: Tournament Edition,GBA,2003.0,Fighting,0.01,0.0,0.0,0.0,75.0,8.1,M
+16169,World Poker Tour,GBA,2005.0,Misc,0.01,0.0,0.0,0.0,,tbd,E
+16186,Road Trip: Shifting Gears,GBA,2002.0,Racing,0.01,0.0,0.0,0.0,,7.6,E
+16227,Monster Rancher Advance 2,GBA,2002.0,Simulation,0.01,0.0,0.0,0.0,79.0,9.4,E
+16245,Hot Wheels: Stunt Track Challenge / World Race,GBA,2006.0,Racing,0.01,0.0,0.0,0.0,,,
+16290,Rave Master: Special Attack Force!,GBA,2002.0,Fighting,0.01,0.0,0.0,0.0,56.0,tbd,T
+16292,Casper,GBA,2002.0,Adventure,0.01,0.0,0.0,0.0,,,
+16303,Super Robot Monkey Team: Game Boy Advance Video Volume 1,GBA,2005.0,Misc,0.01,0.0,0.0,0.0,,,
+16304,Freekstyle,GBA,2003.0,Racing,0.01,0.0,0.0,0.0,65.0,tbd,E
+16318,Thunder Alley,GBA,2004.0,Racing,0.01,0.0,0.0,0.0,23.0,tbd,E
+16339,Kao the Kangaroo,GBA,2001.0,Platform,0.01,0.0,0.0,0.0,52.0,tbd,E
+16380,Smuggler's Run,GBA,2002.0,Racing,0.01,0.0,0.0,0.0,41.0,4.3,E
+16386,CT Special Forces 2: Back in the Trenches,GBA,2003.0,Shooter,0.01,0.0,0.0,0.0,76.0,tbd,T
+16402,Moto Racer Advance,GBA,2002.0,Racing,0.01,0.0,0.0,0.0,86.0,tbd,E
+16404,Duel Masters: Shadow of the Code,GBA,2004.0,Misc,0.01,0.0,0.0,0.0,,tbd,E
+16421,Tringo,GBA,2006.0,Puzzle,0.01,0.0,0.0,0.0,,tbd,E
+16431,Whac-A-Mole,GBA,2005.0,Puzzle,0.01,0.0,0.0,0.0,,tbd,E
+16483,Petz: Hamsterz Life 2,GBA,2007.0,Misc,0.01,0.0,0.0,0.0,,,
+16546,Wade Hixton's Counter Punch,GBA,2004.0,Sports,0.01,0.0,0.0,0.0,78.0,9.5,T
+16563,Razor Freestyle Scooter,GBA,2001.0,Sports,0.01,0.0,0.0,0.0,,,
+16600,Snood 2: On Vacation,GBA,2005.0,Puzzle,0.01,0.0,0.0,0.0,,,
+16601,The Land Before Time: Into the Mysterious Beyond,GBA,2006.0,Platform,0.01,0.0,0.0,0.0,,,
+16627,Karnaaj Rally,GBA,2003.0,Racing,0.01,0.0,0.0,0.0,81.0,9.5,E
+16663,E.T. The Extra-Terrestrial,GBA,2001.0,Action,0.01,0.0,0.0,0.0,46.0,2.4,E
+16669,Super Robot Taisen: Original Generation,GBA,2002.0,Role-Playing,0.01,0.0,0.0,0.0,72.0,tbd,T
+16673,Mortal Kombat: Deadly Alliance,GBA,2002.0,Fighting,0.01,0.0,0.0,0.0,81.0,8.8,M
+16695,Planet Monsters,GBA,2001.0,Action,0.01,0.0,0.0,0.0,67.0,tbd,E
+16708,Woody Woodpecker in Crazy Castle 5,GBA,2002.0,Platform,0.01,0.0,0.0,0.0,,,
+16713,Spirits & Spells,GBA,2003.0,Platform,0.01,0.0,0.0,0.0,,,
