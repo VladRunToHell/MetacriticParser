@@ -1,0 +1,601 @@
+,Name,Platform,Year_of_Release,Critic_Score,User_Score,Rating
+0,New Super Mario Bros.,DS,2006,89,8.6,E
+1,Mario Kart DS,DS,2005,91,8.7,E
+2,Brain Age: Train Your Brain in Minutes a Day,DS,2006,77,6.2,E
+3,Brain Age 2: More Training in Minutes a Day,DS,2007,77,7.2,E
+4,Animal Crossing: Wild World,DS,2005,86,8.1,E
+5,Super Mario 64,DS,2004,85,8.4,E
+6,Mario Party DS,DS,2007,72,7.8,E
+7,Big Brain Academy,DS,2006,74,7.0,E
+8,Dragon Quest IX: Sentinels of the Starry Skies,DS,2010,87,8.5,E10+
+9,Cooking Mama,DS,2006,67,7.2,E
+10,Professor Layton and the Curious Village,DS,2008,85,8.3,E
+11,The Legend of Zelda: Phantom Hourglass,DS,2007,90,7.9,E
+12,LEGO Star Wars: The Complete Saga,DS,2007,80,7.8,E10+
+13,Professor Layton and the Diabolical Box,DS,2009,84,8.3,E10+
+14,Flash Focus: Vision Training in Minutes a Day,DS,2007,59,0.0,E
+15,MySims,DS,2007,67,6.6,E
+16,Cooking Mama 2: Dinner With Friends,DS,2007,70,8.4,E
+17,Guitar Hero: On Tour,DS,2008,71,6.5,E10+
+18,Clubhouse Games,DS,2006,83,6.2,E
+19,The Legend of Zelda: Spirit Tracks,DS,2009,87,7.9,E10+
+20,Professor Layton and the Unwound Future,DS,2010,86,8.7,E10+
+21,Sonic Rush,DS,2005,82,8.1,E
+22,Rhythm Heaven,DS,2009,83,8.1,E
+23,Personal Trainer: Cooking,DS,2008,81,6.2,E
+24,LEGO Batman: The Videogame,DS,2008,72,7.2,E10+
+25,Kirby Super Star Ultra,DS,2008,76,8.8,E
+26,Professor Layton and the Last Specter,DS,2011,83,8.1,E10+
+27,Style Savvy,DS,2009,73,7.3,E
+28,Art Academy,DS,2010,75,7.6,E
+29,LEGO Harry Potter: Years 1-4,DS,2010,72,6.8,E10+
+30,Pokemon Ranger: Shadows of Almia,DS,2008,68,7.8,E
+31,LEGO Indiana Jones: The Original Adventures,DS,2008,80,7.8,E10+
+32,Scribblenauts,DS,2009,79,7.4,E10+
+33,Pokemon Ranger,DS,2006,69,6.8,E
+34,Tetris DS,DS,2006,84,7.4,E
+35,The Sims 2: Pets,DS,2006,49,3.7,T
+36,TouchMaster,DS,2007,71,0.0,E10+
+37,Kirby Squeak Squad,DS,2006,71,7.8,E
+38,Phineas and Ferb,DS,2009,80,5.2,E
+39,Sonic Classic Collection,DS,2010,70,7.8,E
+40,Dragon Quest Monsters: Joker,DS,2007,75,7.0,E10+
+41,Dragon Quest VI: Realms of Revelation,DS,2011,78,8.2,T
+42,Deal or No Deal,DS,2007,20,3.1,E
+43,Personal Trainer: Math,DS,2009,63,0.0,E
+44,Dragon Quest IV: Chapters of the Chosen,DS,2008,80,8.1,E10+
+45,Mario Hoops 3 on 3,DS,2006,69,7.7,E
+46,Guitar Hero: On Tour Decades,DS,2008,72,6.6,E10+
+47,Dragon Quest V: Hand of the Heavenly Bride,DS,2009,84,8.8,E10+
+48,Pokemon Mystery Dungeon: Explorers of Sky,DS,2009,54,9.1,E
+49,MySims Kingdom,DS,2008,58,0.0,E
+50,The Simpsons Game,DS,2007,69,7.0,T
+51,Drawn To Life: SpongeBob SquarePants Edition,DS,2008,68,7.1,E
+52,Super Scribblenauts,DS,2010,81,8.3,E10+
+53,LEGO Battles: Ninjago,DS,2011,59,8.1,E
+54,My Word Coach,DS,2007,71,0.0,E
+55,Dragon Quest Monsters: Joker 2,DS,2011,77,7.9,E
+56,Bakugan: Battle Brawlers,DS,2009,60,7.3,E
+57,Final Fantasy XII: Revenant Wings,DS,2007,81,8.9,E10+
+58,Gardening Mama,DS,2009,60,8.0,E
+59,Chrono Trigger,DS,2008,92,9.2,E10+
+60,Grand Theft Auto: Chinatown Wars,DS,2009,93,7.7,M
+61,Pokemon Ranger: Guardian Signs,DS,2010,68,8.0,E
+62,Namco Museum DS,DS,2007,67,5.8,E
+63,Sonic Colors,DS,2010,79,8.0,E
+64,Mystery Case Files: MillionHeir,DS,2008,65,0.0,E
+65,Tamagotchi Connection: Corner Shop,DS,2006,59,0.0,E
+66,LEGO Battles,DS,2009,65,7.4,E
+67,Ratatouille,DS,2007,64,7.5,E
+68,Diddy Kong Racing DS,DS,2007,63,6.4,E
+69,Mario vs. Donkey Kong 2: March of the Minis,DS,2006,76,7.3,E
+70,LEGO Indiana Jones 2: The Adventure Continues,DS,2009,59,5.8,E10+
+71,Sonic Rush Adventure,DS,2007,78,8.1,E
+72,Plants vs. Zombies,DS,2011,81,8.4,E10+
+73,LEGO Star Wars III: The Clone Wars,DS,2011,66,6.1,E10+
+74,LEGO Star Wars II: The Original Trilogy,DS,2006,47,4.5,E10+
+75,MySims Agents,DS,2009,60,0.0,E
+76,Spore Creatures,DS,2008,65,6.0,E
+77,Call of Duty 4: Modern Warfare,DS,2007,75,6.1,M
+78,Dora the Explorer: Dora Saves the Mermaids,DS,2007,44,4.5,E
+79,Super Princess Peach,DS,2006,75,7.9,E
+80,Pokemon Conquest,DS,2012,80,8.1,E
+81,Kirby: Mass Attack,DS,2011,83,7.8,E
+82,Apollo Justice: Ace Attorney,DS,2008,78,8.1,T
+83,Puzzler Collection,DS,2008,71,0.0,E
+84,Tamagotchi Connection: Corner Shop 2,DS,2006,66,4.8,E
+85,My Weight Loss Coach,DS,2008,63,0.0,E
+86,The Sims 2,DS,2005,70,6.4,T
+87,Phoenix Wright: Ace Attorney,DS,2005,81,9.0,T
+88,LEGO Pirates of the Caribbean: The Video Game,DS,2011,69,7.1,E10+
+89,TouchMaster 2,DS,2008,76,0.0,E
+90,Call of Duty: World at War,DS,2008,75,6.8,M
+91,Fossil Fighters,DS,2009,70,8.2,E
+92,Sonic Chronicles: The Dark Brotherhood,DS,2008,74,6.4,E
+93,Star Wars: The Force Unleashed,DS,2008,61,6.1,T
+94,FIFA Soccer 08,DS,2007,77,5.0,E
+95,The Legendary Starfy,DS,2009,75,8.1,E
+96,Harry Potter and the Order of the Phoenix,DS,2007,51,4.0,E10+
+97,I Spy: Fun House,DS,2007,53,0.0,E
+98,Rayman Raving Rabbids 2,DS,2007,57,4.3,E10+
+99,Golden Sun: Dark Dawn,DS,2010,79,8.1,E10+
+100,The World Ends With You,DS,2008,88,8.6,T
+101,Drawn to Life,DS,2007,73,7.4,E
+102,Pokemon Dash,DS,2005,46,4.8,E
+103,Personal Trainer: Walking,DS,2009,69,7.0,E
+104,Tetris Party Deluxe,DS,2010,76,0.0,E
+105,Metroid Prime Hunters,DS,2006,85,7.3,T
+106,Final Fantasy Tactics A2: Grimoire of the Rift,DS,2008,80,8.9,E10+
+107,Spectrobes,DS,2007,63,6.2,E
+108,Sega Superstars Tennis,DS,2008,65,8.3,E10+
+109,Harvest Moon DS: Island of Happiness,DS,2008,65,8.1,E
+110,Rabbids Go Home,DS,2009,70,5.8,E10+
+111,Kirby: Canvas Curse,DS,2005,86,7.4,E
+112,The Sims 2: Castaway,DS,2007,66,4.6,T
+113,Ace Attorney Investigations: Miles Edgeworth,DS,2010,78,8.0,T
+114,FIFA Soccer 11,DS,2010,63,6.6,E
+115,The Sims 2: Apartment Pets,DS,2008,50,0.0,E
+116,Fossil Fighters: Champions,DS,2011,68,7.9,E
+117,The Sims 3,DS,2010,73,6.1,T
+118,Final Fantasy Crystal Chronicles: Ring of Fates,DS,2008,77,7.1,E10+
+119,100 Classic Books,DS,2010,70,6.1,
+120,LEGO Harry Potter: Years 5-7,DS,2011,69,5.2,E10+
+121,Wario: Master of Disguise,DS,2007,60,6.5,E10+
+122,Drawn to Life: The Next Chapter,DS,2009,72,7.5,E
+123,Bolt,DS,2008,48,6.3,E10+
+124,Harry Potter and the Half-Blood Prince,DS,2009,48,0.0,E10+
+125,Fire Emblem: Shadow Dragon,DS,2009,81,7.3,E10+
+126,Advance Wars: Days of Ruin,DS,2008,86,8.4,E10+
+127,MySims Racing,DS,2009,67,0.0,E
+128,The Golden Compass,DS,2007,43,5.3,E10+
+129,SimCity DS,DS,2007,69,5.3,E
+130,Asphalt: Urban GT,DS,2004,60,7.5,E
+131,Call of Duty: Black Ops,DS,2010,74,6.4,M
+132,Final Fantasy: The 4 Heroes of Light,DS,2010,71,8.6,E10+
+133,Harvest Moon: The Tale of Two Towns,DS,2011,68,7.0,E
+134,Purr Pals,DS,2007,67,7.2,E
+135,CrossworDS,DS,2008,67,6.0,E
+136,Viva Pinata: Pocket Paradise,DS,2008,82,7.3,E
+137,Hotel Dusk: Room 215,DS,2007,78,8.5,T
+138,Phineas and Ferb: Across the 2nd Dimension,DS,2011,47,5.6,E10+
+139,Rune Factory: A Fantasy Harvest Moon,DS,2007,78,7.3,E
+140,Inazuma Eleven,DS,2008,74,8.0,E10+
+141,Jewel Master Egypt,DS,2009,56,0.0,E
+142,WWE SmackDown vs. Raw 2010,DS,2009,75,7.8,T
+143,Star Fox Command,DS,2006,76,6.5,E10+
+144,Mystery Dungeon: Shiren the Wanderer,DS,2008,69,7.6,E
+145,Guinness World Records: The Videogame,DS,2008,70,7.3,E10+
+146,Rune Factory 2: A Fantasy Harvest Moon,DS,2008,77,7.4,E
+147,SimAnimals,DS,2009,70,6.5,E
+148,Spectrobes: Beyond the Portals,DS,2008,70,7.4,E10+
+149,Picross DS,DS,2007,83,7.4,E
+150,Rooms: The Main Building,DS,2010,56,0.0,E
+151,Picross 3D,DS,2010,83,8.2,E
+152,Dragon Ball Z: Supersonic Warriors 2,DS,2005,66,7.5,E10+
+153,Star Wars Battlefront: Elite Squadron,DS,2009,61,5.7,T
+154,FIFA Soccer 09,DS,2008,84,7.6,E
+155,Crash of the Titans,DS,2007,73,6.9,E10+
+156,Children of Mana,DS,2006,65,6.2,E10+
+157,Clash of Elementalists,DS,2013,34,6.3,T
+158,Spider-Man: Friend or Foe,DS,2007,55,7.2,E10+
+159,Final Fantasy Crystal Chronicles: Echoes of Time,DS,2009,75,7.3,E10+
+160,Spider-Man 3,DS,2007,79,6.9,T
+161,Crayola: Treasure Adventures,DS,2007,65,0.0,E
+162,Bleach: The Blade of Fate,DS,2007,83,6.3,T
+163,The New York Times Crosswords,DS,2007,79,0.0,T
+164,Brain Challenge,DS,2008,68,0.0,E
+165,LEGO Rock Band,DS,2009,80,7.3,E10+
+166,Dragon Quest Heroes: Rocket Slime,DS,2006,83,8.0,E
+167,Band Hero,DS,2009,65,6.4,E10+
+168,Master of Illusion,DS,2007,69,0.0,E
+169,My Spanish Coach,DS,2007,73,0.0,E
+170,OkamiDen,DS,2011,82,8.2,E10+
+171,TouchMaster 3,DS,2009,68,0.0,E
+172,Castlevania: Dawn of Sorrow,DS,2005,89,8.5,T
+173,Naruto: Ninja Council 3,DS,2007,56,5.8,E10+
+174,Crash: Mind Over Mutant,DS,2008,45,4.5,E10+
+175,Valkyrie Profile: Covenant of the Plume,DS,2009,74,7.3,T
+176,Marvel Super Hero Squad,DS,2009,61,5.3,E10+
+177,Call of Duty: Modern Warfare: Mobilized,DS,2009,73,7.0,T
+178,Rune Factory 3: A Fantasy Harvest Moon,DS,2010,77,8.4,E
+179,Ghostbusters: The Video Game,DS,2009,55,0.0,T
+180,Naruto: Path of the Ninja,DS,2007,57,5.6,E10+
+181,Castlevania: Portrait of Ruin,DS,2006,85,8.4,T
+182,Sherlock Holmes: The Mystery of the Mummy,DS,2009,57,4.0,E
+183,Advance Wars: Dual Strike,DS,2005,90,8.5,E
+184,Tamagotchi Connection: Corner Shop 3,DS,2008,57,0.0,E
+185,Ghost Trick: Phantom Detective,DS,2011,83,9.5,T
+186,Ice Age: Dawn of the Dinosaurs,DS,2009,54,0.0,E10+
+187,Need for Speed: Nitro,DS,2009,70,6.4,E10+
+188,Guitar Hero On Tour: Modern Hits,DS,2009,70,7.4,E10+
+189,The Legend of Spyro: A New Beginning,DS,2006,68,5.2,E10+
+190,Naruto Shippuden: Ninja Destiny 2,DS,2009,55,3.9,T
+191,Elite Beat Agents,DS,2006,87,8.3,E10+
+192,Castlevania: Order of Ecclesia,DS,2008,85,8.5,T
+193,Dragon Ball Z: Attack of the Saiyans,DS,2009,73,8.0,E10+
+194,Trauma Center: Under the Knife,DS,2005,81,7.0,T
+195,Worms: Open Warfare 2,DS,2007,81,7.5,E10+
+196,Mini Ninjas,DS,2009,61,8.2,E10+
+197,SpongeBob SquarePants: The Yellow Avenger,DS,2005,67,6.2,E
+198,SimCity Creator,DS,2008,69,6.9,E
+199,Puzzle Quest: Challenge of the Warlords,DS,2007,82,6.1,E10+
+200,Iron Man 2,DS,2010,54,6.4,T
+201,Bejeweled 3,DS,2011,75,7.9,E
+202,Mega Man ZX Advent,DS,2007,78,8.0,E10+
+203,Avatar: The Last Airbender,DS,2006,64,8.1,E10+
+204,Bookworm,DS,2009,71,0.0,E
+205,Planet Puzzle League,DS,2007,86,7.2,E
+206,Etrian Odyssey,DS,2007,75,7.9,T
+207,EA Playground,DS,2007,60,2.0,E
+208,The Biggest Loser,DS,2009,63,0.0,E
+209,Etrian Odyssey III: The Drowned City,DS,2010,77,8.4,E10+
+210,Shin Megami Tensei: Devil Survivor 2,DS,2012,79,4.7,T
+211,7 Wonders II,DS,2010,60,5.2,E
+212,Mega Man Zero Collection,DS,2010,78,8.3,E
+213,Star Wars Episode III: Revenge of the Sith,DS,2005,73,7.8,T
+214,Contra 4,DS,2007,83,7.2,T
+215,Madagascar,DS,2005,66,5.8,E10+
+216,Looney Tunes: Duck Amuck,DS,2007,66,7.0,E
+217,Jonas,DS,2009,45,0.0,E
+218,MySims Party,DS,2009,64,0.0,E
+219,Shrek the Third,DS,2007,70,4.7,E10+
+220,Radiant Historia,DS,2011,85,8.6,T
+221,Batman: The Brave and the Bold the Videogame,DS,2010,74,8.1,E10+
+222,Nicktoons: Battle for Volcano Island,DS,2006,59,7.0,E
+223,Glory of Heracles,DS,2010,69,7.1,E10+
+224,John Deere: Harvest in the Heartland,DS,2007,43,0.0,E
+225,Trace Memory,DS,2005,70,7.5,T
+226,Neopets Puzzle Adventure,DS,2008,70,0.0,E
+227,Bratz: Super Babyz,DS,2008,50,0.0,E
+228,Mega Man ZX,DS,2006,76,8.2,E
+229,Shin Megami Tensei: Strange Journey,DS,2010,80,5.2,M
+230,Over the Hedge,DS,2006,71,7.2,E
+231,Pac-Pix,DS,2005,71,7.3,E
+232,Beyblade: Metal Masters,DS,2011,65,5.8,E
+233,Boogie,DS,2007,58,0.0,E10+
+234,My Japanese Coach,DS,2008,59,6.8,E
+235,Fish Tycoon,DS,2007,46,0.0,E
+236,Suikoden Tierkreis,DS,2009,76,7.7,E10+
+237,Shin Megami Tensei: Devil Survivor,DS,2009,84,4.9,T
+238,Etrian Odyssey II: Heroes of Lagaard,DS,2008,82,7.8,E10+
+239,Call of Duty: Modern Warfare 3: Defiance,DS,2011,57,1.4,T
+240,Resident Evil: Deadly Silence,DS,2006,71,8.1,M
+241,Nancy Drew: The Mystery of the Clue Bender Society,DS,2008,46,0.0,E10+
+242,Madden NFL 2005,DS,2004,68,0.0,E
+243,Polarium,DS,2005,73,6.3,E
+244,Metroid Prime Pinball,DS,2005,79,7.5,E
+245,Madden NFL 08,DS,2007,71,8.3,E
+246,Animal Paradise,DS,2008,49,0.0,E
+247,Michael Jackson: The Experience,DS,2010,64,7.5,E10+
+248,Beyblade: Metal Fusion,DS,2010,36,5.0,E
+249,Indiana Jones and the Staff of Kings,DS,2009,50,5.5,T
+250,Final Fantasy Fables: Chocobo Tales,DS,2007,75,7.0,E
+251,Luminous Arc,DS,2007,70,6.7,T
+252,Juiced 2: Hot Import Nights,DS,2007,72,0.0,T
+253,Cradle of Rome,DS,2008,63,0.0,E
+254,Avalon Code,DS,2009,71,7.1,E10+
+255,Naruto: Path of the Ninja 2,DS,2008,62,6.6,E10+
+256,Sands of Destruction,DS,2010,63,8.1,T
+257,Harry Potter and the Goblet of Fire,DS,2005,68,4.8,E10+
+258,Meteos,DS,2005,88,7.8,E
+259,Shaun White Snowboarding,DS,2008,63,0.0,T
+260,Sherlock Holmes and the Mystery of Osborne House,DS,2011,48,0.0,E10+
+261,Lunar Knights,DS,2007,82,7.3,E10+
+262,Need For Speed: Undercover,DS,2008,59,6.6,T
+263,Luminous Arc 2,DS,2008,73,8.3,T
+264,Age of Empires: The Age of Kings,DS,2006,80,8.2,E10+
+265,Dinosaur King,DS,2008,61,7.4,E
+266,Naruto Shippuden: Ninja Council 4,DS,2009,49,4.9,E10+
+267,Touch the Dead,DS,2007,56,0.0,M
+268,Ragnarok DS,DS,2010,53,6.0,E10+
+269,Ultimate Band,DS,2008,69,0.0,E10+
+270,KORG DS-10 Synthesizer,DS,2008,82,6.9,E
+271,Hasbro Family Game Night,DS,2009,57,0.0,E
+272,Jewel Quest: Expeditions,DS,2007,68,0.0,E
+273,Star Wars: The Force Unleashed II,DS,2010,43,5.3,T
+274,Madden NFL 07,DS,2006,70,0.0,E
+275,The Chronicles of Narnia: Prince Caspian,DS,2008,54,3.5,T
+276,Ninja Gaiden: Dragon Sword,DS,2008,83,7.9,T
+277,Age of Empires: Mythologies,DS,2008,78,7.7,E10+
+278,Blue Dragon Plus,DS,2009,69,8.0,E
+279,Dragon Ball Z: Harukanaru Densetsu,DS,2007,57,6.7,E
+280,Infinite Space,DS,2010,75,7.5,T
+281,Marvel: Ultimate Alliance 2,DS,2009,65,4.0,T
+282,Treasure World,DS,2009,68,0.0,E
+283,Bleach: The 3rd Phantom,DS,2009,59,7.5,T
+284,Solatorobo: Red the Hunter,DS,2011,76,8.6,E10+
+285,Chronicles of Mystery: Curse of the Ancient Temple,DS,2009,57,0.0,E
+286,101-in-1 Explosive Megamix,DS,2009,46,2.8,E
+287,Space Invaders Extreme 2,DS,2009,82,7.4,E
+288,Naruto: Ninja Destiny,DS,2008,61,4.0,T
+289,Tomb Raider: Underworld,DS,2008,70,7.0,T
+290,Camping Mama: Outdoor Adventures,DS,2011,51,8.0,E
+291,The Last Airbender,DS,2010,69,6.0,E10+
+292,Shrek SuperSlam,DS,2005,56,4.6,E10+
+293,Six Flags Fun Park,DS,2008,34,0.0,E10+
+294,Burnout Legends,DS,2005,38,4.9,E10+
+295,WWE SmackDown vs. Raw 2009,DS,2008,58,4.8,T
+296,Winning Eleven: Pro Evolution Soccer 2007,DS,2007,63,0.0,E
+297,Skate it,DS,2008,72,4.3,E
+298,Lost in Blue 3,DS,2008,59,7.3,E10+
+299,Dementium: The Ward,DS,2007,72,7.7,M
+300,Sudoku Gridmaster,DS,2006,62,0.0,E
+301,Pac-Man World 3,DS,2005,44,7.0,E
+302,Easy Piano,DS,2010,52,0.0,E
+303,Zoo Keeper,DS,2005,74,0.0,E
+304,TransFormers Animated: The Game,DS,2008,69,0.0,E
+305,Aliens: Infestation,DS,2011,76,8.0,T
+306,True Swing Golf,DS,2006,66,0.0,E
+307,Rio,DS,2011,59,0.0,E10+
+308,Eragon,DS,2006,63,5.3,T
+309,Spyro: Shadow Legacy,DS,2005,50,5.1,E
+310,Custom Robo Arena,DS,2007,74,7.3,E10+
+311,Dragon Ball: Origins 2,DS,2010,70,7.0,T
+312,Time Hollow,DS,2008,64,6.8,T
+313,Monster House,DS,2006,62,0.0,E10+
+314,Lufia: Curse of the Sinistrals,DS,2010,80,7.8,E10+
+315,Bigfoot: Collision Course,DS,2009,26,5.5,E
+316,WordJong,DS,2007,77,0.0,E
+317,Puzzle Quest: Galactrix,DS,2009,75,6.6,E10+
+318,Bleach: Dark Souls,DS,2008,82,7.3,T
+319,Prince of Persia: The Forgotten Sands,DS,2010,57,7.5,T
+320,Space Invaders Extreme,DS,2008,85,6.1,E
+321,Brain Boost: Gamma Wave,DS,2006,40,0.0,E
+322,Ridge Racer DS,DS,2004,63,0.0,E
+323,Brain Boost: Beta Wave,DS,2006,39,0.0,E
+324,The Wizard of Oz: Beyond The Yellow Brick Road,DS,2009,68,6.0,E
+325,SafeCracker: The Ultimate Puzzle Adventure,DS,2009,43,0.0,E
+326,Geometry Wars: Galaxies,DS,2007,79,5.5,E
+327,Heroes of Mana,DS,2007,66,7.7,E10+
+328,Super Dodgeball Brawlers,DS,2008,65,0.0,E
+329,Chicken Shoot,DS,2007,19,4.9,E10+
+330,Arctic Tale,DS,2007,38,0.0,E
+331,Mr. Driller: Drill Spirits,DS,2004,70,5.2,E
+332,Monster Lab,DS,2008,75,6.8,E10+
+333,Travel Games For Dummies,DS,2008,62,0.0,E
+334,Metal Slug 7,DS,2008,70,7.6,T
+335,Magnetica,DS,2006,68,7.1,E
+336,Open Season,DS,2006,72,0.0,E10+
+337,Back At The Barnyard: Slop Bucket Games,DS,2008,49,8.3,E
+338,Vampire Moon: The Mystery of the Hidden Sun,DS,2010,50,0.0,E
+339,Retro Atari Classics,DS,2005,51,0.0,E
+340,Need for Speed Underground 2,DS,2005,65,5.6,E
+341,Top Spin 3,DS,2008,65,0.0,E
+342,Syberia,DS,2008,52,0.0,T
+343,Puzzle Kingdoms,DS,2009,64,0.0,E10+
+344,Brain Assist,DS,2008,53,0.0,E
+345,Monster Rancher DS,DS,2010,58,0.0,E
+346,Ninjatown,DS,2008,80,8.1,E
+347,Anno 1701: Dawn of Discovery,DS,2008,78,7.4,E
+348,Summon Night: Twin Age,DS,2008,73,6.5,E10+
+349,Spider-Man: Battle for New York,DS,2006,68,4.6,E10+
+350,Puzzle de Harvest Moon,DS,2007,41,5.3,E
+351,7 Wonders of the Ancient World,DS,2007,60,5.6,E
+352,Left Brain Right Brain 2,DS,2008,51,0.0,E
+353,Teenage Mutant Ninja Turtles: Arcade Attack,DS,2009,36,6.2,E10+
+354,Space Bust-A-Move,DS,2009,71,0.0,E
+355,Need for Speed: ProStreet,DS,2007,74,7.8,E10+
+356,Impossible Mission,DS,2007,61,0.0,E
+357,Major League Baseball 2K8 Fantasy All-Stars,DS,2008,59,0.0,E
+358,Madden NFL 06,DS,2005,66,0.0,E
+359,Thor: God of Thunder,DS,2011,64,8.0,T
+360,Lunar: Dragon Song,DS,2005,59,4.2,E10+
+361,Horse Life,DS,2007,68,0.0,E
+362,Godzilla Unleashed: Double Smash,DS,2007,28,5.2,E10+
+363,Atelier Annie: Alchemists of Sera Island,DS,2009,70,6.3,E10+
+364,WWE SmackDown vs Raw 2008,DS,2007,61,5.4,T
+365,DiRT 2,DS,2009,73,0.0,T
+366,Lost Magic,DS,2006,68,6.6,E
+367,MX vs. ATV Untamed,DS,2007,61,0.0,E
+368,Zenses: Ocean,DS,2008,59,0.0,E
+369,Peggle: Dual Shot,DS,2009,84,6.4,E
+370,Battles of Prince of Persia,DS,2005,64,7.2,E10+
+371,Marvel Trading Card Game,DS,2007,61,0.0,T
+372,Dragon Ball: Origins,DS,2008,78,7.4,T
+373,Midnight Mysteries: The Edgar Allan Poe Conspiracy,DS,2010,55,0.0,T
+374,Tecmo Bowl: Kickoff,DS,2008,66,0.0,E
+375,Puzzle Quest 2,DS,2010,74,5.7,E10+
+376,Retro Game Challenge,DS,2009,77,5.9,E
+377,Mechanic Master,DS,2008,76,0.0,E
+378,Ping Pals,DS,2004,28,4.3,E
+379,Zubo,DS,2009,75,0.0,E10+
+380,The Hardy Boys: Treasure on the Tracks,DS,2009,65,0.0,E
+381,Dementium II,DS,2010,75,8.4,M
+382,GoldenEye: Rogue Agent,DS,2005,58,7.5,T
+383,de Blob 2,DS,2011,75,7.8,E10+
+384,Guitar Rock Tour,DS,2008,60,0.0,E10+
+385,Cake Mania,DS,2007,55,0.0,E
+386,Army Men: Soldiers of Misfortune,DS,2008,35,0.0,E
+387,Lost in Blue,DS,2005,69,7.4,E10+
+388,Mushroom Men: Rise of the Fungi,DS,2008,45,5.0,E
+389,ATV: Quad Frenzy,DS,2005,35,0.0,E
+390,ATV Quad Kings,DS,2010,47,0.0,E
+391,Dawn of Discovery,DS,2009,82,6.3,T
+392,Naruto Shippuden: Naruto vs. Sasuke,DS,2010,64,6.7,E10+
+393,Hysteria Hospital: Emergency Ward,DS,2009,45,0.0,E
+394,Trauma Center: Under the Knife 2,DS,2008,79,6.1,T
+395,X-Men: The Official Game,DS,2006,50,0.0,T
+396,Princess Debut,DS,2008,71,7.3,E
+397,The Lord of the Rings: Conquest,DS,2009,61,7.5,T
+398,Exit DS,DS,2008,64,5.8,E
+399,WireWay,DS,2009,62,0.0,E
+400,Astro Boy: The Video Game,DS,2009,34,5.5,E10+
+401,Miami Law,DS,2009,56,8.3,T
+402,PictoImage,DS,2008,61,0.0,E
+403,Draglade,DS,2007,71,0.0,E10+
+404,Master of the Monster Lair,DS,2008,56,0.0,E10+
+405,Sudoku Mania,DS,2006,25,0.0,E
+406,Spider-Man: Web of Shadows,DS,2008,77,7.2,T
+407,Cate West: The Vanishing Files,DS,2008,68,0.0,E10+
+408,Harvest Moon: Frantic Farming,DS,2009,72,5.2,E
+409,Blue Dragon: Awakened Shadow,DS,2010,63,7.6,E10+
+410,Star Wars: Lethal Alliance,DS,2006,57,0.0,T
+411,Digimon World DS,DS,2006,71,7.7,E10+
+412,Ford Racing 3,DS,2005,49,0.0,E
+413,Ninja Reflex,DS,2008,54,0.0,E10+
+414,Bejeweled Twist,DS,2010,77,0.0,E
+415,SNK vs. Capcom Card Fighters DS,DS,2007,48,7.0,T
+416,Glory Days 2,DS,2007,73,6.5,E10+
+417,Populous DS,DS,2008,60,0.0,E10+
+418,Snood 2: On Vacation,DS,2005,46,0.0,E
+419,Touch Detective,DS,2006,60,6.4,E10+
+420,InuYasha: Secret of the Divine Jewel,DS,2007,46,3.3,E10+
+421,Tak: The Great Juju Challenge,DS,2005,66,0.0,E
+422,Ultimate Mortal Kombat,DS,2007,73,8.1,M
+423,Jenga World Tour,DS,2007,32,0.0,E
+424,Fighting Fantasy: The Warlock of Firetop Mountain,DS,2009,45,7.6,T
+425,Fullmetal Alchemist: Dual Sympathy,DS,2006,58,5.1,T
+426,Spectral Force Genesis,DS,2010,46,7.8,T
+427,Justice League Heroes,DS,2006,43,0.0,T
+428,Sega Casino,DS,2005,61,0.0,T
+429,Pipe Mania,DS,2008,71,0.0,E
+430,FIFA Street 3,DS,2008,56,0.0,E
+431,Red Bull BC One,DS,2008,48,0.0,E
+432,The Mummy: Tomb of the Dragon Emperor,DS,2008,43,0.0,T
+433,Henry Hatsworth in the Puzzling Adventure,DS,2009,82,6.7,E
+434,Rock Band 3,DS,2010,79,6.1,T
+435,Indianapolis 500 Legends,DS,2007,51,0.0,E
+436,Brain Voyage,DS,2008,52,0.0,E
+437,Knights in the Nightmare,DS,2009,76,7.6,T
+438,Marvel Nemesis: Rise of the Imperfects,DS,2005,34,6.0,T
+439,The Secret Saturdays: Beasts of the 5th Sun,DS,2009,60,0.0,E10+
+440,Miami Nights: Singles in the City,DS,2008,48,0.0,T
+441,Death Jr. and the Science Fair of Doom,DS,2007,47,0.0,E10+
+442,Don King Boxing,DS,2009,71,0.0,T
+443,The Spiderwick Chronicles,DS,2008,60,0.0,E10+
+444,Touch Mechanic,DS,2009,54,0.0,E
+445,Super Robot Taisen OG Saga: Endless Frontier,DS,2009,73,7.6,T
+446,Line Rider 2: Unbound,DS,2008,59,0.0,E
+447,Worms: Open Warfare,DS,2006,64,5.8,E10+
+448,TrackMania DS,DS,2009,75,7.4,E
+449,C.O.P.: The Recruit,DS,2009,55,3.3,T
+450,Soul Bubbles,DS,2008,78,6.9,E
+451,Bangai-O Spirits,DS,2008,83,6.0,E10+
+452,Dawn of Heroes,DS,2010,69,0.0,E10+
+453,Puchi Puchi Virus,DS,2009,73,0.0,E
+454,Elebits: The Adventures of Kai and Zero,DS,2009,75,0.0,E
+455,The Legend of Kage 2,DS,2008,70,7.0,E10+
+456,Superman Returns,DS,2006,33,2.9,T
+457,Chronicles of Mystery: The Secret Tree of Life,DS,2011,78,0.0,E10+
+458,Overlord: Minions,DS,2009,58,0.0,E10+
+459,Prey the Stars,DS,2008,66,0.0,E
+460,Monster Racers,DS,2010,70,6.2,E
+461,Robocalypse,DS,2008,78,6.4,E10+
+462,Homie Rollerz,DS,2008,23,6.0,E
+463,Tornado,DS,2008,44,0.0,E
+464,Digimon World Championship,DS,2008,49,6.5,E
+465,Real Time Conflict: Shogun Empires,DS,2005,35,0.0,E10+
+466,Tomb Raider: Legend,DS,2006,58,7.8,T
+467,Operation: Vietnam,DS,2007,65,0.0,T
+468,Tokyo Beat Down,DS,2009,56,0.0,T
+469,Beat City,DS,2010,70,5.8,E
+470,Classic Action: Devilish,DS,2007,40,0.0,T
+471,Deep Labyrinth,DS,2006,57,0.0,E10+
+472,Tropix,DS,2008,59,0.0,E10+
+473,Alex Rider: Stormbreaker,DS,2006,48,4.9,T
+474,The Tale of Despereaux,DS,2008,75,0.0,E
+475,Jam Sessions 2,DS,2009,66,0.0,E10+
+476,Prince of Persia: The Fallen King,DS,2008,64,5.2,E
+477,Lost in Blue 2,DS,2007,58,7.7,E10+
+478,Elite Forces: Unit 77,DS,2009,61,0.0,T
+479,IL-2 Sturmovik: Birds of Prey,DS,2009,41,2.8,T
+480,Crime Lab: Body of Evidence,DS,2010,53,0.0,T
+481,Frogger: Helmet Chaos,DS,2005,69,0.0,E
+482,My Pet Shop,DS,2009,60,0.0,E
+483,Monster Tale,DS,2011,79,7.9,E
+484,Bionicle Heroes,DS,2006,72,6.2,E10+
+485,From The Abyss,DS,2008,59,6.6,E
+486,Sudoku Ball Detective,DS,2009,54,0.0,E10+
+487,Challenge Me: Brain Puzzles,DS,2009,65,0.0,E
+488,Theme Park,DS,2007,72,6.2,E
+489,DropCast,DS,2008,66,0.0,E
+490,Arkanoid DS,DS,2008,61,8.9,E
+491,Big Bang Mini,DS,2009,78,5.4,E
+492,MLB Power Pros 2008,DS,2008,70,0.0,E
+493,Little League World Series Baseball 2008,DS,2008,61,0.0,E
+494,Showtime Championship Boxing,DS,2007,33,0.0,E10+
+495,Star Trek: Tactical Assault,DS,2006,63,7.3,E
+496,Theresia...,DS,2008,61,8.3,M
+497,Teenage Mutant Ninja Turtles 3: Mutant Nightmare,DS,2005,58,7.3,E10+
+498,Dig Dug: Digging Strike,DS,2005,65,7.1,E
+499,Honeycomb Beat,DS,2007,61,0.0,E
+500,Tiger Woods PGA Tour 08,DS,2007,81,0.0,E
+501,Nanostray,DS,2005,71,5.6,E
+502,Real Soccer 2009,DS,2009,75,0.0,E
+503,X-Men: Destiny,DS,2011,33,5.6,T
+504,Scurge: Hive,DS,2006,70,8.0,E10+
+505,Zendoku,DS,2007,68,0.0,E
+506,Dungeon Explorer: Warriors of Ancient Arts,DS,2008,60,0.0,T
+507,Space Chimps,DS,2008,59,0.0,E10+
+508,Izuna 2: The Unemployed Ninja Returns,DS,2008,65,8.0,T
+509,History Great Empires: Rome,DS,2009,42,8.6,E10+
+510,Xiaolin Showdown,DS,2006,58,0.0,E10+
+511,Unsolved Crimes,DS,2008,66,0.0,T
+512,Black Sigil: Blade of the Exiled,DS,2009,58,8.8,E
+513,Mister Slime,DS,2008,59,0.0,E
+514,Rhapsody: A Musical Adventure,DS,2008,67,7.5,E
+515,Aliens in the Attic,DS,2009,58,0.0,E10+
+516,Captain America: Super Soldier,DS,2011,56,0.0,T
+517,Air Traffic Chaos,DS,2008,66,8.0,E
+518,Ontamarama,DS,2007,71,0.0,E
+519,Nanostray 2,DS,2008,75,7.4,E
+520,Dokapon Journey,DS,2009,60,7.2,E10+
+521,Prism: Light the Way,DS,2007,73,0.0,E
+522,Tenchu: Dark Secret,DS,2006,37,6.0,T
+523,Top Spin 2,DS,2006,51,0.0,E
+524,The Mysterious Case of Dr. Jekyll and Mr. Hyde,DS,2011,39,0.0,T
+525,Guilty Gear Dust Strikers,DS,2006,60,5.7,T
+526,Secret Files: Tunguska,DS,2010,71,7.5,T
+527,Spitfire Heroes: Tales of the Royal Air Force,DS,2008,49,0.0,E10+
+528,Nicktoons: Attack of the Toybots,DS,2007,54,5.4,E
+529,Cartoon Network Racing,DS,2006,55,0.0,E
+530,Code Lyoko,DS,2007,63,7.5,E10+
+531,March of the Penguins,DS,2006,34,2.0,E
+532,Color Cross,DS,2010,72,0.0,E
+533,Bubble Bobble Revolution,DS,2006,38,0.0,E
+534,Pony Friends,DS,2007,67,0.0,E
+535,Danny Phantom: Urban Jungle,DS,2006,61,0.0,E
+536,Looney Tunes: Cartoon Conductor,DS,2008,67,0.0,E
+537,Lux-Pain,DS,2009,48,6.6,T
+538,Fantastic Four: Rise of the Silver Surfer,DS,2007,35,6.8,T
+539,Front Mission,DS,2007,72,6.8,E10+
+540,Shaun the Sheep,DS,2008,58,0.0,E
+541,The Dark Spire,DS,2009,69,8.1,E10+
+542,FIFA Street 2,DS,2006,43,0.0,E
+543,Thrillville: Off the Rails,DS,2007,59,3.3,E10+
+544,Lionel Trains: On Track,DS,2006,47,0.0,E
+545,Super Black Bass Fishing,DS,2006,35,0.0,E
+546,The Chase: Felix Meets Felicity,DS,2009,59,0.0,E
+547,Brothers In Arms DS,DS,2007,72,4.9,T
+548,TMNT,DS,2007,42,2.4,E10+
+549,FIFA World Cup Germany 2006,DS,2006,71,5.7,E
+550,Meteos: Disney Magic,DS,2007,74,0.0,E
+551,Bubble Bobble Double Shot,DS,2008,50,0.0,E
+552,Zoo Hospital,DS,2007,53,0.0,E
+553,Pirates: Duels on the High Seas,DS,2009,50,0.0,E
+554,Electroplankton,DS,2006,71,7.2,E
+555,Arthur and the Invisibles,DS,2007,61,0.0,E10+
+556,Flipper Critters,DS,2007,60,0.0,E
+557,Underground Pool,DS,2007,40,0.0,E
+558,Toy Shop,DS,2008,31,0.0,E
+559,Konami Classics Series: Arcade Hits,DS,2007,76,0.0,E10+
+560,Nacho Libre,DS,2006,56,6.2,E10+
+561,Away: Shuffle Dungeon,DS,2008,65,6.8,E10+
+562,Pet Alien: An Intergalactic Puzzlepalooza,DS,2007,58,0.0,E
+563,Kung Fu Panda: Legendary Warriors,DS,2008,73,0.0,E10+
+564,Turn It Around,DS,2007,39,0.0,E
+565,MechAssault: Phantom War,DS,2006,66,6.0,T
+566,Eco Creatures: Save The Forest,DS,2008,55,0.0,E
+567,My Frogger: Toy Trials,DS,2006,66,0.0,E
+568,My DoItAll,DS,2009,60,0.0,E
+569,Ducati Moto,DS,2008,69,0.0,E
+570,Napoleon Dynamite: The Game,DS,2007,45,0.0,E10+
+571,I Heart Geeks,DS,2011,54,8.1,E
+572,Moto Racer DS,DS,2010,73,0.0,E
+573,Tank Beat,DS,2007,40,0.0,E10+
+574,Inkheart,DS,2009,39,0.0,E
+575,Freedom Wings,DS,2006,46,0.0,E10+
+576,Steal Princess,DS,2009,60,0.0,E10+
+577,SBK: Snowboard Kids,DS,2005,63,0.0,E
+578,Commando: Steel Disaster,DS,2008,64,0.0,E10+
+579,Chicken Hunter,DS,2008,39,0.0,E10+
+580,Jake Hunter: Detective Chronicles,DS,2008,47,0.0,T
+581,B-17: Fortress in the Sky,DS,2007,38,0.0,E10+
+582,Nervous Brickdown,DS,2007,70,6.3,E
+583,Rainbow Islands Revolution,DS,2006,54,0.0,E
+584,Garfield Gets Real,DS,2009,39,6.8,E
+585,Balls of Fury,DS,2007,62,0.0,E10+
+586,NEVES,DS,2007,70,0.0,E
+587,Konductra,DS,2006,60,0.0,E
+588,Zoey 101: Field Trip Fiasco,DS,2007,31,0.0,E
+589,Dragon Booster,DS,2005,33,0.0,E
+590,DJ Star,DS,2009,66,0.0,T
+591,Drone Tactics,DS,2008,74,0.0,E10+
+592,Space Invaders Revolution,DS,2005,49,0.0,E
+593,LifeSigns: Surgical Unit,DS,2007,61,0.0,T
+594,Double Sequence: The Q-Virus Invasion,DS,2008,37,0.0,E
+595,Monster Bomber,DS,2006,55,0.0,E
+596,Fullmetal Alchemist: Trading Card Game,DS,2007,61,0.0,T
+597,The Wild West,DS,2007,35,0.0,E10+
+598,Hoshigami: Ruining Blue Earth Remix,DS,2007,55,6.3,T
+599,Mega Brain Boost,DS,2008,48,0.0,E

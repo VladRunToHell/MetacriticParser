@@ -32,7 +32,6 @@ def get_connect_for_info(game):
             sleep(5)
     return response
 
-
 def get_connect_for_user_score(game, platform):
     url_template = ("https://internal-prod.apigee.fandom.net/v1/xapi/reviews/metacritic/user/games/" + game +
                     "/platform/" + platform + "/stats/web?")
@@ -119,6 +118,7 @@ def get_score_list(game_list_by_platform, platform_name):
 datasets = os.listdir("datasets")
 for dataset in datasets:
     df_name = '.' + os.sep + 'datasets' + os.sep + dataset
+    print(f"\n{dataset[:dataset.find('.')]}\n")
     list_score = get_score_list(pd.read_csv(df_name), dataset[:dataset.find(".")])
     pd.DataFrame(list_score).to_csv(df_name)
 pd.DataFrame(other).to_csv("other_games.csv")
